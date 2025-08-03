@@ -502,7 +502,7 @@ Security Token Service
 
 [codeBuild](codeBuild.md)
 
-[ CloudFormation](CloudFormation.md)
+[CloudFormation](CloudFormation.md)
 
 [クロスアカウントアクセス](クロスアカウントアクセス.md)
 
