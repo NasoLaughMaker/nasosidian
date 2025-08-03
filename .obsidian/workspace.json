@@ -36,19 +36,9 @@
               "icon": "lucide-file",
               "title": "SlowQuey"
             }
-          },
-          {
-            "id": "b0ceb2c59001d37f",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "新規タブ"
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
