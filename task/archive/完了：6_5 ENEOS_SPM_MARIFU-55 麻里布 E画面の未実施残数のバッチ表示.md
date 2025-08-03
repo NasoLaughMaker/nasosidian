@@ -1,0 +1,2 @@
+- [ENEOS_SPM_MARIFU-55](https://vqit.backlog.com/view/ENEOS_SPM_MARIFU-55) 麻里布 E画面の未実施残数のバッチ表示
+- [Issue#5442](https://github.com/Bee2B/eneos-spm/issues/5442)

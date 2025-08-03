@@ -1,0 +1,2 @@
+- [Isssue#5432](https://github.com/Bee2B/eneos-spm/issues/5432)
+- [ENEOS_SPM_MARIFU-49](https://vqit.backlog.com/view/ENEOS_SPM_MARIFU-49) 麻里布 F画面 作業人数を入力・選択をして保存ボタンで保存しても値が保持されない

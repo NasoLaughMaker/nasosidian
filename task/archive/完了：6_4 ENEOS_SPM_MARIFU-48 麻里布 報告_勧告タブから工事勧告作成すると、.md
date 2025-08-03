@@ -1,0 +1,2 @@
+- [ENEOS_SPM_MARIFU-48](https://vqit.backlog.com/view/ENEOS_SPM_MARIFU-48) 麻里布 報告/勧告タブから工事勧告作成すると、作成できない。
+- [Issue#5430](https://github.com/Bee2B/eneos-spm/issues/5430)

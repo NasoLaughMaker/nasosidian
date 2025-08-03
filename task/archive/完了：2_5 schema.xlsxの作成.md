@@ -1,0 +1,3 @@
+- https://github.com/Bee2B/valqua-spm-api/issues/13975
+- https://github.com/Bee2B/eneos-spm/issues/3386
+- https://beeb-jp.slack.com/archives/C037FGAGQE6/p1738738403242449
