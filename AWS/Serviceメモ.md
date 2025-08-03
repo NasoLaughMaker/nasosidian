@@ -496,7 +496,7 @@ Security Token Service
 - AWS Outposts
     - AWSのインフラストラクチャやサービスをオンプレミスに拡張して利用できるフルマネージドサービス。
 
-[Amazon Directory Service](CFL%20&%20SAA%20&%20SAP%2014e817a83f5b80a4b6f8f65dc603b113/Amazon%20Directory%20Service%201bf817a83f5b80e890e4d365ea5f77ca.md)
+[Amazon Directory Service](Amazon%20Directory%20Service.md)
 
 [codeDeploy](CFL%20&%20SAA%20&%20SAP%2014e817a83f5b80a4b6f8f65dc603b113/codeDeploy%201aa817a83f5b805eb5c1c887935ab4c4.md)
 
