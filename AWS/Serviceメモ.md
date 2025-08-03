@@ -122,7 +122,7 @@
             - DBへの書き込みを優先し、必要な時にのみキャッシュにデータを書き込む。リクエスト時には、まずキャッシュを確認し、キャッシュにデータが存在する場合はそのデータを返す。ない場合はDBからデータを取得し、そのデータを返した後にキャッシュに書き込む。リソースの無駄遣いを減らすことができる。
             - キャッシュとデータベース間で一時的なデータの不一致が生じる可能性がある。また、キャッシュからデータを取得できなかった場合には、データ取得に時間がかかることがある。
 
-[Aurora](Aurora%20150817a83f5b80938e6df776c9cd8799.md)
+[Aurora](Aurora.md)
 
 [RDS](RDS.md)
 
@@ -204,7 +204,7 @@
             - Lambda関数のセキュリティグループの設定
             - サブネットごとに接続用のENIを作成
 
-[Amazon ECS(Elastic Container Service)](Amazon%20ECS(Elastic%20Container%20Service)%201ab817a83f5b80b69695c81a0ff796ac.md)
+[Amazon ECS(Elastic Container Service)](Amazon%20ECS(Elastic%20Container%20Service).md)
 
 - Amazon EKS(Elastic Kubernetes Service)
     - AWSが提供するKubernetesのマネージドサービス。
@@ -233,7 +233,7 @@
     - Amazon CloudWatch Custom Metrics
         - 標準で用意されているメトリクス以外に独自で定義することのできるリソース情報のこと
 
-[CloudTrail](CloudTrail%201ab817a83f5b80f98b54f590b267a8fd.md)
+[CloudTrail](CloudTrail.md)
 
 - AWS X-Ray
     - アプリケーションの動作に関するデータを収集・分析できるサービス。主にトラブルシューティング目的で利用され、アプリケーション内のリクエストをトレースし、処理時間やレスポンスを分析することで、パフォーマンスのボトルネックやエラーの発生箇所を特定できる。
@@ -273,7 +273,7 @@
     - 静的ホスティング、デプロイ
     - フルマネージド型のバックエンド
 
-[API Gateway](API%20Gateway%20151817a83f5b80438ad7fc46736fae7d.md)
+[API Gateway](API%20Gateway.md)
 
 - AWS WAF
     - 脆弱性を突く攻撃から、webアプリケーションを保護するサービス。
@@ -385,7 +385,7 @@ Security Token Service
 - CloudHSM
     - ハードウェアセキュリティモジュール(HSM)。AWSクラウドで暗号化キーを簡単に生成して使用できるようにする
 
-[CloudFront](CloudFront%20155817a83f5b80c49374e27d53f1cc26.md)
+[CloudFront](CloudFront.md)
 
 - Secret Manager
     - データベースの認証情報、パスワードなどの任意のシークレット情報をAPI経由で取得できる。
@@ -500,12 +500,12 @@ Security Token Service
 
 [codeDeploy](codeDeploy.md)
 
-[codeBuild](codeBuild%201e9817a83f5b80f58e34c0ebbcc132b0.md)
+[codeBuild](codeBuild.md)
 
-[ CloudFormation](CloudFormation%201e9817a83f5b80b696ebe4e00a9ee145.md)
+[ CloudFormation](CloudFormation.md)
 
 [クロスアカウントアクセス](クロスアカウントアクセス.md)
 
-[AWS Control Tower](AWS%20Control%20Tower%20237817a83f5b8076a6ccca5d0bbd6d7a.md)
+[AWS Control Tower](AWS%20Control%20Tower.md)
 
 [Amazon CodeGuru](Amazon%20CodeGuru%2023c817a83f5b8079ad39d3af9fb4a3ae.md)

@@ -29,12 +29,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AWS/Services/codeDeploy.md",
+                "file": "AWS/Services/Amazon Directory Service.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "codeDeploy"
+              "title": "Amazon Directory Service"
             }
           }
         ],
@@ -199,6 +199,15 @@
   },
   "active": "7ceaafb8314a7a31",
   "lastOpenFiles": [
+    "AWS/Services/Amazon ECS(Elastic Container Service).md",
+    "AWS/Services/API Gateway.md",
+    "AWS/Services/Aurora.md",
+    "AWS/Services/AWS Control Tower.md",
+    "AWS/Services/CloudFormation.md",
+    "AWS/Services/CloudFront.md",
+    "AWS/Services/CloudTrail.md",
+    "AWS/Services/codeBuild.md",
+    "AWS/Services/codeDeploy.md",
     "AWS/Services/Cognito.md",
     "AWS/Services/Direct Connect.md",
     "AWS/Services/Elastic Load Balancing(ELB).md",
@@ -215,20 +224,11 @@
     "AWS/Serviceメモ.md",
     "AWS/Services/無題 1f8817a83f5b800494e8e7af5c803c12.md",
     "AWS/Services/Amazon Directory Service.md",
-    "AWS/Services/Amazon ECS(Elastic Container Service) 1ab817a83f5b80b69695c81a0ff796ac.md",
     "AWS/Services/Amazon CodeGuru 23c817a83f5b8079ad39d3af9fb4a3ae.md",
-    "task/0827鹿島本番反映/ENEOS_SPM_KASHIMA-534.md",
     "AWS/Services/CloudTrail 1ab817a83f5b80f98b54f590b267a8fd/スクリーンショット_2025-07-23_0.33.45.png",
     "AWS/Services/CloudFormation 1e9817a83f5b80b696ebe4e00a9ee145/スクリーンショット_2025-07-20_16.34.06.png",
-    "AWS/Services/codeDeploy.md",
-    "AWS/Services/codeBuild 1e9817a83f5b80f58e34c0ebbcc132b0.md",
-    "AWS/Services/CloudTrail 1ab817a83f5b80f98b54f590b267a8fd.md",
     "AWS/Services/CloudTrail 1ab817a83f5b80f98b54f590b267a8fd",
-    "AWS/Services/CloudFront 155817a83f5b80c49374e27d53f1cc26.md",
-    "AWS/Services/CloudFormation 1e9817a83f5b80b696ebe4e00a9ee145.md",
     "AWS/Services/CloudFormation 1e9817a83f5b80b696ebe4e00a9ee145",
-    "AWS/Services/Aurora 150817a83f5b80938e6df776c9cd8799.md",
-    "AWS/Services/AWS Control Tower 237817a83f5b8076a6ccca5d0bbd6d7a.md",
     "AWS/Services",
     "AWS",
     "12778374-908c-4d44-b1e8-b56fd2bca6b1_Export-5e2471c8-4afd-4b68-9812-7f5b0e1f7634/CFL & SAA & SAP 14e817a83f5b80a4b6f8f65dc603b113/CloudTrail 1ab817a83f5b80f98b54f590b267a8fd/スクリーンショット_2025-07-23_0.33.45.png",

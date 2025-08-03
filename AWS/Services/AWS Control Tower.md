@@ -1,5 +1,3 @@
-# AWS Control Tower
-
 ## 新しいAWSアカウントをControl Towerに自動で登録する方法
 
 1. 新しいAWSアカウントにAWSControlTowerExecutionロールを作成し、AWS Control Tower管理者アカウントがロールを引き受けることができるようにロールを設定する。
