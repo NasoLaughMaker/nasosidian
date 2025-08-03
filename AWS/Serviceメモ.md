@@ -98,7 +98,7 @@
         - NetApp ONTAPファイルシステムを提供するストレージサービス。NFSとSMBの両プロトコルをサポートする共有ファイルストレージを提供し、同じデータに対するマルチプロトコルアクセスが可能。
         - SMBでアクセスする場合、NetApp ONTAP側とWindowsインスタンス側のいずれもActive Directoryに参加する必要がある。
 
-[Direct Connect](Direct%20Connect%20150817a83f5b801e94fdd531b6b8cbeb.md)
+[Direct Connect](Direct%20Connect.md)
 
 - EMR
     - 莫大な量のビックデータを迅速かつ効率的に処理できるウェブサービス
@@ -152,7 +152,7 @@
 
 [サブネット](サブネット.md)
 
-[ENI](ENI%201b1817a83f5b805881a3c1fd0ff5f017.md)
+[ENI](ENI.md)
 
 [Transit Gateway](Transit%20Gateway.md)
 
@@ -317,11 +317,11 @@
 - PowerUser
     - 予めAWSに用意されているIAMポリシーの一つ。IAM、組織、AWSアカウントに掠る操作以外のすべての操作を行える権限を持つ。
 
-[IAM](IAM%201b8817a83f5b805682a0e5539c8a3803.md)
+[IAM](IAM.md)
 
 [Organizations](Organizations.md)
 
-[Cognito](Cognito%20152817a83f5b8042bf4ecb64bf99321c.md)
+[Cognito](Cognito.md)
 
 - Comprehend
     - 自然言語処理を利用して、テキストドキュメントから情報を抽出、分析できるマネージド型のサービス。機械学習を使用して、キーフレーズ抽出、言語検出、構文解析、感情分析を実施できる。
@@ -413,7 +413,7 @@ Security Token Service
 - AWS SDK
     - 複数の異なるプログラミング言語からAWSサービスを効率的に呼び出せる。PythonのパッケージやCのライブラリ、Rubyのgemが該当する。
 
-[Elastic Load Balancing(ELB)](Elastic%20Load%20Balancing(ELB)%20155817a83f5b80658dfafbb49b6523b8.md)
+[Elastic Load Balancing(ELB)](Elastic%20Load%20Balancing(ELB).md)
 
 - snow family
     - データ転送およびエッジコンピューティングのための物理デバイスのシリーズ
@@ -498,7 +498,7 @@ Security Token Service
 
 [Amazon Directory Service](Amazon%20Directory%20Service.md)
 
-[codeDeploy](codeDeploy%201aa817a83f5b805eb5c1c887935ab4c4.md)
+[codeDeploy](codeDeploy.md)
 
 [codeBuild](codeBuild%201e9817a83f5b80f58e34c0ebbcc132b0.md)
 

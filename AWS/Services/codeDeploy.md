@@ -1,5 +1,3 @@
-# codeDeploy
-
 アプリケーションのデプロイに特化。
 
 CloudFormationなどのインフラのデプロイは基本的にできない。

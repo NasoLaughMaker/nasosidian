@@ -1,5 +1,3 @@
-# Elastic Load Balancing(ELB)
-
 - トラフィックを自動で分散する負荷分散器。
 
 ## Application Load Balancer(ALB)
