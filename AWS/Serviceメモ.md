@@ -124,7 +124,7 @@
 
 [Aurora](Aurora%20150817a83f5b80938e6df776c9cd8799.md)
 
-[RDS](RDS%20150817a83f5b803a8b11ff76bcd8a432.md)
+[RDS](RDS.md)
 
 - DynamoDB
     - 結果整合性と強力な整合性からモード選択可。デフォルトでマルチAZが有効。設定オプションをクリックする（ワンクリック）だけで自動スケールが可能。バックアップは設定できるが、自動バックアップはできない。
@@ -148,13 +148,13 @@
 - NATゲートウェイ
     - プライベートサブネットからインターネットへアクセスする際にプライベートIPアドレスをEIPに変換してアクセス可能にする。EIPは必須。パブリックサブネットに設置。プライベートサブネット → インターネット の一方通行に設定可能。
 
-[VPC](VPC%20161817a83f5b80d29d0acf63c1f6f3c0.md)
+[VPC](VPC.md)
 
 [サブネット](サブネット.md)
 
 [ENI](ENI%201b1817a83f5b805881a3c1fd0ff5f017.md)
 
-[Transit Gateway](Transit%20Gateway%20158817a83f5b808c8939f34804f86555.md)
+[Transit Gateway](Transit%20Gateway.md)
 
 - SNS
     - 送信側はトピックを作成、受信側はポリシー指定を行うことで非同期通信を実現(Pub/Sub)
@@ -319,7 +319,7 @@
 
 [IAM](IAM%201b8817a83f5b805682a0e5539c8a3803.md)
 
-[Organizations](Organizations%201b0817a83f5b80c2a974cf8fc9690cd5.md)
+[Organizations](Organizations.md)
 
 [Cognito](Cognito%20152817a83f5b8042bf4ecb64bf99321c.md)
 
@@ -348,7 +348,7 @@
     - メッセージタイマー
         - 特定のメッセージに対して、指定された時間が経過した後に受信可能になる。
 
-[S3](S3%20153817a83f5b80869eefc8c9315b61c2.md)
+[S3](S3.md)
 
 - 自動バックアップ
     - Aurora、RDS、Redshift、ElastiCache for Redisはバックアップ運用をAWSに任せられる。頻度はユーザー、設定する必要あり。
@@ -378,7 +378,7 @@ Security Token Service
 - OpsWorks
     - ChefやPuppet等のマネージド型インスタンスを利用できる構成管理サービス。コードを使用してサーバー構成を自動化。
 
-[Systems Manager](Systems%20Manager%20153817a83f5b80b8a72aea74a2d8ef66.md)
+[Systems Manager](Systems%20Manager.md)
 
 - AWS Secrets Manager
     - Parameter Storeでは標準サービスを無料で利用できる。Secrets Managerは有料である分、シークレット（Parameter Storeでいうパラメーター）を自動的にローテーションする機能がある。
@@ -504,7 +504,7 @@ Security Token Service
 
 [ CloudFormation](CloudFormation%201e9817a83f5b80b696ebe4e00a9ee145.md)
 
-[クロスアカウントアクセス](クロスアカウントアクセス%201eb817a83f5b803583e3e0d4c53f1eea.md)
+[クロスアカウントアクセス](クロスアカウントアクセス.md)
 
 [AWS Control Tower](AWS%20Control%20Tower%20237817a83f5b8076a6ccca5d0bbd6d7a.md)
 
