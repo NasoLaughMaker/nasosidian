@@ -27,12 +27,14 @@
             "id": "7ceaafb8314a7a31",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "AWS/Services/CloudTrail/スクリーンショット_2025-07-23_0.33.45.png"
+                "file": "AWS/Serviceメモ.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "スクリーンショット_2025-07-23_0.33.45"
+              "icon": "lucide-file",
+              "title": "Serviceメモ"
             }
           }
         ],
@@ -197,15 +199,17 @@
   },
   "active": "7ceaafb8314a7a31",
   "lastOpenFiles": [
+    "AWS/Services/CloudFormation.md",
+    "AWS/Services/CloudFormation 1e9817a83f5b80b696ebe4e00a9ee145/スクリーンショット_2025-07-20_16.34.06.png",
+    "AWS/Services/CloudTrail.md",
+    "AWS/Services/CloudTrail_event.png",
     "AWS/Services/Amazon CodeGuru.md",
     "AWS/Services/Amazon Directory Service.md",
     "AWS/Services/Amazon ECS(Elastic Container Service).md",
     "AWS/Services/API Gateway.md",
     "AWS/Services/Aurora.md",
     "AWS/Services/AWS Control Tower.md",
-    "AWS/Services/CloudFormation.md",
     "AWS/Services/CloudFront.md",
-    "AWS/Services/CloudTrail.md",
     "AWS/Services/codeBuild.md",
     "AWS/Services/codeDeploy.md",
     "AWS/Services/Cognito.md",
@@ -222,9 +226,6 @@
     "AWS/Services/クロスアカウントアクセス.md",
     "AWS/Services/サブネット.md",
     "AWS/Serviceメモ.md",
-    "AWS/Services/無題 1f8817a83f5b800494e8e7af5c803c12.md",
-    "AWS/Services/CloudTrail/スクリーンショット_2025-07-23_0.33.45.png",
-    "AWS/Services/CloudFormation 1e9817a83f5b80b696ebe4e00a9ee145/スクリーンショット_2025-07-20_16.34.06.png",
     "AWS/Services/CloudTrail",
     "AWS/Services/CloudFormation 1e9817a83f5b80b696ebe4e00a9ee145",
     "AWS/Services",
