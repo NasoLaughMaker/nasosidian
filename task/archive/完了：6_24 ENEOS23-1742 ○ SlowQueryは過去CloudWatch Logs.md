@@ -1,0 +1,2 @@
+sloqQueryとperformance insight/datadogによって得られる情報を比較し、sloqQueryの設定の必要性について検討する。検討したのちbacklogに記載する。
+

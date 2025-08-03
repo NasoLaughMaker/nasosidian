@@ -1,0 +1,2 @@
+[ENEOS_SPM_KASHIMA-485](https://vqit.backlog.com/view/ENEOS_SPM_KASHIMA-485) 鹿島 作業安全指示書 F画面チェック1~10について、タイトル項目（紫枠に白字）をON→OFFにして詳細項目が非表示になっても、詳細項目をONにしているとそのまま作業安全指示書に反映される
+[Issue](https://github.com/Bee2B/eneos-spm/issues/6246)

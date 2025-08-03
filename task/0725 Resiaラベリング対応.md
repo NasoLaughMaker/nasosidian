@@ -1,0 +1,5 @@
+- [ENEOS23-1969](https://vqit.backlog.com/view/ENEOS23-1969) 堺：Redisラベリング対応
+- [ENEOS_KAWASAKI-915](https://vqit.backlog.com/view/ENEOS_KAWASAKI-915) 川崎：Redisラベリング対応
+- [ENEOS_SPM_KASHIMA-537](https://vqit.backlog.com/view/ENEOS_SPM_KASHIMA-537) 鹿島：Redisラベリング対応
+- [ENEOS_SPM_MIZUSHIMA-351](https://vqit.backlog.com/view/ENEOS_SPM_MIZUSHIMA-351) 水島：Redisラベリング対応
+- [ENEOS_SPM_MARIFU-215](https://vqit.backlog.com/view/ENEOS_SPM_MARIFU-215) 麻里布：Redisラベリング対応

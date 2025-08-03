@@ -1,0 +1,2 @@
+- [Issue#5416](https://github.com/Bee2B/eneos-spm/issues/5416)
+- [ENEOS_SPM_MARIFU-53](https://vqit.backlog.com/view/ENEOS_SPM_MARIFU-53) 麻里布 Backlogへのメール送信宛先をDBで管理する
