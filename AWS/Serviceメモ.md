@@ -98,7 +98,7 @@
         - NetApp ONTAPファイルシステムを提供するストレージサービス。NFSとSMBの両プロトコルをサポートする共有ファイルストレージを提供し、同じデータに対するマルチプロトコルアクセスが可能。
         - SMBでアクセスする場合、NetApp ONTAP側とWindowsインスタンス側のいずれもActive Directoryに参加する必要がある。
 
-[Direct Connect](CFL%20&%20SAA%20&%20SAP%2014e817a83f5b80a4b6f8f65dc603b113/Direct%20Connect%20150817a83f5b801e94fdd531b6b8cbeb.md)
+[Direct Connect](Direct%20Connect%20150817a83f5b801e94fdd531b6b8cbeb.md)
 
 - EMR
     - 莫大な量のビックデータを迅速かつ効率的に処理できるウェブサービス
@@ -122,9 +122,9 @@
             - DBへの書き込みを優先し、必要な時にのみキャッシュにデータを書き込む。リクエスト時には、まずキャッシュを確認し、キャッシュにデータが存在する場合はそのデータを返す。ない場合はDBからデータを取得し、そのデータを返した後にキャッシュに書き込む。リソースの無駄遣いを減らすことができる。
             - キャッシュとデータベース間で一時的なデータの不一致が生じる可能性がある。また、キャッシュからデータを取得できなかった場合には、データ取得に時間がかかることがある。
 
-[Aurora](CFL%20&%20SAA%20&%20SAP%2014e817a83f5b80a4b6f8f65dc603b113/Aurora%20150817a83f5b80938e6df776c9cd8799.md)
+[Aurora](Aurora%20150817a83f5b80938e6df776c9cd8799.md)
 
-[RDS](CFL%20&%20SAA%20&%20SAP%2014e817a83f5b80a4b6f8f65dc603b113/RDS%20150817a83f5b803a8b11ff76bcd8a432.md)
+[RDS](RDS%20150817a83f5b803a8b11ff76bcd8a432.md)
 
 - DynamoDB
     - 結果整合性と強力な整合性からモード選択可。デフォルトでマルチAZが有効。設定オプションをクリックする（ワンクリック）だけで自動スケールが可能。バックアップは設定できるが、自動バックアップはできない。
@@ -148,13 +148,13 @@
 - NATゲートウェイ
     - プライベートサブネットからインターネットへアクセスする際にプライベートIPアドレスをEIPに変換してアクセス可能にする。EIPは必須。パブリックサブネットに設置。プライベートサブネット → インターネット の一方通行に設定可能。
 
-[VPC](CFL%20&%20SAA%20&%20SAP%2014e817a83f5b80a4b6f8f65dc603b113/VPC%20161817a83f5b80d29d0acf63c1f6f3c0.md)
+[VPC](VPC%20161817a83f5b80d29d0acf63c1f6f3c0.md)
 
-[サブネット](CFL%20&%20SAA%20&%20SAP%2014e817a83f5b80a4b6f8f65dc603b113/%E3%82%B5%E3%83%95%E3%82%99%E3%83%8D%E3%83%83%E3%83%88%201be817a83f5b807287c0d5c98f8d7586.md)
+[サブネット](サブネット.md)
 
-[ENI](CFL%20&%20SAA%20&%20SAP%2014e817a83f5b80a4b6f8f65dc603b113/ENI%201b1817a83f5b805881a3c1fd0ff5f017.md)
+[ENI](ENI%201b1817a83f5b805881a3c1fd0ff5f017.md)
 
-[Transit Gateway](CFL%20&%20SAA%20&%20SAP%2014e817a83f5b80a4b6f8f65dc603b113/Transit%20Gateway%20158817a83f5b808c8939f34804f86555.md)
+[Transit Gateway](Transit%20Gateway%20158817a83f5b808c8939f34804f86555.md)
 
 - SNS
     - 送信側はトピックを作成、受信側はポリシー指定を行うことで非同期通信を実現(Pub/Sub)
@@ -204,7 +204,7 @@
             - Lambda関数のセキュリティグループの設定
             - サブネットごとに接続用のENIを作成
 
-[Amazon ECS(Elastic Container Service)](CFL%20&%20SAA%20&%20SAP%2014e817a83f5b80a4b6f8f65dc603b113/Amazon%20ECS(Elastic%20Container%20Service)%201ab817a83f5b80b69695c81a0ff796ac.md)
+[Amazon ECS(Elastic Container Service)](Amazon%20ECS(Elastic%20Container%20Service)%201ab817a83f5b80b69695c81a0ff796ac.md)
 
 - Amazon EKS(Elastic Kubernetes Service)
     - AWSが提供するKubernetesのマネージドサービス。
@@ -233,7 +233,7 @@
     - Amazon CloudWatch Custom Metrics
         - 標準で用意されているメトリクス以外に独自で定義することのできるリソース情報のこと
 
-[CloudTrail](CFL%20&%20SAA%20&%20SAP%2014e817a83f5b80a4b6f8f65dc603b113/CloudTrail%201ab817a83f5b80f98b54f590b267a8fd.md)
+[CloudTrail](CloudTrail%201ab817a83f5b80f98b54f590b267a8fd.md)
 
 - AWS X-Ray
     - アプリケーションの動作に関するデータを収集・分析できるサービス。主にトラブルシューティング目的で利用され、アプリケーション内のリクエストをトレースし、処理時間やレスポンスを分析することで、パフォーマンスのボトルネックやエラーの発生箇所を特定できる。
@@ -273,7 +273,7 @@
     - 静的ホスティング、デプロイ
     - フルマネージド型のバックエンド
 
-[API Gateway](CFL%20&%20SAA%20&%20SAP%2014e817a83f5b80a4b6f8f65dc603b113/API%20Gateway%20151817a83f5b80438ad7fc46736fae7d.md)
+[API Gateway](API%20Gateway%20151817a83f5b80438ad7fc46736fae7d.md)
 
 - AWS WAF
     - 脆弱性を突く攻撃から、webアプリケーションを保護するサービス。
@@ -312,16 +312,16 @@
             - デフォルトで無効
             - 指定した接続先への応答確認をします
 
-[](CFL%20&%20SAA%20&%20SAP%2014e817a83f5b80a4b6f8f65dc603b113/%E7%84%A1%E9%A1%8C%201f8817a83f5b800494e8e7af5c803c12.md)
+[](無題%201f8817a83f5b800494e8e7af5c803c12.md)
 
 - PowerUser
     - 予めAWSに用意されているIAMポリシーの一つ。IAM、組織、AWSアカウントに掠る操作以外のすべての操作を行える権限を持つ。
 
-[IAM](CFL%20&%20SAA%20&%20SAP%2014e817a83f5b80a4b6f8f65dc603b113/IAM%201b8817a83f5b805682a0e5539c8a3803.md)
+[IAM](IAM%201b8817a83f5b805682a0e5539c8a3803.md)
 
-[Organizations](CFL%20&%20SAA%20&%20SAP%2014e817a83f5b80a4b6f8f65dc603b113/Organizations%201b0817a83f5b80c2a974cf8fc9690cd5.md)
+[Organizations](Organizations%201b0817a83f5b80c2a974cf8fc9690cd5.md)
 
-[Cognito](CFL%20&%20SAA%20&%20SAP%2014e817a83f5b80a4b6f8f65dc603b113/Cognito%20152817a83f5b8042bf4ecb64bf99321c.md)
+[Cognito](Cognito%20152817a83f5b8042bf4ecb64bf99321c.md)
 
 - Comprehend
     - 自然言語処理を利用して、テキストドキュメントから情報を抽出、分析できるマネージド型のサービス。機械学習を使用して、キーフレーズ抽出、言語検出、構文解析、感情分析を実施できる。
@@ -348,7 +348,7 @@
     - メッセージタイマー
         - 特定のメッセージに対して、指定された時間が経過した後に受信可能になる。
 
-[S3](CFL%20&%20SAA%20&%20SAP%2014e817a83f5b80a4b6f8f65dc603b113/S3%20153817a83f5b80869eefc8c9315b61c2.md)
+[S3](S3%20153817a83f5b80869eefc8c9315b61c2.md)
 
 - 自動バックアップ
     - Aurora、RDS、Redshift、ElastiCache for Redisはバックアップ運用をAWSに任せられる。頻度はユーザー、設定する必要あり。
@@ -378,14 +378,14 @@ Security Token Service
 - OpsWorks
     - ChefやPuppet等のマネージド型インスタンスを利用できる構成管理サービス。コードを使用してサーバー構成を自動化。
 
-[Systems Manager](CFL%20&%20SAA%20&%20SAP%2014e817a83f5b80a4b6f8f65dc603b113/Systems%20Manager%20153817a83f5b80b8a72aea74a2d8ef66.md)
+[Systems Manager](Systems%20Manager%20153817a83f5b80b8a72aea74a2d8ef66.md)
 
 - AWS Secrets Manager
     - Parameter Storeでは標準サービスを無料で利用できる。Secrets Managerは有料である分、シークレット（Parameter Storeでいうパラメーター）を自動的にローテーションする機能がある。
 - CloudHSM
     - ハードウェアセキュリティモジュール(HSM)。AWSクラウドで暗号化キーを簡単に生成して使用できるようにする
 
-[CloudFront](CFL%20&%20SAA%20&%20SAP%2014e817a83f5b80a4b6f8f65dc603b113/CloudFront%20155817a83f5b80c49374e27d53f1cc26.md)
+[CloudFront](CloudFront%20155817a83f5b80c49374e27d53f1cc26.md)
 
 - Secret Manager
     - データベースの認証情報、パスワードなどの任意のシークレット情報をAPI経由で取得できる。
@@ -413,7 +413,7 @@ Security Token Service
 - AWS SDK
     - 複数の異なるプログラミング言語からAWSサービスを効率的に呼び出せる。PythonのパッケージやCのライブラリ、Rubyのgemが該当する。
 
-[Elastic Load Balancing(ELB)](CFL%20&%20SAA%20&%20SAP%2014e817a83f5b80a4b6f8f65dc603b113/Elastic%20Load%20Balancing(ELB)%20155817a83f5b80658dfafbb49b6523b8.md)
+[Elastic Load Balancing(ELB)](Elastic%20Load%20Balancing(ELB)%20155817a83f5b80658dfafbb49b6523b8.md)
 
 - snow family
     - データ転送およびエッジコンピューティングのための物理デバイスのシリーズ
@@ -498,14 +498,14 @@ Security Token Service
 
 [Amazon Directory Service](Amazon%20Directory%20Service.md)
 
-[codeDeploy](CFL%20&%20SAA%20&%20SAP%2014e817a83f5b80a4b6f8f65dc603b113/codeDeploy%201aa817a83f5b805eb5c1c887935ab4c4.md)
+[codeDeploy](codeDeploy%201aa817a83f5b805eb5c1c887935ab4c4.md)
 
-[codeBuild](CFL%20&%20SAA%20&%20SAP%2014e817a83f5b80a4b6f8f65dc603b113/codeBuild%201e9817a83f5b80f58e34c0ebbcc132b0.md)
+[codeBuild](codeBuild%201e9817a83f5b80f58e34c0ebbcc132b0.md)
 
-[ CloudFormation](CFL%20&%20SAA%20&%20SAP%2014e817a83f5b80a4b6f8f65dc603b113/CloudFormation%201e9817a83f5b80b696ebe4e00a9ee145.md)
+[ CloudFormation](CloudFormation%201e9817a83f5b80b696ebe4e00a9ee145.md)
 
-[クロスアカウントアクセス](CFL%20&%20SAA%20&%20SAP%2014e817a83f5b80a4b6f8f65dc603b113/%E3%82%AF%E3%83%AD%E3%82%B9%E3%82%A2%E3%82%AB%E3%82%A6%E3%83%B3%E3%83%88%E3%82%A2%E3%82%AF%E3%82%BB%E3%82%B9%201eb817a83f5b803583e3e0d4c53f1eea.md)
+[クロスアカウントアクセス](クロスアカウントアクセス%201eb817a83f5b803583e3e0d4c53f1eea.md)
 
-[AWS Control Tower](CFL%20&%20SAA%20&%20SAP%2014e817a83f5b80a4b6f8f65dc603b113/AWS%20Control%20Tower%20237817a83f5b8076a6ccca5d0bbd6d7a.md)
+[AWS Control Tower](AWS%20Control%20Tower%20237817a83f5b8076a6ccca5d0bbd6d7a.md)
 
-[Amazon CodeGuru](CFL%20&%20SAA%20&%20SAP%2014e817a83f5b80a4b6f8f65dc603b113/Amazon%20CodeGuru%2023c817a83f5b8079ad39d3af9fb4a3ae.md)
+[Amazon CodeGuru](Amazon%20CodeGuru%2023c817a83f5b8079ad39d3af9fb4a3ae.md)
