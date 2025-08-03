@@ -508,4 +508,4 @@ Security Token Service
 
 [AWS Control Tower](AWS%20Control%20Tower.md)
 
-[Amazon CodeGuru](Amazon%20CodeGuru%2023c817a83f5b8079ad39d3af9fb4a3ae.md)
+[Amazon CodeGuru](Amazon%20CodeGuru.md)

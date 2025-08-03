@@ -27,14 +27,12 @@
             "id": "7ceaafb8314a7a31",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "AWS/Services/Amazon Directory Service.md",
-                "mode": "source",
-                "source": false
+                "file": "AWS/Services/CloudTrail/スクリーンショット_2025-07-23_0.33.45.png"
               },
-              "icon": "lucide-file",
-              "title": "Amazon Directory Service"
+              "icon": "lucide-image",
+              "title": "スクリーンショット_2025-07-23_0.33.45"
             }
           }
         ],
@@ -199,6 +197,8 @@
   },
   "active": "7ceaafb8314a7a31",
   "lastOpenFiles": [
+    "AWS/Services/Amazon CodeGuru.md",
+    "AWS/Services/Amazon Directory Service.md",
     "AWS/Services/Amazon ECS(Elastic Container Service).md",
     "AWS/Services/API Gateway.md",
     "AWS/Services/Aurora.md",
@@ -223,11 +223,9 @@
     "AWS/Services/サブネット.md",
     "AWS/Serviceメモ.md",
     "AWS/Services/無題 1f8817a83f5b800494e8e7af5c803c12.md",
-    "AWS/Services/Amazon Directory Service.md",
-    "AWS/Services/Amazon CodeGuru 23c817a83f5b8079ad39d3af9fb4a3ae.md",
-    "AWS/Services/CloudTrail 1ab817a83f5b80f98b54f590b267a8fd/スクリーンショット_2025-07-23_0.33.45.png",
+    "AWS/Services/CloudTrail/スクリーンショット_2025-07-23_0.33.45.png",
     "AWS/Services/CloudFormation 1e9817a83f5b80b696ebe4e00a9ee145/スクリーンショット_2025-07-20_16.34.06.png",
-    "AWS/Services/CloudTrail 1ab817a83f5b80f98b54f590b267a8fd",
+    "AWS/Services/CloudTrail",
     "AWS/Services/CloudFormation 1e9817a83f5b80b696ebe4e00a9ee145",
     "AWS/Services",
     "AWS",

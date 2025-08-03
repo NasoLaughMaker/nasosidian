@@ -1,5 +1,3 @@
-# Amazon CodeGuru
-
 # Amazon CodeGuru Reviewer
 
 ソースコードの静的解析によって、セキュリティ脆弱性やコードの品質問題を自動検出・レビューする
