@@ -20,4 +20,6 @@
 		- example.com mail server > mail.example.com
 - TXTレコード
 	- ドメインに関連するテキスト情報を提供する。SPFレコードやDKIMといったセキュリティ関連の情報で利用される
-		- SPF
+		-   SPF情報 "v=spf1 +a +mx +ip4:192.168.0.1 ~all"
+- NSレコード
+	- そのドメインのネームサーバーを指定する。これによりドメイン名の解決をお
