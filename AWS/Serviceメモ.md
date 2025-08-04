@@ -509,4 +509,4 @@ Security Token Service
 [AWS Control Tower](AWS%20Control%20Tower.md)
 
 [Amazon CodeGuru](Amazon%20CodeGuru.md)
-VPN
+[VPN Client](VPN)
