@@ -2799,7 +2799,7 @@ API計測の表作成
 - [x] [ENEOS23-2012](https://vqit.backlog.com/view/ENEOS23-2012) 【本番】【ENEOS堺】【500エラー】定修：記録>設検記録>保存ボタン押下時にDBのタイムアウトエラーが発生
 
 ## 優先事項
-- [ ] 夏季休暇申請
+
 - [x] SlowQuery集計
 - [ ] ヘルスチェック集計
 - [x] datadog集計対象の整理
@@ -2818,5 +2818,7 @@ API計測の表作成
 - [ ] Sentry発報分離
 - [ ] selenium-gridの導入
 - [ ] GithubActionsの導入
+- [ ] 夏季休暇申請
+	- [x] 8/15
 
 ## 明日以降
