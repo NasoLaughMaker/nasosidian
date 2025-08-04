@@ -2795,6 +2795,8 @@ API計測の表作成
 	- [ ] 夕方
 
 ## 差し込みタスク
+- [x] [ENEOS23-2014](https://vqit.backlog.com/view/ENEOS23-2014) 【本番】【ENEOS堺】【502エラー】担当機器設定>記録>設検検査で保存ボタン押下時に発生するタイムアウトエラー
+- [x] [ENEOS23-2012](https://vqit.backlog.com/view/ENEOS23-2012) 【本番】【ENEOS堺】【500エラー】定修：記録>設検記録>保存ボタン押下時にDBのタイムアウトエラーが発生
 
 ## 優先事項
 - [ ] 夏季休暇申請
@@ -2809,6 +2811,7 @@ API計測の表作成
 	- [ ] 麻里布
 	- [ ] 根岸
 - [ ] [ENEOS_SPM_MIZUSHIMA-324](https://vqit.backlog.com/view/ENEOS_SPM_MIZUSHIMA-324) websocketチューニング
+	- 伊豆
 - [ ] [ENEOS_SPM_MIZUSHIMA-325](https://vqit.backlog.com/view/ENEOS_SPM_MIZUSHIMA-325) 工事予定表の速度改善
 
 ## 変動作業
