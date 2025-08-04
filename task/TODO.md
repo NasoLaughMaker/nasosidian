@@ -2810,8 +2810,8 @@ API計測の表作成
 	- [ ] 水島
 	- [ ] 麻里布
 	- [ ] 根岸
-- [ ] [ENEOS_SPM_MIZUSHIMA-324](https://vqit.backlog.com/view/ENEOS_SPM_MIZUSHIMA-324) websocketチューニング
-	- 伊豆
+- [x] [ENEOS_SPM_MIZUSHIMA-324](https://vqit.backlog.com/view/ENEOS_SPM_MIZUSHIMA-324) websocketチューニング
+	- 伊豆さんが対応してくれたので、私の方での対応は不要
 - [ ] [ENEOS_SPM_MIZUSHIMA-325](https://vqit.backlog.com/view/ENEOS_SPM_MIZUSHIMA-325) 工事予定表の速度改善
 
 ## 変動作業
