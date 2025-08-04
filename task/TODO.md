@@ -2802,7 +2802,7 @@ API計測の表作成
 - [ ] 夏季休暇申請
 - [x] SlowQuery集計
 - [ ] ヘルスチェック集計
-- [ ] datadog集計対象の整理
+- [x] datadog集計対象の整理
 - [ ] datadog dev/STG反映
 	- [ ] 堺
 	- [ ] 川崎
