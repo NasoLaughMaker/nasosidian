@@ -29,12 +29,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "task/TODO.md",
+                "file": "AWS/Serviceメモ.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "TODO"
+              "title": "Serviceメモ"
             }
           }
         ],
@@ -199,12 +199,12 @@
   },
   "active": "993e9253bdb85f7d",
   "lastOpenFiles": [
+    "task/TODO.md",
     "task/0725 Resiaラベリング対応.md",
     "task/0728 datadog移行対応.md",
     "task/週次定例/datadog集計対象整理.md",
     "task/週次定例/ヘルスチェック検討.md",
     "task/週次定例/SlowQuey.md",
-    "task/TODO.md",
     "conflict-files-obsidian-git.md",
     "0804 datadog集計対象整理.md",
     "AWS/Serviceメモ.md",
