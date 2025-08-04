@@ -13,4 +13,8 @@
 	- ドメイン名をIPv4アドレスにマッピングする
 		- example.com > 192.168.0.1
 - CNAMEレコード
-	- 一つのドメイン
+	- 一つのドメイン名を別のドメイン名にマッピングする
+		- www.example.com > example.com
+- MXレコード
+	- ドメインのメールを処理するサーバーを指定する
+		- example.com mail serv
