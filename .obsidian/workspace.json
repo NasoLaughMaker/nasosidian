@@ -29,12 +29,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "task/0804 datadog集計対象整理.md",
+                "file": "task/週次定例/datadog集計対象整理.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "0804 datadog集計対象整理"
+              "title": "datadog集計対象整理"
             }
           },
           {
@@ -43,12 +43,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "task/無題のファイル.md",
+                "file": "task/週次定例/ヘルスチェック検討.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "無題のファイル"
+              "title": "ヘルスチェック検討"
             }
           }
         ],
@@ -211,13 +211,13 @@
       "command-palette:コマンドパレットを開く": false
     }
   },
-  "active": "da04bc3e138ed72b",
+  "active": "dc93686e3211e2fc",
   "lastOpenFiles": [
-    "task/0804 datadog集計対象整理.md",
-    "task/無題のファイル.md",
+    "task/週次定例/SlowQuey.md",
+    "task/週次定例/datadog集計対象整理.md",
+    "task/週次定例/ヘルスチェック検討.md",
     "task/TODO.md",
     "task/0728 datadog移行対応.md",
-    "task/週次定例/SlowQuey.md",
     "task/0707 Sentryのアラートを環境ごとに分ける.md",
     "task/0725 Resiaラベリング対応.md",
     "task/0624 ENEOS23-1780 RDSやEC2のCPUのアラーム閾値について.md",
