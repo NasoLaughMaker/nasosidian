@@ -199,8 +199,9 @@
   },
   "active": "993e9253bdb85f7d",
   "lastOpenFiles": [
-    "AWS/Services/VPN Client.md",
+    "AWS/Services/Auto Scaling.md",
     "AWS/Serviceメモ.md",
+    "AWS/Services/VPN Client.md",
     "AWS/Services/CloudFormation.md",
     "AWS/Services/Amazon CodeGuru.md",
     "task/TODO.md",
@@ -226,7 +227,6 @@
     "AWS/Services/Direct Connect.md",
     "AWS/Services/Elastic Load Balancing(ELB).md",
     "AWS/Services/ENI.md",
-    "AWS/Services/IAM.md",
     "AWS/Services/CloudTrail",
     "AWS/Services/CloudFormation 1e9817a83f5b80b696ebe4e00a9ee145",
     "AWS/Services",
