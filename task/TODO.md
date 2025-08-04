@@ -2797,7 +2797,6 @@ API計測の表作成
 ## 差し込みタスク
 - [x] [ENEOS23-2014](https://vqit.backlog.com/view/ENEOS23-2014) 【本番】【ENEOS堺】【502エラー】担当機器設定>記録>設検検査で保存ボタン押下時に発生するタイムアウトエラー
 - [x] [ENEOS23-2012](https://vqit.backlog.com/view/ENEOS23-2012) 【本番】【ENEOS堺】【500エラー】定修：記録>設検記録>保存ボタン押下時にDBのタイムアウトエラーが発生
-
 ## 優先事項
 - [x] SlowQuery集計
 - [ ] ヘルスチェック集計
