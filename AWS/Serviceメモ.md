@@ -496,17 +496,11 @@ Security Token Service
 - AWS Outposts
     - AWSのインフラストラクチャやサービスをオンプレミスに拡張して利用できるフルマネージドサービス。
 
-[Amazon Directory Service](Amazon%20Directory%20Service.md)
-
-[codeDeploy](codeDeploy.md)
-
-[codeBuild](codeBuild.md)
-
-[CloudFormation](CloudFormation.md)
-
-[クロスアカウントアクセス](クロスアカウントアクセス.md)
-
-[AWS Control Tower](AWS%20Control%20Tower.md)
-
-[Amazon CodeGuru](Amazon%20CodeGuru.md)
-[VPN Client](VPN)
+- [Amazon Directory Service](Amazon%20Directory%20Service.md)
+- [codeDeploy](codeDeploy.md)
+- [codeBuild](codeBuild.md)
+- [CloudFormation](CloudFormation.md)
+- [クロスアカウントアクセス](クロスアカウントアクセス.md)
+- [AWS Control Tower](AWS%20Control%20Tower.md)
+- [Amazon CodeGuru](Amazon%20CodeGuru.md)
+- [VPN Client](VPN%20Client.md)
