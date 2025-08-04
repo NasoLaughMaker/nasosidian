@@ -43,12 +43,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "task/0728 datadog移行対応.md",
+                "file": "task/TODO.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "0728 datadog移行対応"
+              "title": "TODO"
             }
           }
         ],
@@ -213,6 +213,7 @@
   },
   "active": "950768c243766402",
   "lastOpenFiles": [
+    "task/0728 datadog移行対応.md",
     "task/TODO.md",
     "task/0827鹿島本番反映/ENEOS_SPM_KASHIMA-534.md",
     "task/0827鹿島本番反映",
@@ -239,7 +240,6 @@
     "AWS/Services/Amazon Directory Service.md",
     "AWS/Services/Amazon CodeGuru.md",
     "AWS/Services/AWS Control Tower.md",
-    "AWS/Services/API Gateway.md",
     "AWS/Services",
     "AWS",
     "task/鹿島本番反映8月",
