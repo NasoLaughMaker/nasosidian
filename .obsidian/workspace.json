@@ -24,7 +24,7 @@
             }
           },
           {
-            "id": "dc93686e3211e2fc",
+            "id": "993e9253bdb85f7d",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -37,7 +37,8 @@
               "title": "ヘルスチェック検討"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -183,7 +184,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 451.5
+    "width": 201.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -196,44 +197,50 @@
       "command-palette:コマンドパレットを開く": false
     }
   },
-  "active": "eea409a01e3d5991",
+  "active": "993e9253bdb85f7d",
   "lastOpenFiles": [
+    "task/週次定例/SlowQuey.md",
     "task/週次定例/datadog集計対象整理.md",
     "task/週次定例/ヘルスチェック検討.md",
-    "task/週次定例/SlowQuey.md",
     "task/TODO.md",
-    "task/0728 datadog移行対応.md",
-    "task/0707 Sentryのアラートを環境ごとに分ける.md",
-    "task/0725 Resiaラベリング対応.md",
-    "task/0624 ENEOS23-1780 RDSやEC2のCPUのアラーム閾値について.md",
-    "task/ENEOS23-1491 【本番】【ENEOS堺】【エラー】ログイン後のホーム画面でエラーとなってい.md",
-    "task/0827鹿島本番反映/ENEOS_SPM_KASHIMA-534.md",
-    "task/0827鹿島本番反映",
-    "AWS/Services/サブネット.md",
-    "AWS/Services/クロスアカウントアクセス.md",
-    "AWS/Services/codeDeploy.md",
+    "conflict-files-obsidian-git.md",
+    "0804 datadog集計対象整理.md",
+    "AWS/Serviceメモ.md",
+    "AWS/Services/CloudFormation.md",
+    "AWS/Services/CloudFormation 1e9817a83f5b80b696ebe4e00a9ee145/スクリーンショット_2025-07-20_16.34.06.png",
+    "AWS/Services/CloudTrail.md",
+    "AWS/Services/CloudTrail_event.png",
+    "AWS/Services/Amazon CodeGuru.md",
+    "AWS/Services/Amazon Directory Service.md",
+    "AWS/Services/Amazon ECS(Elastic Container Service).md",
+    "AWS/Services/API Gateway.md",
+    "AWS/Services/Aurora.md",
+    "AWS/Services/AWS Control Tower.md",
+    "AWS/Services/CloudFront.md",
     "AWS/Services/codeBuild.md",
-    "AWS/Services/VPC.md",
-    "AWS/Services/Transit Gateway.md",
-    "AWS/Services/Systems Manager.md",
-    "AWS/Services/S3.md",
-    "AWS/Services/RDS.md",
-    "AWS/Services/Organizations.md",
-    "AWS/Services/IAM.md",
+    "AWS/Services/codeDeploy.md",
+    "AWS/Services/Cognito.md",
+    "AWS/Services/Direct Connect.md",
     "AWS/Services/Elastic Load Balancing(ELB).md",
     "AWS/Services/ENI.md",
-    "AWS/Services/Direct Connect.md",
-    "AWS/Services/Cognito.md",
-    "AWS/Services/CloudTrail.md",
+    "AWS/Services/IAM.md",
+    "AWS/Services/Organizations.md",
+    "AWS/Services/RDS.md",
+    "AWS/Services/S3.md",
+    "AWS/Services/CloudTrail",
+    "AWS/Services/CloudFormation 1e9817a83f5b80b696ebe4e00a9ee145",
     "AWS/Services",
     "AWS",
-    "task/鹿島本番反映8月",
-    "knowledge/CPU",
-    "knowledge/Rails",
-    "knowledge/Database",
-    "valqua",
-    "task/archive",
-    "knowledge",
+    "12778374-908c-4d44-b1e8-b56fd2bca6b1_Export-5e2471c8-4afd-4b68-9812-7f5b0e1f7634/CFL & SAA & SAP 14e817a83f5b80a4b6f8f65dc603b113/CloudTrail 1ab817a83f5b80f98b54f590b267a8fd/スクリーンショット_2025-07-23_0.33.45.png",
+    "12778374-908c-4d44-b1e8-b56fd2bca6b1_Export-5e2471c8-4afd-4b68-9812-7f5b0e1f7634/CFL & SAA & SAP 14e817a83f5b80a4b6f8f65dc603b113/CloudFormation 1e9817a83f5b80b696ebe4e00a9ee145/スクリーンショット_2025-07-20_16.34.06.png",
+    "12778374-908c-4d44-b1e8-b56fd2bca6b1_Export-5e2471c8-4afd-4b68-9812-7f5b0e1f7634/CFL & SAA & SAP 14e817a83f5b80a4b6f8f65dc603b113/CloudTrail 1ab817a83f5b80f98b54f590b267a8fd",
+    "12778374-908c-4d44-b1e8-b56fd2bca6b1_Export-5e2471c8-4afd-4b68-9812-7f5b0e1f7634/CFL & SAA & SAP 14e817a83f5b80a4b6f8f65dc603b113/CloudFormation 1e9817a83f5b80b696ebe4e00a9ee145",
+    "12778374-908c-4d44-b1e8-b56fd2bca6b1_Export-5e2471c8-4afd-4b68-9812-7f5b0e1f7634/CFL & SAA & SAP 14e817a83f5b80a4b6f8f65dc603b113",
+    "12778374-908c-4d44-b1e8-b56fd2bca6b1_Export-5e2471c8-4afd-4b68-9812-7f5b0e1f7634",
+    "CFL & SAA & SAP 14e817a83f5b80a4b6f8f65dc603b113/CloudFormation 1e9817a83f5b80b696ebe4e00a9ee145/スクリーンショット_2025-07-20_16.34.06.png",
+    "CFL & SAA & SAP 14e817a83f5b80a4b6f8f65dc603b113/CloudTrail 1ab817a83f5b80f98b54f590b267a8fd/スクリーンショット_2025-07-23_0.33.45.png",
+    "CFL & SAA & SAP 14e817a83f5b80a4b6f8f65dc603b113/CloudTrail 1ab817a83f5b80f98b54f590b267a8fd",
+    "CFL & SAA & SAP 14e817a83f5b80a4b6f8f65dc603b113/CloudFormation 1e9817a83f5b80b696ebe4e00a9ee145",
     "無題のファイル.canvas"
   ]
 }
