@@ -17,4 +17,7 @@
 		- www.example.com > example.com
 - MXレコード
 	- ドメインのメールを処理するサーバーを指定する
-		- example.com mail serv
+		- example.com mail server > mail.example.com
+- TXTレコード
+	- ドメインに関連するテキスト情報を提供する。SPFレコードやDKIMといったセキュリティ関連の情報で利用される
+		- SPF
