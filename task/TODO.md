@@ -2787,30 +2787,23 @@ API計測の表作成
 
 ---
 
-# 8/1(金)
+# 8/4(月)
 ## 通常作業
 - 500アラートメール確認
-	- [x] 出社後
+	- [ ] 出社後
 	- [ ] お昼
 	- [ ] 夕方
 
 ## 差し込みタスク
-- [x] [ENEOS23-2009](https://vqit.backlog.com/view/ENEOS23-2009) 【本番】【ENEOS堺】【500エラー】工事>進捗管理 許可証の日付移動時に発生したエラー
-- [x] [ENEOS_KAWASAKI-925](https://vqit.backlog.com/view/ENEOS_KAWASAKI-925) 【本番】【ENEOS川崎】【502エラー】B画面：エクスポート時に発生するエラー
 
 ## 優先事項
-- [x] 月末処理
-	- [x] 交通費
-	- [x] zac
-	- [x] KOT
-- [x] datadog PR作成
-	- [x] 堺
-	- [x] 川崎
-	- [x] 鹿島
-	- [x] 水島
-	- [x] 麻里布
-	- [x] 根岸
-- [x] SlowQuery対応
+- [ ] datadog dev/STG反映
+	- [ ] 堺
+	- [ ] 川崎
+	- [ ] 鹿島
+	- [ ] 水島
+	- [ ] 麻里布
+	- [ ] 根岸
 - [ ] [ENEOS_SPM_MIZUSHIMA-324](https://vqit.backlog.com/view/ENEOS_SPM_MIZUSHIMA-324) websocketチューニング
 - [ ] [ENEOS_SPM_MIZUSHIMA-325](https://vqit.backlog.com/view/ENEOS_SPM_MIZUSHIMA-325) 工事予定表の速度改善
 
