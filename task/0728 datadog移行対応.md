@@ -8,4 +8,6 @@
 - [ ] datadog-agentの設定
 
 
-# 
+# TODO
+- [ ] pumaメトリクスを収集するため、`config/puma.rb`にcontrol_urlとcontrol_tokenを設定する
+- [ ] 
