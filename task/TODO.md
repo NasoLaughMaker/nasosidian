@@ -2825,15 +2825,12 @@ API計測の表作成
 ## 通常作業
 - 500アラートメール確認
 	- [x] 出社後
-	- [x] お昼
-	- [x] 夕方
+	- [ ] お昼
+	- [ ] 夕方
 ## 差し込みタスク
-- [x] [ENEOS23-2014](https://vqit.backlog.com/view/ENEOS23-2014) 【本番】【ENEOS堺】【502エラー】担当機器設定>記録>設検検査で保存ボタン押下時に発生するタイムアウトエラー
-- [x] [ENEOS23-2012](https://vqit.backlog.com/view/ENEOS23-2012) 【本番】【ENEOS堺】【500エラー】定修：記録>設検記録>保存ボタン押下時にDBのタイムアウトエラーが発生
+
 ## 優先事項
-- [x] SlowQuery集計
 - [ ] ヘルスチェック集計
-- [x] datadog集計対象の整理
 - [ ] datadog dev/STG反映
 	- [ ] 堺
 	- [ ] 川崎
@@ -2841,8 +2838,6 @@ API計測の表作成
 	- [ ] 水島
 	- [ ] 麻里布
 	- [ ] 根岸
-- [x] [ENEOS_SPM_MIZUSHIMA-324](https://vqit.backlog.com/view/ENEOS_SPM_MIZUSHIMA-324) websocketチューニング
-	- 伊豆さんが対応してくれたので、私の方での対応は不要
 - [ ] [ENEOS_SPM_MIZUSHIMA-325](https://vqit.backlog.com/view/ENEOS_SPM_MIZUSHIMA-325) 工事予定表の速度改善
 
 ## 変動作業
