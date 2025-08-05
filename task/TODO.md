@@ -2845,6 +2845,5 @@ API計測の表作成
 - [ ] selenium-gridの導入
 - [ ] GithubActionsの導入
 - [ ] 夏季休暇申請
-	- [x] 8/15
 
 ## 明日以降
