@@ -10,4 +10,4 @@
 
 # TODO
 - [ ] pumaメトリクスを収集するため、`config/puma.rb`にcontrol_urlとcontrol_tokenを設定する
-- [ ] 
+- [ ] serviceファイルに
