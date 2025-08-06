@@ -2833,15 +2833,47 @@ API計測の表作成
 ## 優先事項
 - [ ] ヘルスチェック集計
 - [ ] datadog dev/STG反映
-	- [ ] 環境変数シート作成
-	- [ ] タグ付け
+	- [x] 環境変数シート作成
+	- [x] タグ付け
 	- [ ] 堺
 	- [ ] 川崎
 	- [ ] 鹿島
 	- [ ] 水島
 	- [ ] 麻里布
 	- [ ] 根岸
-- [ ] [ENEOS_SPM_MIZUSHIMA-325](https://vqit.backlog.com/view/ENEOS_SPM_MIZUSHIMA-325) 工事予定表の速度改善
+- [x] [ENEOS_SPM_MIZUSHIMA-325](https://vqit.backlog.com/view/ENEOS_SPM_MIZUSHIMA-325) 工事予定表の速度改善
+	- 松本さんにやってもらう
+
+## 変動作業
+- [ ] Sentry発報分離
+- [ ] selenium-gridの導入
+- [ ] GithubActionsの導入
+- [ ] 夏季休暇申請
+
+## 明日以降
+
+---
+
+# 8/6(水)
+## 通常作業
+- 500アラートメール確認
+	- [ ] 出社後
+	- [ ] お昼
+	- [ ] 夕方
+## 差し込みタスク
+- セキュリティ委員会の共有をしてもらう。
+
+## 優先事項
+- [ ] ヘルスチェック集計
+- [ ] datadog dev/STG反映
+	- [ ] 堺
+	- [ ] 川崎
+	- [ ] 鹿島
+	- [ ] 水島
+	- [ ] 麻里布
+	- [ ] 根岸
+- [x] [ENEOS_SPM_MIZUSHIMA-325](https://vqit.backlog.com/view/ENEOS_SPM_MIZUSHIMA-325) 工事予定表の速度改善
+	- 松本さんにやってもらう
 
 ## 変動作業
 - [ ] Sentry発報分離

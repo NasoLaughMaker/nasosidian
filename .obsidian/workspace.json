@@ -51,8 +51,7 @@
               "title": "0728 datadog移行対応"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -211,8 +210,9 @@
       "command-palette:コマンドパレットを開く": false
     }
   },
-  "active": "73506fb1e00176f0",
+  "active": "eea409a01e3d5991",
   "lastOpenFiles": [
+    "task/0728 datadog移行対応.md",
     "task/TODO.md",
     "task/週次定例/datadog集計対象整理.md",
     "task/週次定例/ヘルスチェック検討.md",
@@ -224,7 +224,6 @@
     "AWS/Services/CloudFormation.md",
     "AWS/Services/Amazon CodeGuru.md",
     "task/0725 Resiaラベリング対応.md",
-    "task/0728 datadog移行対応.md",
     "conflict-files-obsidian-git.md",
     "0804 datadog集計対象整理.md",
     "AWS/Services/CloudFormation 1e9817a83f5b80b696ebe4e00a9ee145/スクリーンショット_2025-07-20_16.34.06.png",
