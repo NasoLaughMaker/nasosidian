@@ -11,4 +11,12 @@
 # TODO
 - [x] pumaメトリクスを収集するため、`config/puma.rb`にcontrol_urlとcontrol_tokenを設定する
 - [x] serviceファイルに`DD_ENV`と`DD_SERVICE`を設定する
-- [ ] 
+
+
+```
+c3BtLWVuZW9zLXdlYmFwcC1zYWthaQ==
+
+Environment="DD_ENV=stg"
+
+Environment="DD_SERVICE=spm-eneos-webapp-kawasaki"
+```
