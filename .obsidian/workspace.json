@@ -65,7 +65,8 @@
               "title": "ヘルスチェック検討"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -224,13 +225,13 @@
       "command-palette:コマンドパレットを開く": false
     }
   },
-  "active": "eea409a01e3d5991",
+  "active": "73506fb1e00176f0",
   "lastOpenFiles": [
+    "task/TODO.md",
     "task/週次定例/ヘルスチェック検討.md",
     "task/週次定例/datadog集計対象整理.md",
     "task/週次定例/SlowQuey.md",
     "task/0317 ENEOS23-1151 キャンバス汚染問題.md",
-    "task/TODO.md",
     "task/0728 datadog移行対応.md",
     "AWS/Services/Route 53.md",
     "AWS/Serviceメモ.md",
