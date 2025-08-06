@@ -20,3 +20,7 @@ fields @timestamp, @message
 | sort Query_time desc
 | limit 100
 ```
+
+
+## 運用方針
+毎週金曜日に木曜
