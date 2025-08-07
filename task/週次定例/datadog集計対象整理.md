@@ -16,3 +16,7 @@
 	- 48 worker * 5 thread
 - 現実
 	- 48 worker * 1 thread
+
+
+## CRubyの制約
+- workerない
