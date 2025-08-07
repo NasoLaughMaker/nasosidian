@@ -21,3 +21,5 @@ Environment="DD_ENV=stg"
 Environment="DD_SERVICE=spm-eneos-webapp-kawasaki"
 ```
 
+- [ENEOS_SPM_KASHIMA-546](https://vqit.backlog.com/view/ENEOS_SPM_KASHIMA-546) 鹿島：Datadog Organization移行
+- 
