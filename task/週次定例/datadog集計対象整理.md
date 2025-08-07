@@ -21,7 +21,7 @@
 	- 24 worker * 2 thread
 
 
-
 ## CRubyの制約
 - worker内で動くRubyプロセスは1つ
+-> worker内で動くRubyプロセスが複数のものに変更
 
