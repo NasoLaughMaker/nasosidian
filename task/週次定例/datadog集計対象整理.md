@@ -10,6 +10,9 @@
 
 ## 物理的な制約
 - pumaの設定
-- core 
+- core 48
 ### 現状
-48 worker * 5 thread
+- 設定
+	- 48 worker * 5 thread
+- 現実
+	- 48 worker * 1 thread
