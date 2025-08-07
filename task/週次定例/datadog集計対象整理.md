@@ -23,5 +23,6 @@
 
 ## CRubyの制約
 - worker内で動くRubyプロセスは1つ
--> worker内で動くRubyプロセスが複数のものに変更
+### JRubyに変更
+worker内で動くRubyプロセスが複数になる
 
