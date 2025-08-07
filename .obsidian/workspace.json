@@ -43,12 +43,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "task/0728 datadog移行対応.md",
+                "file": "task/0725 Resiaラベリング対応.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "0728 datadog移行対応"
+              "title": "0725 Resiaラベリング対応"
             }
           }
         ],
@@ -213,10 +213,10 @@
   },
   "active": "339696f8c53b7622",
   "lastOpenFiles": [
-    "task/TODO.md",
-    "task/週次定例/datadog集計対象整理.md",
     "task/0728 datadog移行対応.md",
     "task/ENEOS23-1491 【本番】【ENEOS堺】【エラー】ログイン後のホーム画面でエラーとなってい.md",
+    "task/TODO.md",
+    "task/週次定例/datadog集計対象整理.md",
     "task/週次定例/ヘルスチェック検討.md",
     "task/週次定例/SlowQuey.md",
     "task/0317 ENEOS23-1151 キャンバス汚染問題.md",
