@@ -8,22 +8,3 @@
 
 
 
-## 物理的な制約
-- pumaの設定
-- core 48
-### 現状
-- 設定
-	- 48 worker * 5 thread
-- 現実
-	- 48 worker * 1 thread
-### 今後
-- 設定
-	- 24 worker * 2 thread
-
-
-## CRubyの制約
-- worker内で動くRubyプロセスは1つ
-### JRubyに変更
-worker内で動くRubyプロセスが複数になる
-
----- ---- ---- ---- ---- --------------
