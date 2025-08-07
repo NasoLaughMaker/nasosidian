@@ -16,7 +16,12 @@
 	- 48 worker * 5 thread
 - 現実
 	- 48 worker * 1 thread
+### 今後
+- 設定
+	- 24 worker * 2 thread
+
 
 
 ## CRubyの制約
-- workerない
+- worker内で動くRubyプロセスは1つ
+
