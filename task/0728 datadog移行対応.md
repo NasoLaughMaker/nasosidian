@@ -24,6 +24,10 @@ Environment="DD_SERVICE=spm-eneos-webapp-kawasaki"
 - [ENEOS_SPM_KASHIMA-546](https://vqit.backlog.com/view/ENEOS_SPM_KASHIMA-546) 鹿島：Datadog Organization移行
 	- [PR](https://github.com/Bee2B/eneos-spm/pull/6587)
 - [ENEOS_KAWASAKI-934](https://vqit.backlog.com/view/ENEOS_KAWASAKI-934) 川崎：Datadog Organization移行
+	- [PR](https://github.com/Bee2B/eneos-spm/pull/6587)
 - [ENEOS_SPM_MIZUSHIMA-361](https://vqit.backlog.com/view/ENEOS_SPM_MIZUSHIMA-361) 水島：Datadog Organization移行
+	- [PR](https://github.com/Bee2B/eneos-spm/pull/6591)
 - [ENEOS_SPM_MARIFU-219](https://vqit.backlog.com/view/ENEOS_SPM_MARIFU-219) 麻里布：Datadog Organization移行
+	- [PR](https://github.com/Bee2B/eneos-spm/pull/6592)
 - [ENEOS_SPM_NEGISHI-90](https://vqit.backlog.com/view/ENEOS_SPM_NEGISHI-90) 根岸：Datadog Organization移行
+	- [PR](https://github.com/Bee2B/eneos-spm/pull/6593)
