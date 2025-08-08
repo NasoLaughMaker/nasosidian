@@ -2927,7 +2927,7 @@ PR作成 & STG反映
 - [x] SlowQuery集計
 ## 差し込みタスク
 竹口さんとMTG
-c3BtLWVuZW9zLXdlYmFwcC1taXp1c2hpbWE=
+c3BtLWVuZW9zLXdlYmFwcC1tYXJpZnU=
 ## 優先事項
 - [ ] datadog 
 	- [x] PR作成
