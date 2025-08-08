@@ -51,8 +51,7 @@
               "title": "0728 datadog移行対応"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -211,11 +210,11 @@
       "command-palette:コマンドパレットを開く": false
     }
   },
-  "active": "339696f8c53b7622",
+  "active": "eea409a01e3d5991",
   "lastOpenFiles": [
+    "task/0728 datadog移行対応.md",
     "task/TODO.md",
     "task/ENEOS23-1491 【本番】【ENEOS堺】【エラー】ログイン後のホーム画面でエラーとなってい.md",
-    "task/0728 datadog移行対応.md",
     "task/0725 Resiaラベリング対応.md",
     "task/0707 Sentryのアラートを環境ごとに分ける.md",
     "task/0624 ENEOS23-1780 RDSやEC2のCPUのアラーム閾値について.md",
