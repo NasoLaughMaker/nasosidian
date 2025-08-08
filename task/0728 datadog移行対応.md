@@ -26,3 +26,4 @@ Environment="DD_SERVICE=spm-eneos-webapp-kawasaki"
 - [ENEOS_KAWASAKI-934](https://vqit.backlog.com/view/ENEOS_KAWASAKI-934) 川崎：Datadog Organization移行
 - [ENEOS_SPM_MIZUSHIMA-361](https://vqit.backlog.com/view/ENEOS_SPM_MIZUSHIMA-361) 水島：Datadog Organization移行
 - [ENEOS_SPM_MARIFU-219](https://vqit.backlog.com/view/ENEOS_SPM_MARIFU-219) 麻里布：Datadog Organization移行
+- [ENEOS_SPM_NEGISHI-90](https://vqit.backlog.com/view/ENEOS_SPM_NEGISHI-90) 根岸：Datadog Organization移行
