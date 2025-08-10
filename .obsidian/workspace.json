@@ -57,12 +57,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AWS/Serviceメモ.md",
+                "file": "AWS/Services/CloudFormation.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Serviceメモ"
+              "title": "CloudFormation"
             }
           }
         ],
@@ -227,6 +227,7 @@
   },
   "active": "7addf8a02f584bb5",
   "lastOpenFiles": [
+    "AWS/Serviceメモ.md",
     "AWS/Services/Amazon ECS(Elastic Container Service).md",
     "AWS/Services/Systems Manager.md",
     "AWS/Services/S3.md",
@@ -243,7 +244,6 @@
     "task/週次定例/ヘルスチェック検討.md",
     "task/週次定例/SlowQuey.md",
     "AWS/Services/Route 53.md",
-    "AWS/Serviceメモ.md",
     "AWS/Services/Auto Scaling.md",
     "AWS/Services/VPN Client.md",
     "AWS/Services/Amazon CodeGuru.md",
