@@ -20,3 +20,8 @@ fields @timestamp, @message
 | sort Query_time desc
 | limit 100
 ```
+
+
+## 運用方針
+毎週金曜日に木曜日分の集計を行います。
+基本的に水曜日が本番反映日であるため、反映後1日間のSlowQueryを収集することで定点観測を行う想定でおりますがいかがでしょうか。
