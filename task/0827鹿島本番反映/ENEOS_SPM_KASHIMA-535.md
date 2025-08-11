@@ -37,3 +37,32 @@
 	- 修正
 		- 安全専任者の追加
 		- 監査人の欄に（）を追加
+
+
+## 項目一覧取得SQL
+```sql
+SELECT
+	ore.id,
+	ore.name,
+	ore.title,
+	ore.priority,
+	ors.id,
+	ors.name,
+	ors.priority,
+	ori.name,
+	ori.item_type,
+	ori.priority
+FROM
+	office_report_items AS ori
+		JOIN
+			office_report_sections AS ors
+				ON
+					ors.id = ori.office_report_section_id
+		JOIN
+			office_reports AS ore
+				ON
+					ore.id = ors.office_report_id
+WHERE
+	ore.office_id = 171
+;
+```
