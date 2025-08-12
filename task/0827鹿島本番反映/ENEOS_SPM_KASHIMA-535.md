@@ -93,6 +93,7 @@ WHERE
 ### office_report_items
 - `茨城県及び労基署に許可を受けているか`
 	- switch
-	- section_id = 
+	- sections.priority = 5
 - `養生は隙間なく実施されているか`
 	- switch
+	- sections.priority = 5
