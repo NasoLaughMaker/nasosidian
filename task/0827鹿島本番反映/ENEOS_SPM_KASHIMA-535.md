@@ -78,3 +78,5 @@ WHERE
 - `安全上の事項`
 - `品質特記`
 - `安全特記`
+### office_report_items
+- 
