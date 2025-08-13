@@ -2983,10 +2983,13 @@ API集計
 	- [x] 出社後
 	- [ ] お昼
 	- [ ] 夕方
+- ヘルスチェック集計
+	- [x] 堺
+	- [x] 川崎
 ## 差し込みタスク
 
 ## 優先事項
-- [ ] [ENEOS_SPM_KASHIMA-535](https://vqit.backlog.com/view/ENEOS_SPM_KASHIMA-535) 鹿島 F画面 作業安全指示書（標準用、検査用）のフォーマット変更にともなう改修
+- [x] [ENEOS_SPM_KASHIMA-535](https://vqit.backlog.com/view/ENEOS_SPM_KASHIMA-535) 鹿島 F画面 作業安全指示書（標準用、検査用）のフォーマット変更にともなう改修
 
 ## 変動作業
 - [ ] Sentry発報分離
