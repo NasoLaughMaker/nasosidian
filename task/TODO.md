@@ -2962,7 +2962,7 @@ API集計
 
 ## 優先事項
 - [ ] [ENEOS_SPM_KASHIMA-535](https://vqit.backlog.com/view/ENEOS_SPM_KASHIMA-535) 鹿島 F画面 作業安全指示書（標準用、検査用）のフォーマット変更にともなう改修
-- [ ] datadog坪井さん依頼の確認
+- [x] datadog坪井さん依頼の確認
 
 ## 変動作業
 - [ ] Sentry発報分離
@@ -2977,17 +2977,16 @@ API集計
 
 ---
 
-# 8/13
+# 8/13(水)
 ## 通常作業
 - 500アラートメール確認
 	- [x] 出社後
-	- [x] お昼
+	- [ ] お昼
 	- [ ] 夕方
 ## 差し込みタスク
 
 ## 優先事項
 - [ ] [ENEOS_SPM_KASHIMA-535](https://vqit.backlog.com/view/ENEOS_SPM_KASHIMA-535) 鹿島 F画面 作業安全指示書（標準用、検査用）のフォーマット変更にともなう改修
-- [ ] datadog坪井さん依頼の確認
 
 ## 変動作業
 - [ ] Sentry発報分離
