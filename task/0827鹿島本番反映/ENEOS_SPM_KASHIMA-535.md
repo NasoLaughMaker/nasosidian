@@ -1,3 +1,6 @@
+[Issue](https://github.com/Bee2B/eneos-spm/issues/6610)
+[Backlog](https://vqit.backlog.com/view/ENEOS_SPM_KASHIMA-535)
+
 # 削除・修正項目
 ## 標準用F画面
 - 施工上の注意事項
