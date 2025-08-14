@@ -37,8 +37,7 @@
               "title": "ENEOS_SPM_KASHIMA-534"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -208,11 +207,11 @@
       "command-palette:コマンドパレットを開く": false
     }
   },
-  "active": "5a9e5a6c544ccc5c",
+  "active": "eea409a01e3d5991",
   "lastOpenFiles": [
+    "task/0827鹿島本番反映/ENEOS_SPM_KASHIMA-534.md",
     "task/TODO.md",
     "task/0827鹿島本番反映/ENEOS_SPM_KASHIMA-535.md",
-    "task/0827鹿島本番反映/ENEOS_SPM_KASHIMA-534.md",
     "knowledge/ffmpeg.md",
     "task/0728 datadog移行対応.md",
     "AWS/Services/CloudFormation.md",
