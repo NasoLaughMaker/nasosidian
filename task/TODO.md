@@ -3017,6 +3017,7 @@ API集計
 
 ## 優先事項
 - [x] [ENEOS_SPM_KASHIMA-535](https://vqit.backlog.com/view/ENEOS_SPM_KASHIMA-535) 鹿島 F画面 作業安全指示書（標準用、検査用）のフォーマット変更にともなう改修
+- [ ] [ENEOS_SPM_KASHIMA-534](https://vqit.backlog.com/view/ENEOS_SPM_KASHIMA-534) 鹿島 出力した作業安全指示書（標準用、検査用）のフォーマット変更
 
 ## 変動作業
 - [ ] Sentry発報分離
