@@ -3105,7 +3105,7 @@ API集計
 
 ## 優先事項
 - [ ] [ENEOS_SPM_KASHIMA-534](https://vqit.backlog.com/view/ENEOS_SPM_KASHIMA-534) 鹿島 出力した作業安全指示書（標準用、検査用）のフォーマット変更
-	- [ ] レビュー
+	- [x] レビュー
 	- [ ] dev反映
 - [ ] [ENEOS_SPM_KASHIMA-536](https://vqit.backlog.com/view/ENEOS_SPM_KASHIMA-536) 鹿島 E画面 環境設定要否をソート可能にする（残存リスクの下に設ける）
 
