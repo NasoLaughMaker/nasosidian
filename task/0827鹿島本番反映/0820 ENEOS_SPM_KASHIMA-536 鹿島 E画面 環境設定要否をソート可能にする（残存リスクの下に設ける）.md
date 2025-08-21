@@ -4,6 +4,6 @@
 	- 要...true
 	- 非...false
 - [ ] attributesでPOST or PUTできるようにする
-	- [ ] PUT 
+	- [ ] attributesで必要なカラムを入れてあげれば
 - [ ] ソートの確率
 	- [ ] スコープの定義
