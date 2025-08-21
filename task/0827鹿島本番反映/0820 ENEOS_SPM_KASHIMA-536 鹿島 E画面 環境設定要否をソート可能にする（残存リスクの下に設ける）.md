@@ -3,11 +3,11 @@
 	- 何も表示されていない...null
 	- 要...true
 	- 非...false
-- [ ] attributesでPOST or PUTできるようにする
-	- [ ] attributesで必要なカラムを入れてあげればいけそう（nested_attribute_for定義されてるから）
+- [x] attributesでPOST or PUTできるようにする
+	- [x] attributesで必要なカラムを入れてあげればいけそう（nested_attribute_for定義されてるから）
 		- POSTMANで確認が必要
-- [ ] ソートの確率
-	- [ ] modelでransacker使いましょう
+- [x] ソートの確率
+	- [x] modelでransacker使いましょう
 		- [ ] 要 true
 		- [ ] 否 false
 		- [ ] なし nil
