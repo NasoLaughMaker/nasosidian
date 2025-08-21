@@ -9,4 +9,5 @@
 - [ ] ソートの確率
 	- [ ] modelでransacker使いましょう
 		- [ ] 要 true
-		- [ ] 否 
+		- [ ] 否 false
+		- [ ] なし nil
