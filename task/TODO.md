@@ -3136,7 +3136,8 @@ API集計
 
 ## 優先事項
 - [ ] [ENEOS_SPM_KASHIMA-536](https://vqit.backlog.com/view/ENEOS_SPM_KASHIMA-536) 鹿島 E画面 環境設定要否をソート可能にする（残存リスクの下に設ける）
-- [ ] 
+- [ ] アプリケーションログの精査
+- [ ] バックアップ内容の調査
 
 ## 変動作業
 - [ ] Sentry発報分離
