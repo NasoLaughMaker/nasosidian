@@ -7,4 +7,6 @@
 	- [ ] attributesで必要なカラムを入れてあげればいけそう（nested_attribute_for定義されてるから）
 		- POSTMANで確認が必要
 - [ ] ソートの確率
-	- [ ] スコープの定義
+	- [ ] modelでransacker使いましょう
+		- [ ] 要 true
+		- [ ] 否 
