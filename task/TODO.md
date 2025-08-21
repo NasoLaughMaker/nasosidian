@@ -3148,3 +3148,6 @@ API集計
 ## 明日以降
 - 環境変数シート更新
 - API集計
+- [ENEOS_SPM_KASHIMA-556](https://vqit.backlog.com/view/ENEOS_SPM_KASHIMA-556) 鹿島 E画面 新規作成ボタン押下時の新規作成モーダルの「責任者」と「酸欠主任者」を削除
+- [ENEOS_SPM_KASHIMA-555](https://vqit.backlog.com/view/ENEOS_SPM_KASHIMA-555) 鹿島 E、F 1項目ワーディングの修正と1項目カードの色を紺色からオレンジ色にする
+- [ENEOS_SPM_KASHIMA-554](https://vqit.backlog.com/view/ENEOS_SPM_KASHIMA-554) 鹿島 HOME セキュリティ要件として、GM及びTLが設定画面のユーザ一覧に遷移時、自身の所属している部署のユーザしか一覧に表示されないように制限する
