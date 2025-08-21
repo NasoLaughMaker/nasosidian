@@ -3104,7 +3104,7 @@ API集計
 ## 差し込みタスク
 
 ## 優先事項
-- [ ] [ENEOS_SPM_KASHIMA-534](https://vqit.backlog.com/view/ENEOS_SPM_KASHIMA-534) 鹿島 出力した作業安全指示書（標準用、検査用）のフォーマット変更
+- [x] [ENEOS_SPM_KASHIMA-534](https://vqit.backlog.com/view/ENEOS_SPM_KASHIMA-534) 鹿島 出力した作業安全指示書（標準用、検査用）のフォーマット変更
 	- [x] レビュー
 	- [ ] dev反映
 - [ ] [ENEOS_SPM_KASHIMA-536](https://vqit.backlog.com/view/ENEOS_SPM_KASHIMA-536) 鹿島 E画面 環境設定要否をソート可能にする（残存リスクの下に設ける）
@@ -3125,7 +3125,7 @@ API集計
 # 8/21(木)
 ## 通常作業
 - 500アラートメール確認
-	- [ ] 出社後
+	- [x] 出社後
 	- [ ] お昼
 	- [ ] 夕方
 - ヘルスチェック集計
@@ -3133,11 +3133,10 @@ API集計
 	- [ ] 川崎
 ## 差し込みタスク
 
+
 ## 優先事項
-- [ ] [ENEOS_SPM_KASHIMA-534](https://vqit.backlog.com/view/ENEOS_SPM_KASHIMA-534) 鹿島 出力した作業安全指示書（標準用、検査用）のフォーマット変更
-	- [x] レビュー
-	- [ ] dev反映
 - [ ] [ENEOS_SPM_KASHIMA-536](https://vqit.backlog.com/view/ENEOS_SPM_KASHIMA-536) 鹿島 E画面 環境設定要否をソート可能にする（残存リスクの下に設ける）
+- [ ] 
 
 ## 変動作業
 - [ ] Sentry発報分離
