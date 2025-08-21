@@ -65,8 +65,7 @@
               "title": "完了：5_30 load average異常値調査"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +97,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "cron",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -119,8 +118,7 @@
               "title": "ブックマーク"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -237,8 +235,9 @@
       "command-palette:コマンドパレットを開く": false
     }
   },
-  "active": "dc7bc3c0b168f523",
+  "active": "eea409a01e3d5991",
   "lastOpenFiles": [
+    "task/archive/完了：3_12 cronの再起動.md",
     "task/archive/完了：3_4 ENEOS23-1048 RedisDB分離.md",
     "task/0407 デプロイ時における shared_public_assets_ の削除STEPを追加.md",
     "task/0820 ENEOS_SPM_KASHIMA-536 鹿島 E画面 環境設定要否をソート可能にする（残存リスクの下に設ける）.md",
@@ -264,7 +263,6 @@
     "task/週次定例/SlowQuey.md",
     "AWS/Services/Route 53.md",
     "AWS/Services/Auto Scaling.md",
-    "AWS/Services/VPN Client.md",
     "AWS/Services/CloudFormation 1e9817a83f5b80b696ebe4e00a9ee145/スクリーンショット_2025-07-20_16.34.06.png",
     "AWS/Services/CloudTrail_event.png",
     "AWS/Services/CloudTrail",
