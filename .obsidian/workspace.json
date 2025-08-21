@@ -71,12 +71,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "task/0324 ENEOS23-1188.md",
+                "file": "task/archive/ENEOS23-1491 【本番】【ENEOS堺】【エラー】ログイン後のホーム画面でエラーとなってい.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "0324 ENEOS23-1188"
+              "title": "ENEOS23-1491 【本番】【ENEOS堺】【エラー】ログイン後のホーム画面でエラーとなってい"
             }
           }
         ],
@@ -250,34 +250,34 @@
       "command-palette:コマンドパレットを開く": false
     }
   },
-  "active": "78b774c77c091010",
+  "active": "da04bc3e138ed72b",
   "lastOpenFiles": [
-    "task/0317 ENEOS23-1151 キャンバス汚染問題.md",
+    "task/TODO.md",
+    "task/archive/ENEOS23-1491 【本番】【ENEOS堺】【エラー】ログイン後のホーム画面でエラーとなってい.md",
     "task/0707 Sentryのアラートを環境ごとに分ける.md",
     "task/0725 Resiaラベリング対応.md",
-    "task/TODO.md",
+    "task/0728 datadog移行対応.md",
+    "task/0820 ENEOS_SPM_KASHIMA-536 鹿島 E画面 環境設定要否をソート可能にする（残存リスクの下に設ける）.md",
+    "task/archive/0618 selenium-grid導入.md",
+    "task/archive/0624 ENEOS23-1780 RDSやEC2のCPUのアラーム閾値について.md",
+    "task/archive/0401 ENEOS23-1277.md",
+    "task/archive/0317 ENEOS23-1151 キャンバス汚染問題.md",
+    "task/archive/0328 ENEOS23-1271.md",
+    "task/archive/0324 ENEOS23-1188.md",
     "task/archive/完了：3_12 cronの再起動.md",
     "task/archive/完了：3_4 ENEOS23-1048 RedisDB分離.md",
-    "task/0407 デプロイ時における shared_public_assets_ の削除STEPを追加.md",
-    "task/0820 ENEOS_SPM_KASHIMA-536 鹿島 E画面 環境設定要否をソート可能にする（残存リスクの下に設ける）.md",
+    "task/archive/0407 デプロイ時における shared_public_assets_ の削除STEPを追加.md",
     "task/archive/完了：5_30 load average異常値調査.md",
     "task/archive/完了：5_21 load average集計：5月編.md",
     "task/0827鹿島本番反映/ENEOS_SPM_KASHIMA-534.md",
     "task/0827鹿島本番反映/ENEOS_SPM_KASHIMA-535.md",
     "knowledge/ffmpeg.md",
-    "task/0728 datadog移行対応.md",
     "AWS/Services/CloudFormation.md",
     "AWS/Serviceメモ.md",
     "AWS/Services/Amazon ECS(Elastic Container Service).md",
     "AWS/Services/Systems Manager.md",
     "AWS/Services/S3.md",
     "task/週次定例/datadog集計対象整理.md",
-    "task/ENEOS23-1491 【本番】【ENEOS堺】【エラー】ログイン後のホーム画面でエラーとなってい.md",
-    "task/0624 ENEOS23-1780 RDSやEC2のCPUのアラーム閾値について.md",
-    "task/週次定例/ヘルスチェック検討.md",
-    "task/週次定例/SlowQuey.md",
-    "AWS/Services/Route 53.md",
-    "AWS/Services/Auto Scaling.md",
     "AWS/Services/CloudFormation 1e9817a83f5b80b696ebe4e00a9ee145/スクリーンショット_2025-07-20_16.34.06.png",
     "AWS/Services/CloudTrail_event.png",
     "AWS/Services/CloudTrail",
