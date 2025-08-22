@@ -3188,3 +3188,4 @@ API集計
 - レビュー
 	- https://github.com/Bee2B/eneos-spm/pull/6737
 	- https://github.com/Bee2B/eneos-spm/pull/6732
+	- https://github.com/Bee2B/eneos-spm/issues/6736
