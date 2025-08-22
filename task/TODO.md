@@ -3185,5 +3185,5 @@ API集計
 ## 明日以降
 - 環境変数シート更新
 - API集計
-- [ENEOS_SPM_KASHIMA-555](https://vqit.backlog.com/view/ENEOS_SPM_KASHIMA-555) 鹿島 E、F 1項目ワーディングの修正と1項目カードの色を紺色からオレンジ色にする
-- [ENEOS_SPM_KASHIMA-554](https://vqit.backlog.com/view/ENEOS_SPM_KASHIMA-554) 鹿島 HOME セキュリティ要件として、GM及びTLが設定画面のユーザ一覧に遷移時、自身の所属している部署のユーザしか一覧に表示されないように制限する
+- レビュー
+	- 
