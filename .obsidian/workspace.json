@@ -92,9 +92,21 @@
               "icon": "lucide-file",
               "title": "TODO"
             }
+          },
+          {
+            "id": "63a97eddeac1a449",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.9.10"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.9.10"
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -255,6 +267,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "obsidian-git:Open Git source control": false,
       "switcher:クイックスイッチャーを開く": false,
       "graph:グラフビューを開く": false,
@@ -264,7 +277,7 @@
       "command-palette:コマンドパレットを開く": false
     }
   },
-  "active": "5c8faf4679635499",
+  "active": "63a97eddeac1a449",
   "lastOpenFiles": [
     "task/0827鹿島本番反映/0820 ENEOS_SPM_KASHIMA-536 鹿島 E画面 環境設定要否をソート可能にする（残存リスクの下に設ける）.md",
     "task/TODO.md",
