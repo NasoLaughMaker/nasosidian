@@ -3186,4 +3186,5 @@ API集計
 - 環境変数シート更新
 - API集計
 - レビュー
-	- 
+	- https://github.com/Bee2B/eneos-spm/pull/6737
+	- https://github.com/Bee2B/eneos-spm/pull/6732
