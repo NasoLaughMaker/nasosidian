@@ -3217,7 +3217,7 @@ API集計
 - [ ] インフラ提案v3 sidekiq等の捕捉事項入力
 	- [x] sidekiqにより実行される内容
 	- [ ] elasticacheで保持する内容
-	- [ ] lambdaでanalyzeJobが実行できるのか
+	- [x] lambdaでanalyzeJobが実行できるのか
 	- [x] analyzeJobの実行時間はどんなもんか
 ## 変動作業
 - [ ] Sentry発報分離
