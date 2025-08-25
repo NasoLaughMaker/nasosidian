@@ -3192,4 +3192,37 @@ API集計
 	- https://github.com/Bee2B/eneos-spm/pull/6732
 	- https://github.com/Bee2B/eneos-spm/issues/6736
 
-ーー
+---
+
+# 8/25(月)
+## 通常作業
+- 500アラートメール確認
+	- [ ] 出社後
+	- [ ] お昼
+	- [ ] 夕方
+- ヘルスチェック集計
+	- [x] 堺
+	- [x] 川崎
+## 差し込みタスク
+
+
+## 優先事項
+- [x] [ENEOS_SPM_KASHIMA-536](https://vqit.backlog.com/view/ENEOS_SPM_KASHIMA-536) 鹿島 E画面 環境設定要否をソート可能にする（残存リスクの下に設ける）更新
+	- [ ] FEレビュー
+- [ ] アプリケーションログの精査
+	- 金澤さんから交渉して欲しいと依頼された。交渉材料として何があるか確認 → 千葉さんに確認中
+- [ ] バックアップ内容の調査
+- [ ] datadogの本番移行手順をBacklogにまとめて坪井さんからレビューをもらう
+## 変動作業
+- [ ] Sentry発報分離
+- [ ] selenium-gridの導入
+- [ ] GithubActionsの導入
+- [ ] 夏季休暇申請
+
+## 明日以降
+- 環境変数シート更新
+- API集計
+- レビュー
+	- https://github.com/Bee2B/eneos-spm/pull/6737
+	- https://github.com/Bee2B/eneos-spm/pull/6732
+	- https://github.com/Bee2B/eneos-spm/issues/6736
