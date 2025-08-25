@@ -22,8 +22,23 @@
               "icon": "lucide-file",
               "title": "TODO"
             }
+          },
+          {
+            "id": "2ff86b1594298a4f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "task/0825 Jobについての調査.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "0825 Jobについての調査"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -195,10 +210,10 @@
       "command-palette:コマンドパレットを開く": false
     }
   },
-  "active": "7c5b369d02c892e7",
+  "active": "2ff86b1594298a4f",
   "lastOpenFiles": [
-    "task/0825 Jobについての調査.md",
     "task/TODO.md",
+    "task/0825 Jobについての調査.md",
     "task/0827鹿島本番反映/0820 ENEOS_SPM_KASHIMA-536 鹿島 E画面 環境設定要否をソート可能にする（残存リスクの下に設ける）.md",
     "task/0827鹿島本番反映/ENEOS_SPM_KASHIMA-535.md",
     "task/0827鹿島本番反映/ENEOS_SPM_KASHIMA-534.md",
