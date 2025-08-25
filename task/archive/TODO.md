@@ -3214,9 +3214,9 @@ API集計
 - [ ] バックアップ内容の調査
 - [x] datadogの本番移行手順をBacklogにまとめて坪井さんからレビューをもらう
 - [ ] datadogとcloudwatchの料金比較
-- [ ] インフラ提案v3 sidekiq等の捕捉事項入力
+- [x] インフラ提案v3 sidekiq等の捕捉事項入力
 	- [x] sidekiqにより実行される内容
-	- [ ] elasticacheで保持する内容
+	- [x] elasticacheで保持する内容
 	- [x] lambdaでanalyzeJobが実行できるのか
 	- [x] analyzeJobの実行時間はどんなもんか
 ## 変動作業
