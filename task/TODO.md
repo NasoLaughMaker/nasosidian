@@ -3214,7 +3214,9 @@ API集計
 - [ ] バックアップ内容の調査
 - [ ] datadogの本番移行手順をBacklogにまとめて坪井さんからレビューをもらう
 - [ ] datadogとcloudwatchの料金比較
-- [ ] インフラ提案v3 sidekiqな
+- [ ] インフラ提案v3 sidekiq等の捕捉事項入力
+	- [ ] sidekiqにより実行される内容
+	- [ ] elasticacheで保持する内容
 ## 変動作業
 - [ ] Sentry発報分離
 - [ ] selenium-gridの導入
