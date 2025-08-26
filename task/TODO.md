@@ -3241,7 +3241,7 @@ API集計
 - 500アラートメール確認
 	- [x] 出社後
 	- [x] お昼
-	- [ ] 夕方
+	- [x] 夕方
 - ヘルスチェック集計
 	- [ ] 堺
 	- [ ] 川崎
@@ -3262,7 +3262,3 @@ API集計
 ## 明日以降
 - 環境変数シート更新
 - API集計
-- レビュー
-	- https://github.com/Bee2B/eneos-spm/pull/6737
-	- https://github.com/Bee2B/eneos-spm/pull/6732
-	- https://github.com/Bee2B/eneos-spm/issues/6736
