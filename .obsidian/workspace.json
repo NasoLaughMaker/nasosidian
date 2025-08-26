@@ -4,23 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "728c91f582058568",
+        "id": "3f10987e599ff77d",
         "type": "tabs",
         "children": [
           {
-            "id": "f56c7c2469b0eec7",
+            "id": "eea409a01e3d5991",
             "type": "leaf",
             "pinned": true,
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "task/TODO.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "pinned": true,
               "icon": "lucide-file",
-              "title": "TODO"
+              "title": "新規タブ"
             }
           }
         ]
@@ -164,8 +160,19 @@
               "icon": "lucide-list",
               "title": "TODOのアウトライン"
             }
+          },
+          {
+            "id": "e029ca41b4c4248b",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -183,34 +190,34 @@
       "command-palette:コマンドパレットを開く": false
     }
   },
-  "active": "da04bc3e138ed72b",
+  "active": "eea409a01e3d5991",
   "lastOpenFiles": [
-    "task/週次定例/SlowQuey.md",
-    "task/0827鹿島本番反映/ENEOS_SPM_KASHIMA-535.md",
-    "task/archive/完了：0825 Jobについての調査.md",
+    "task/archive/TODO.md",
     "task/TODO.md",
-    "task/0827鹿島本番反映/0820 ENEOS_SPM_KASHIMA-536 鹿島 E画面 環境設定要否をソート可能にする（残存リスクの下に設ける）.md",
-    "conflict-files-obsidian-git.md",
-    "task/0820 ENEOS_SPM_KASHIMA-536 鹿島 E画面 環境設定要否をソート可能にする（残存リスクの下に設ける）.md",
-    "task/TODO.md",
-    "task/archive/ENEOS23-1491 【本番】【ENEOS堺】【エラー】ログイン後のホーム画面でエラーとなってい.md",
     "task/archive/0624 ENEOS23-1780 RDSやEC2のCPUのアラーム閾値について.md",
+    "task/archive/ENEOS23-1491 【本番】【ENEOS堺】【エラー】ログイン後のホーム画面でエラーとなってい.md",
+    "task/archive/完了：0825 Jobについての調査.md",
+    "task/0827鹿島本番反映/0820 ENEOS_SPM_KASHIMA-536 鹿島 E画面 環境設定要否をソート可能にする（残存リスクの下に設ける）.md",
+    "task/0827鹿島本番反映/ENEOS_SPM_KASHIMA-535.md",
+    "task/0827鹿島本番反映/ENEOS_SPM_KASHIMA-534.md",
+    "task/0707 Sentryのアラートを環境ごとに分ける.md",
+    "task/0725 Resiaラベリング対応.md",
+    "task/0728 datadog移行対応.md",
     "task/archive/0618 selenium-grid導入.md",
-    "task/archive/0616 ENEOS23-1707 【本番】【ENEOS堺】【500エラー】B画面：保存ボタン押下時.md",
-    "task/archive/0602 ENEOS23-1458 保全ご利用状況メールに月次登録人数を出力する.md",
-    "task/archive/0521 ENEOS23-1559 【本番】【ENEOS堺】【500エラー】工事_工事計画タブで発生.md",
-    "task/archive/0501 ENEOS23-1463 SPM新ロゴ変更｜全事業所対象.md",
-    "task/archive/0501 ENEOS23-1462 おしらせ機能｜オーナー会社（準備計画＋運用）のユーザータイプで発信.md",
-    "task/archive/0425 ENEOS23-1444 【本番】【ENEOS堺】【500エラー】undefined me.md",
-    "task/archive/0411 ENEOS23-1303 バグ 緊急度中E_100件表示したスクロールエラー｜浅野さんNo.md",
-    "task/archive/0409 ENEOS23-1307 バグ　緊急度中　B＞法規タブ　申請要否チェック別タブ移動で外れる。.md",
-    "task/archive/0409 ENEOS23-1293 バグ緊急度_中｜工事台帳でTECOを外してもTECOの工事が検索さ.md",
-    "task/archive/0407 デプロイ時における shared_public_assets_ の削除STEPを追加.md",
     "task/archive/0401 ENEOS23-1277.md",
+    "task/archive/0317 ENEOS23-1151 キャンバス汚染問題.md",
     "task/archive/0328 ENEOS23-1271.md",
     "task/archive/0324 ENEOS23-1188.md",
-    "task/archive/0317 ENEOS23-1151 キャンバス汚染問題.md",
-    "環境設定.md",
+    "task/archive/完了：3_12 cronの再起動.md",
+    "task/archive/完了：3_4 ENEOS23-1048 RedisDB分離.md",
+    "task/archive/0407 デプロイ時における shared_public_assets_ の削除STEPを追加.md",
+    "task/archive/完了：5_30 load average異常値調査.md",
+    "task/archive/完了：5_21 load average集計：5月編.md",
+    "knowledge/ffmpeg.md",
+    "AWS/Services/CloudFormation.md",
+    "AWS/Serviceメモ.md",
+    "AWS/Services/Amazon ECS(Elastic Container Service).md",
+    "AWS/Services/Systems Manager.md",
     "AWS/Services/CloudFormation 1e9817a83f5b80b696ebe4e00a9ee145/スクリーンショット_2025-07-20_16.34.06.png",
     "AWS/Services/CloudTrail_event.png",
     "AWS/Services/CloudTrail",
