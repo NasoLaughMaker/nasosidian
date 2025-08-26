@@ -1,0 +1,2 @@
+必須項目のバリデーション
+office_report_itemのバリデーションについては、valid_typeのようなカラムを追加

@@ -29,12 +29,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "task/9月鹿島対応/446.md",
+                "file": "task/9月鹿島対応/ENEOS_SPM_KASHIMA_446.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "446"
+              "title": "ENEOS_SPM_KASHIMA_446"
             }
           }
         ],
@@ -213,7 +213,7 @@
   "lastOpenFiles": [
     "task/9月鹿島対応",
     "task/TODO.md",
-    "task/9月鹿島対応/446.md",
+    "task/9月鹿島対応/ENEOS_SPM_KASHIMA_446.md",
     "task/0707 Sentryのアラートを環境ごとに分ける.md",
     "task/0725 Resiaラベリング対応.md",
     "task/0728 datadog移行対応.md",
