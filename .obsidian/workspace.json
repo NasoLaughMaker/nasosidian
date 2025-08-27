@@ -51,8 +51,7 @@
               "title": "0728 datadog移行対応"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -223,11 +222,11 @@
       "command-palette:コマンドパレットを開く": false
     }
   },
-  "active": "2ef96df5620504c1",
+  "active": "76a8048d6bbcbfa4",
   "lastOpenFiles": [
+    "task/0728 datadog移行対応.md",
     "task/TODO.md",
     "task/9月鹿島対応/ENEOS_SPM_KASHIMA-446 鹿島 鹿島 F画面 入力必須の制御.md",
-    "task/0728 datadog移行対応.md",
     "task/0707 Sentryのアラートを環境ごとに分ける.md",
     "task/0725 Resiaラベリング対応.md",
     "task/9月鹿島対応",
