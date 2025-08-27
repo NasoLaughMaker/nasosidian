@@ -3288,6 +3288,7 @@ API集計
 - [ ] selenium-gridの導入
 - [ ] GithubActionsの導入
 - [ ] 夏季休暇申請
+- [ ] [[0827 ENEOS_SPM_MARIFU-229 datadog設定関連]]
 
 ## 明日以降
 - 環境変数シート更新
