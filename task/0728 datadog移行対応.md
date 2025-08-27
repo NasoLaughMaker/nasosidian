@@ -31,3 +31,6 @@ Environment="DD_SERVICE=spm-eneos-webapp-kawasaki"
 	- [PR](https://github.com/Bee2B/eneos-spm/pull/6592)
 - [ENEOS_SPM_NEGISHI-90](https://vqit.backlog.com/view/ENEOS_SPM_NEGISHI-90) 根岸：Datadog Organization移行
 	- [PR](https://github.com/Bee2B/eneos-spm/pull/6593)
+
+## 0827 TODO
+- [ ] 鹿島のにってい
