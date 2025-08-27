@@ -33,5 +33,5 @@ Environment="DD_SERVICE=spm-eneos-webapp-kawasaki"
 	- [PR](https://github.com/Bee2B/eneos-spm/pull/6593)
 
 ## 0827 TODO
-- [ ] 鹿島の日程調整
+- [x] 鹿島の日程調整
 - [ ] 不要なサービスファイルの調査
