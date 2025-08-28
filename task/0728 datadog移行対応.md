@@ -44,3 +44,7 @@ Environment="DD_SERVICE=spm-eneos-webapp-kawasaki"
 
 # メトリクスの収集をやめる
 - EC2にタグを付与し、[integration > Metric Collection](https://ap1.datadoghq.com/integrations?accountId=1fdc0afd-2d80-491a-97eb-2c4f0e7f849a&integrationId=amazon-web-services&panel=metric-collection)
+
+# Audit Trail
+datadog内のCloudTrailみたいなもの
+有効化には追加料金が必要
