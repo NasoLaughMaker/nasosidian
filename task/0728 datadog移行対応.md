@@ -37,4 +37,6 @@ Environment="DD_SERVICE=spm-eneos-webapp-kawasaki"
 - [ ] 不要なサービスファイルの調査
 
 # 0828 TODO
-- [ ] datadogの設定不備について坪井さんと擦り合わせる
+- [x] datadogの設定不備について坪井さんと擦り合わせる
+	- 対応方針
+		- RUMに渡す `DD_SERVICE` を `RUM_DD_SERVICE` など別名にすることで `/etc/environment` 内で `DD_SERVICE` を使わないようにする。
