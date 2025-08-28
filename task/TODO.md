@@ -3293,3 +3293,7 @@ API集計
 ## 明日以降
 - 環境変数シート更新
 - API集計
+
+---
+
+fix/ENEOS_SPM_KASHIMA-559-back
