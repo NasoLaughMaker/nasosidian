@@ -37,4 +37,4 @@ Environment="DD_SERVICE=spm-eneos-webapp-kawasaki"
 - [ ] 不要なサービスファイルの調査
 
 # 0828 TODO
-- [ ] 
+- [ ] datadogの設定不備について坪井さんと擦り合わせる
