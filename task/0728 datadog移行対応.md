@@ -50,3 +50,7 @@ datadog内のCloudTrailみたいなもの
 有効化には追加料金が必要
 
 APM設定方法
+
+
+RUMエラーのみ
+retention filterでエラーのみ100%に設定すれば取得できる
