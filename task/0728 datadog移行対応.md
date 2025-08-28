@@ -43,4 +43,4 @@ Environment="DD_SERVICE=spm-eneos-webapp-kawasaki"
 
 
 # メトリクスの収集をやめる
-- datadog
+- EC2にタグを付与し、[integration > Metric Collection](https://ap1.datadoghq.com/integrations?accountId=1fdc0afd-2d80-491a-97eb-2c4f0e7f849a&integrationId=amazon-web-services&panel=metric-collection)
