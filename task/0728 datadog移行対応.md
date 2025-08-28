@@ -54,3 +54,4 @@ APM設定方法
 
 RUMエラーのみ
 retention filterでエラーのみ100%に設定すれば取得できる
+c3BtLXdlYmFwcC1zdGcy
