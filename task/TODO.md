@@ -3309,9 +3309,9 @@ API集計
 
 
 ## 優先事項
-- [ ] [ENEOS_SPM_KASHIMA-559](https://vqit.backlog.com/view/ENEOS_SPM_KASHIMA-559) 
+- [x] [ENEOS_SPM_KASHIMA-559](https://vqit.backlog.com/view/ENEOS_SPM_KASHIMA-559) 
 	- [x] STG反映
-	- [ ] 本番反映
+	- [x] 本番反映
 - [ ] [[0828 アプリケーションログの精査]]
 - [ ] [[0728 datadog移行対応]]
 - [ ] 千葉開発環境作成
