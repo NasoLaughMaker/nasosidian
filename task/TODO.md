@@ -3328,3 +3328,4 @@ API集計
 - 環境変数シート更新
 - API集計
 - [ ] datadogとcloudwatchの料金比較
+- [ ] [B2B_INFRA-108](https://appirits.backlog.jp/view/B2B_INFRA-108) ENEOS千葉用のサブドメイン作成
