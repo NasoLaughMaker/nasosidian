@@ -32,6 +32,9 @@ Environment="DD_SERVICE=spm-eneos-webapp-kawasaki"
 - [ENEOS_SPM_NEGISHI-90](https://vqit.backlog.com/view/ENEOS_SPM_NEGISHI-90) 根岸：Datadog Organization移行
 	- [PR](https://github.com/Bee2B/eneos-spm/pull/6593)
 
-## 0827 TODO
+# 0827 TODO
 - [x] 鹿島の日程調整
 - [ ] 不要なサービスファイルの調査
+
+# 0828 TODO
+- [ ] 
