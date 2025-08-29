@@ -3312,7 +3312,8 @@ API集計
 - [x] [ENEOS_SPM_KASHIMA-559](https://vqit.backlog.com/view/ENEOS_SPM_KASHIMA-559) 
 	- [x] STG反映
 	- [x] 本番反映
-- [ ] [[0828 アプリケーションログの精査]]
+- [x] [[0828 アプリケーションログの精査]]
+	- 最低限
 - [ ] [[0728 datadog移行対応]]
 - [ ] 千葉開発環境作成
 - [ ] 保守対応チケット表作成
@@ -3345,10 +3346,6 @@ API集計
 
 
 ## 優先事項
-- [x] [ENEOS_SPM_KASHIMA-559](https://vqit.backlog.com/view/ENEOS_SPM_KASHIMA-559) 
-	- [x] STG反映
-	- [x] 本番反映
-- [ ] [[0828 アプリケーションログの精査]]
 - [ ] [[0728 datadog移行対応]]
 - [ ] 千葉開発環境作成
 - [ ] 保守対応チケット表作成
