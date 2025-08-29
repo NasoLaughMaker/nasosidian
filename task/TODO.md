@@ -3329,3 +3329,39 @@ API集計
 - API集計
 - [ ] datadogとcloudwatchの料金比較
 - [ ] [B2B_INFRA-108](https://appirits.backlog.jp/view/B2B_INFRA-108) ENEOS千葉用のサブドメイン作成
+
+---
+
+# 8/29(金)
+## 通常作業
+- 500アラートメール確認
+	- [x] 出社後
+	- [ ] お昼
+	- [ ] 夕方
+- ヘルスチェック集計
+	- [ ] 堺
+	- [ ] 川崎
+## 差し込みタスク
+
+
+## 優先事項
+- [x] [ENEOS_SPM_KASHIMA-559](https://vqit.backlog.com/view/ENEOS_SPM_KASHIMA-559) 
+	- [x] STG反映
+	- [x] 本番反映
+- [ ] [[0828 アプリケーションログの精査]]
+- [ ] [[0728 datadog移行対応]]
+- [ ] 千葉開発環境作成
+- [ ] 保守対応チケット表作成
+
+## 変動作業
+- [ ] Sentry発報分離
+- [ ] selenium-gridの導入
+- [ ] GithubActionsの導入
+- [ ] 夏季休暇申請
+- [ ] [[0827 ENEOS_SPM_MARIFU-229 datadog設定関連]]
+
+## 明日以降
+- 環境変数シート更新
+- API集計
+- [ ] datadogとcloudwatchの料金比較
+- [ ] [B2B_INFRA-108](https://appirits.backlog.jp/view/B2B_INFRA-108) ENEOS千葉用のサブドメイン作成
