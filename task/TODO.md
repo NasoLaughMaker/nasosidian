@@ -3402,4 +3402,3 @@ API集計
 ## 明日以降
 - 環境変数シート更新
 - API集計
-- [ ] datadogとcloudwatchの料金比較
