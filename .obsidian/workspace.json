@@ -51,8 +51,7 @@
               "title": "0828 アプリケーションログの精査"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -223,12 +222,12 @@
       "command-palette:コマンドパレットを開く": false
     }
   },
-  "active": "fd9394484c19d4de",
+  "active": "76a8048d6bbcbfa4",
   "lastOpenFiles": [
+    "task/0828 アプリケーションログの精査.md",
     "task/TODO.md",
     "task/0728 datadog移行対応.md",
     "task/0827 ENEOS_SPM_MARIFU-229 datadog設定関連.md",
-    "task/0828 アプリケーションログの精査.md",
     "task/0725 Resiaラベリング対応.md",
     "task/0707 Sentryのアラートを環境ごとに分ける.md",
     "task/9月鹿島対応/ENEOS_SPM_KASHIMA-568 鹿島 協力会社ユーザの編集がバルカー権限が付いていないと行えなくなってしまっている.md",
