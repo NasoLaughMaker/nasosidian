@@ -224,9 +224,9 @@
   },
   "active": "76a8048d6bbcbfa4",
   "lastOpenFiles": [
-    "task/0828 アプリケーションログの精査.md",
-    "task/TODO.md",
     "task/0728 datadog移行対応.md",
+    "task/TODO.md",
+    "task/0828 アプリケーションログの精査.md",
     "task/0827 ENEOS_SPM_MARIFU-229 datadog設定関連.md",
     "task/0725 Resiaラベリング対応.md",
     "task/0707 Sentryのアラートを環境ごとに分ける.md",
