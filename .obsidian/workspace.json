@@ -24,34 +24,21 @@
             }
           },
           {
-            "id": "21eea3ffb7c6b354",
+            "id": "28f26bb63cb771d7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "task/0728 datadog移行対応.md",
+                "file": "SQS移行調査.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "0728 datadog移行対応"
-            }
-          },
-          {
-            "id": "fd9394484c19d4de",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "task/0828 アプリケーションログの精査.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "0828 アプリケーションログの精査"
+              "title": "SQS移行調査"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -222,13 +209,14 @@
       "command-palette:コマンドパレットを開く": false
     }
   },
-  "active": "76a8048d6bbcbfa4",
+  "active": "28f26bb63cb771d7",
   "lastOpenFiles": [
-    "task/0728 datadog移行対応.md",
     "task/TODO.md",
-    "task/0828 アプリケーションログの精査.md",
-    "task/0827 ENEOS_SPM_MARIFU-229 datadog設定関連.md",
+    "SQS移行調査.md",
+    "task/0728 datadog移行対応.md",
     "task/0725 Resiaラベリング対応.md",
+    "task/0827 ENEOS_SPM_MARIFU-229 datadog設定関連.md",
+    "task/0828 アプリケーションログの精査.md",
     "task/0707 Sentryのアラートを環境ごとに分ける.md",
     "task/9月鹿島対応/ENEOS_SPM_KASHIMA-568 鹿島 協力会社ユーザの編集がバルカー権限が付いていないと行えなくなってしまっている.md",
     "task/9月鹿島対応/ENEOS_SPM_KASHIMA-446 鹿島 鹿島 F画面 入力必須の制御.md",
@@ -250,7 +238,6 @@
     "task/archive/0407 デプロイ時における shared_public_assets_ の削除STEPを追加.md",
     "task/archive/完了：5_30 load average異常値調査.md",
     "task/archive/完了：5_21 load average集計：5月編.md",
-    "knowledge/ffmpeg.md",
     "AWS/Services/CloudFormation 1e9817a83f5b80b696ebe4e00a9ee145/スクリーンショット_2025-07-20_16.34.06.png",
     "AWS/Services/CloudTrail_event.png",
     "AWS/Services/CloudTrail",
