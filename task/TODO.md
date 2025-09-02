@@ -3429,6 +3429,7 @@ API集計
 	- [ ] メール送信`Lambda + SES`の補強調査
 - [ ] CloudWatchへログ出力
 - [x] [ENEOS_SPM_KASHIMA-571](https://vqit.backlog.com/view/ENEOS_SPM_KASHIMA-571) 鹿島 作業安全指示書 撤回したコメントが帳票のコメント欄に表示されてしまう
+- [ ] [[ENEOS_SPM_KASHIMA-568 鹿島 協力会社ユーザの編集がバルカー権限が付いていないと行えなくなってしまっている]]
 
 
 ## 変動作業
