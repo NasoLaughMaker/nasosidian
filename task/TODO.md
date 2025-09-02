@@ -3429,7 +3429,7 @@ API集計
 	- [ ] メール送信`Lambda + SES`の補強調査
 - [ ] CloudWatchへログ出力
 - [x] [ENEOS_SPM_KASHIMA-571](https://vqit.backlog.com/view/ENEOS_SPM_KASHIMA-571) 鹿島 作業安全指示書 撤回したコメントが帳票のコメント欄に表示されてしまう
-- [ ] [[ENEOS_SPM_KASHIMA-446 鹿島 鹿島 F画面 入力必須の制御]]
+
 
 ## 変動作業
 - [ ] Sentry発報分離
@@ -3441,3 +3441,4 @@ API集計
 ## 明日以降
 - 環境変数シート更新
 - API集計
+- [ ] [[ENEOS_SPM_KASHIMA-446 鹿島 鹿島 F画面 入力必須の制御]]
