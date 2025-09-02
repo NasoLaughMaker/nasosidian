@@ -24,20 +24,6 @@
             }
           },
           {
-            "id": "4943334459395b0d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "task/0827 ENEOS_SPM_MARIFU-229 datadog設定関連.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "0827 ENEOS_SPM_MARIFU-229 datadog設定関連"
-            }
-          },
-          {
             "id": "b19d1481a24fcfc2",
             "type": "leaf",
             "state": {
@@ -65,8 +51,7 @@
               "title": "0901SQS移行調査"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -238,13 +223,13 @@
       "command-palette:コマンドパレットを開く": false
     }
   },
-  "active": "b4f3cdd43a020619",
+  "active": "76a8048d6bbcbfa4",
   "lastOpenFiles": [
-    "task/TODO.md",
-    "task/0827 ENEOS_SPM_MARIFU-229 datadog設定関連.md",
     "task/9月鹿島対応/ENEOS_SPM_KASHIMA-446 鹿島 鹿島 F画面 入力必須の制御.md",
-    "task/0728 datadog移行対応.md",
+    "task/0827 ENEOS_SPM_MARIFU-229 datadog設定関連.md",
     "task/0901SQS移行調査.md",
+    "task/TODO.md",
+    "task/0728 datadog移行対応.md",
     "task/0725 Resiaラベリング対応.md",
     "task/0828 アプリケーションログの精査.md",
     "task/0707 Sentryのアラートを環境ごとに分ける.md",
