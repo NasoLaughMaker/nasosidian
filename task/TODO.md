@@ -3443,3 +3443,44 @@ API集計
 - 環境変数シート更新
 - API集計
 - [ ] [[ENEOS_SPM_KASHIMA-446 鹿島 鹿島 F画面 入力必須の制御]]
+
+---
+# 9/2(火)
+## 通常作業
+- 500アラートメール確認
+	- [x] 出社後
+	- [x] お昼
+	- [ ] 夕方
+- ヘルスチェック集計
+	- [ ] 堺
+	- [ ] 川崎
+## 差し込みタスク
+
+## 優先事項
+- [x] datadog環境変数設定
+	- [x] 堺
+	- [x] 川崎
+	- [x] 鹿島
+	- [x] 水島
+	- [x] 麻里布
+	- [x] 根岸
+	- [x] 千葉
+- [ ] インフラ関連調査
+	- [ ] SQS移行に伴うpayload調査
+	- [ ] メール送信`Lambda + SES`の補強調査
+- [ ] CloudWatchへログ出力
+- [x] [ENEOS_SPM_KASHIMA-571](https://vqit.backlog.com/view/ENEOS_SPM_KASHIMA-571) 鹿島 作業安全指示書 撤回したコメントが帳票のコメント欄に表示されてしまう
+- [ ] [[ENEOS_SPM_KASHIMA-568 鹿島 協力会社ユーザの編集がバルカー権限が付いていないと行えなくなってしまっている]]
+
+
+## 変動作業
+- [ ] Sentry発報分離
+- [ ] selenium-gridの導入
+- [ ] GithubActionsの導入
+- [ ] 夏季休暇申請
+- [ ] [[0827 ENEOS_SPM_MARIFU-229 datadog設定関連]]
+
+## 明日以降
+- 環境変数シート更新
+- API集計
+- [ ] [[ENEOS_SPM_KASHIMA-446 鹿島 鹿島 F画面 入力必須の制御]]
