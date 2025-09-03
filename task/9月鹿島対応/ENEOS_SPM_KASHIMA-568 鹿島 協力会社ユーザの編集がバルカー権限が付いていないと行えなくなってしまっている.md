@@ -1,1 +1,3 @@
 select_organization_matrixを外出しして、construction_companyの全organizationを入れる
+
+[ENEOS_SPM_KASHIMA-568](https://vqit.backlog.com/view/ENEOS_SPM_KASHIMA-568) 鹿島 協力会社ユーザの編集がバルカー権限が付いていないと行えなくなってしまっている
