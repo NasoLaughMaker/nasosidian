@@ -29,12 +29,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "task/9月鹿島対応/ENEOS_SPM_KASHIMA-568 鹿島 協力会社ユーザの編集がバルカー権限が付いていないと行えなくなってしまっている.md",
+                "file": "task/0901SQS移行調査.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ENEOS_SPM_KASHIMA-568 鹿島 協力会社ユーザの編集がバルカー権限が付いていないと行えなくなってしまっている"
+              "title": "0901SQS移行調査"
             }
           }
         ],
@@ -212,8 +212,8 @@
   },
   "active": "4ce846ef170c9152",
   "lastOpenFiles": [
-    "task/TODO.md",
     "task/9月鹿島対応/ENEOS_SPM_KASHIMA-568 鹿島 協力会社ユーザの編集がバルカー権限が付いていないと行えなくなってしまっている.md",
+    "task/TODO.md",
     "task/9月鹿島対応/ENEOS_SPM_KASHIMA-446 鹿島 鹿島 F画面 入力必須の制御.md",
     "task/0901SQS移行調査.md",
     "task/0827 ENEOS_SPM_MARIFU-229 datadog設定関連.md",
