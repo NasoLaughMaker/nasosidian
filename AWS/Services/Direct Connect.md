@@ -25,7 +25,7 @@
 
 ## 仮想インタフェース
 Direct Connectを利用するには、仮想インタフェース(VIF)の作成が必要。
-- パブリック
+- パブリックVIF
     - S3やDynamoDB、VGWなどのパブリックなAWSサービスにアクセスできる。
 - プライベート
     - VPCにアタッチされた仮想プライベートゲートウェイやDirectConnectGatewayに接続するためのインタフェース。異なるリージョンと接続する場合のみ、DirectConnectGatewayを利用する。
