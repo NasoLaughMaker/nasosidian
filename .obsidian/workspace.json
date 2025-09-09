@@ -29,12 +29,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AWS/Serviceメモ.md",
+                "file": "AWS/Services/Direct Connect.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Serviceメモ"
+              "title": "Direct Connect"
             }
           }
         ],
@@ -200,8 +200,8 @@
   },
   "active": "77e37683263d745c",
   "lastOpenFiles": [
-    "AWS/Services/Route 53.md",
     "AWS/Serviceメモ.md",
+    "AWS/Services/Route 53.md",
     "task/TODO.md",
     "conflict-files-obsidian-git.md",
     "task/0908 ENEOS23-2109 堺：アプリケーションログのログローテートを30日に変更する.md",
