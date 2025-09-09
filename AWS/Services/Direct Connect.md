@@ -35,3 +35,4 @@ Direct Connectを利用するには、仮想インタフェース(VIF)の作成�
     - DirectConnectGatewayに関連付けられたTransit Gatewayにアクセスできる。
 - パブリック仮想インタフェース + VPN
 	- VGWとVPNトンネルを確立してVPCなどのプライベートネットワーク空間に接続することが可能。
+	- Direct Connectの高速・低遅延な専用回線を使いながら、VPNによる強力なデータ暗号化も実現できる。
