@@ -33,3 +33,5 @@ Direct Connectを利用するには、仮想インタフェース(VIF)の作成�
         - VGWの数は10に制限されている。さらに多くのVGWを関連づける必要があるならトランジット仮想インタフェースを利用する。
 - トランジット
     - DirectConnectGatewayに関連付けられたTransit Gatewayにアクセスできる。
+- パブリック仮想インタフェース + VPN
+	- VGWとVPNトンネルを確立して
