@@ -29,12 +29,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AWS/Services/Route 53.md",
+                "file": "AWS/Serviceメモ.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Route 53"
+              "title": "Serviceメモ"
             }
           }
         ],
@@ -200,6 +200,7 @@
   },
   "active": "77e37683263d745c",
   "lastOpenFiles": [
+    "AWS/Services/Route 53.md",
     "AWS/Serviceメモ.md",
     "task/TODO.md",
     "conflict-files-obsidian-git.md",
@@ -227,7 +228,6 @@
     "task/0827鹿島本番反映/0820 ENEOS_SPM_KASHIMA-536 鹿島 E画面 環境設定要否をソート可能にする（残存リスクの下に設ける）.md",
     "task/0820 ENEOS_SPM_KASHIMA-536 鹿島 E画面 環境設定要否をソート可能にする（残存リスクの下に設ける）.md",
     "task/archive/ENEOS23-1491 【本番】【ENEOS堺】【エラー】ログイン後のホーム画面でエラーとなってい.md",
-    "task/archive/0624 ENEOS23-1780 RDSやEC2のCPUのアラーム閾値について.md",
     "AWS/Services/CloudFormation 1e9817a83f5b80b696ebe4e00a9ee145/スクリーンショット_2025-07-20_16.34.06.png",
     "AWS/Services/CloudTrail_event.png",
     "AWS/Services/CloudTrail",
