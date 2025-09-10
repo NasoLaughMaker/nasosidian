@@ -39,4 +39,6 @@ Direct Connectを利用するには、仮想インタフェース(VIF)の作成�
 
 # BGP
 ## 7224:8100
-AWS Direct Connectと同じAWSリージョンから送信されるトラフィックにふよ
+AWS Direct Connectと同じAWSリージョンから送信されるトラフィックに付与されるタグ
+## 7224:8200
+AWS Direct Connectと同じ大陸から送信されるトラフィックに付与されるタグ
