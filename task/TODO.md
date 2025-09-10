@@ -3596,6 +3596,7 @@ API集計
 	- [x] ログの工数見積もり
 	- [ ] メール送信`Lambda + SES`の補強調査
 	- [ ] CloudWatchへログ出力
+- [ ] [ENEOS23-2109](https://vqit.backlog.com/view/ENEOS23-2109) 堺：アプリケーションログのログローテートを30日に変更する
 
 ## 変動作業
 - [ ] Sentry発報分離
