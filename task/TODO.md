@@ -3628,6 +3628,7 @@ API集計
 	- [ ] メール送信`Lambda + SES`の補強調査
 	- [ ] CloudWatchへログ出力
 - [ ] [[0827 ENEOS_SPM_MARIFU-229 datadog設定関連]]
+- [ ] 堺のサーバースケールダウンしりょう
 
 ## 変動作業
 - [ ] Sentry発報分離
