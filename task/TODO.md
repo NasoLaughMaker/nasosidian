@@ -3632,6 +3632,7 @@ API集計
 - [ ] datadogアラート設定閾値の頭出し資料作成
 - [ ] wardenの調査
 - [ ] sentryのアーカイブ対応
+- [ ] datadogのアカウント発行
 
 ## 変動作業
 - [x] Sentry発報分離
