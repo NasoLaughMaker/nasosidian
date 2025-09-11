@@ -3629,6 +3629,7 @@ API集計
 	- [ ] CloudWatchへログ出力
 - [ ] [[0827 ENEOS_SPM_MARIFU-229 datadog設定関連]]
 - [ ] 堺のサーバースケールダウン資料作成
+- [ ] datadogアラート設定閾値の頭出し資料作成
 
 ## 変動作業
 - [ ] Sentry発報分離
