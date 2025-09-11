@@ -3631,9 +3631,10 @@ API集計
 - [ ] 堺のサーバースケールダウン資料作成
 - [ ] datadogアラート設定閾値の頭出し資料作成
 - [ ] wardenの調査
+- [ ] sentryのアーカイブ対応
 
 ## 変動作業
-- [ ] Sentry発報分離
+- [x] Sentry発報分離
 - [ ] selenium-gridの導入
 - [ ] GithubActionsの導入
 - [ ] 夏季休暇申請
