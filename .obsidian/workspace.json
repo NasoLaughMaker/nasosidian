@@ -29,15 +29,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "task/0827 ENEOS_SPM_MARIFU-229 datadog設定関連.md",
+                "file": "task/0828 アプリケーションログの精査.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "0827 ENEOS_SPM_MARIFU-229 datadog設定関連"
+              "title": "0828 アプリケーションログの精査"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -209,11 +210,11 @@
       "command-palette:コマンドパレットを開く": false
     }
   },
-  "active": "76a8048d6bbcbfa4",
+  "active": "300dca152f809d3d",
   "lastOpenFiles": [
     "task/0827 ENEOS_SPM_MARIFU-229 datadog設定関連.md",
-    "task/TODO.md",
     "task/0908 ENEOS23-2109 堺：アプリケーションログのログローテートを30日に変更する.md",
+    "task/TODO.md",
     "task/0828 アプリケーションログの精査.md",
     "conflict-files-obsidian-git.md",
     "task/0707 Sentryのアラートを環境ごとに分ける.md",
