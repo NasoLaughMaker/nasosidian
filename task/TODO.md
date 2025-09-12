@@ -3663,7 +3663,7 @@ API集計
 - [ ] wardenの調査
 - [ ] sentryのアーカイブ対応
 - [ ] datadogのアカウント発行
-- [ ] スケールダウンの資料をDirectCloudにアップして山下さんに連携
+- [x] スケールダウンの資料をDirectCloudにアップして山下さんに連携
 
 ## 変動作業
 - [x] Sentry発報分離
