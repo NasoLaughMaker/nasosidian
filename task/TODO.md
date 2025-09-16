@@ -3686,7 +3686,7 @@ API集計
 ## 差し込みタスク
 
 ## 優先事項
-- [ ] datadog監視不要インスタンスの設定
+- [x] [SPM_INFRA-2](https://vqit.backlog.com/view/SPM_INFRA-2) 【Datadog】監視不要インスタンスの設定対応
 - [ ] インフラ関連調査
 	- [ ] メール送信`Lambda + SES`の補強調査
 	- [ ] CloudWatchへログ出力
