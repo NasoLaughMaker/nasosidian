@@ -3682,7 +3682,7 @@ API集計
 - 500アラートメール確認
 	- [x] 出社後
 	- [x] お昼
-	- [ ] 夕方
+	- [x] 夕方
 ## 差し込みタスク
 
 ## 優先事項
@@ -3715,14 +3715,13 @@ API集計
 ## 差し込みタスク
 
 ## 優先事項
-- [x] [SPM_INFRA-2](https://vqit.backlog.com/view/SPM_INFRA-2) 【Datadog】監視不要インスタンスの設定対応
+- [ ] 鹿島レビュー
 - [ ] インフラ関連調査
 	- [ ] メール送信`Lambda + SES`の補強調査
 	- [ ] CloudWatchへログ出力
 - [ ] datadogアラート設定閾値の頭出し資料作成
 - [ ] wardenの調査
 - [ ] sentryのアーカイブ対応
-- [x] datadogのアカウント発行
 
 ## 変動作業
 - [ ] selenium-gridの導入
