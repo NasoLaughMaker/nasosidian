@@ -3723,6 +3723,8 @@ API集計
 - [ ] datadogアラート設定閾値の頭出し資料作成
 - [ ] wardenの調査
 - [ ] sentryのアーカイブ対応
+- [ ] SlowQuery調査
+- [ ] ログ工数出し
 
 ## 変動作業
 - [ ] selenium-gridの導入
