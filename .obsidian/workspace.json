@@ -70,7 +70,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "crond",
+                "query": "sudo rm",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
