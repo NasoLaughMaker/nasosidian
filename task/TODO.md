@@ -3709,13 +3709,14 @@ API集計
 # 9/17(水)
 ## 通常作業
 - 500アラートメール確認
-	- [ ] 出社後
+	- [x] 出社後
 	- [ ] お昼
 	- [ ] 夕方
 ## 差し込みタスク
 
 ## 優先事項
 - [ ] 鹿島レビュー
+	- [ ] [ENEOS_SPM_KASHIMA-446](https://vqit.backlog.com/view/ENEOS_SPM_KASHIMA-446) 鹿島 鹿島 F画面 入力必須の制御
 - [ ] インフラ関連調査
 	- [ ] メール送信`Lambda + SES`の補強調査
 	- [ ] CloudWatchへログ出力
