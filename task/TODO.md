@@ -3715,8 +3715,8 @@ API集計
 ## 差し込みタスク
 
 ## 優先事項
-- [ ] 鹿島レビュー
-	- [ ] [ENEOS_SPM_KASHIMA-446](https://vqit.backlog.com/view/ENEOS_SPM_KASHIMA-446) 鹿島 鹿島 F画面 入力必須の制御
+- [x] 鹿島レビュー
+	- [x] [ENEOS_SPM_KASHIMA-446](https://vqit.backlog.com/view/ENEOS_SPM_KASHIMA-446) 鹿島 鹿島 F画面 入力必須の制御
 - [ ] インフラ関連調査
 	- [ ] メール送信`Lambda + SES`の補強調査
 	- [ ] CloudWatchへログ出力
