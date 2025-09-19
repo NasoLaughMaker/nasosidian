@@ -3780,6 +3780,10 @@ API集計
 - [ ] sentryのアーカイブ対応
 - [ ] ログ工数の詳細調査と松竹梅のオプション作成
 - [ ] [ENEOS_SPM_KASHIMA-583](https://vqit.backlog.com/view/ENEOS_SPM_KASHIMA-583) 鹿島 F画面のネットワーク接続エラー対応 ※堺流用
+- [ ] datadogのチケット作成
+- [ ] 鹿島PR作成
+	- F画面のsocket対応は入れれたら入れる
+	- 6つのコミットは入れて松本さんに共有する
 
 ## 変動作業
 - [ ] selenium-gridの導入
