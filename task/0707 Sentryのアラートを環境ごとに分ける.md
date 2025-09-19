@@ -120,14 +120,14 @@ Alerts > Create Alert > Errors > Issues > Set Conditions
 # TODO
 ## 本番分離
 汎用
-- [ ] 汎用
-- [ ] 汎用保全
+- [x] 汎用
+- [x] 汎用保全
 
 ENEOS
-- [ ] sakai-eneos
-- [ ] kawasaki-eneos
-- [ ] kashima-eneos
-- [ ] mizushima-eneos
+- [x] sakai-eneos
+- [x] kawasaki-eneos
+- [x] kashima-eneos
+- [x] mizushima-eneos
 
 ## STG分離
 汎用

@@ -29,12 +29,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "task/0901 SQS移行調査.md",
+                "file": "task/0707 Sentryのアラートを環境ごとに分ける.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "0901 SQS移行調査"
+              "title": "0707 Sentryのアラートを環境ごとに分ける"
             }
           }
         ],
@@ -210,22 +210,22 @@
       "command-palette:コマンドパレットを開く": false
     }
   },
-  "active": "da04bc3e138ed72b",
+  "active": "76a3bd80040710c5",
   "lastOpenFiles": [
+    "task/0725 Resiaラベリング対応.md",
+    "task/0728 datadog移行対応.md",
+    "task/完了：0827 ENEOS_SPM_MARIFU-229 datadog設定関連.md",
+    "task/archive/0828 アプリケーションログの精査.md",
+    "task/0901 SQS移行調査.md",
     "task/0908 ENEOS23-2109 堺：アプリケーションログのログローテートを30日に変更する.md",
     "task/0919 SPM_INFRA-3 【Datadog】APMサービス名の変更とタグの付与.md",
     "task/TODO.md",
     "knowledge/ffmpeg.md",
-    "task/0728 datadog移行対応.md",
     "task/archive/完了：3_12 cronの再起動.md",
     "task/9月鹿島対応/ENEOS_SPM_KASHIMA-446 鹿島 鹿島 F画面 入力必須の制御.md",
     "task/9月鹿島対応/ENEOS_SPM_KASHIMA-568 鹿島 協力会社ユーザの編集がバルカー権限が付いていないと行えなくなってしまっている.md",
-    "task/0828 アプリケーションログの精査.md",
     "task/0707 Sentryのアラートを環境ごとに分ける.md",
-    "task/0827 ENEOS_SPM_MARIFU-229 datadog設定関連.md",
     "conflict-files-obsidian-git.md",
-    "task/0725 Resiaラベリング対応.md",
-    "task/0901 SQS移行調査.md",
     "conflict-files-obsidian-git 2.md",
     "task/archive/完了：5_30 load average異常値調査.md",
     "task/archive/0905問い合わせ.md",

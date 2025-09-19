@@ -3288,7 +3288,7 @@ API集計
 - [ ] selenium-gridの導入
 - [ ] GithubActionsの導入
 - [ ] 夏季休暇申請
-- [ ] [[0827 ENEOS_SPM_MARIFU-229 datadog設定関連]]
+- [ ] [[完了：0827 ENEOS_SPM_MARIFU-229 datadog設定関連]]
 
 ## 明日以降
 - 環境変数シート更新
@@ -3323,7 +3323,7 @@ API集計
 - [ ] selenium-gridの導入
 - [ ] GithubActionsの導入
 - [ ] 夏季休暇申請
-- [ ] [[0827 ENEOS_SPM_MARIFU-229 datadog設定関連]]
+- [ ] [[完了：0827 ENEOS_SPM_MARIFU-229 datadog設定関連]]
 
 ## 明日以降
 - 環境変数シート更新
@@ -3357,7 +3357,7 @@ API集計
 - [ ] selenium-gridの導入
 - [ ] GithubActionsの導入
 - [ ] 夏季休暇申請
-- [ ] [[0827 ENEOS_SPM_MARIFU-229 datadog設定関連]]
+- [ ] [[完了：0827 ENEOS_SPM_MARIFU-229 datadog設定関連]]
 
 ## 明日以降
 - 環境変数シート更新
@@ -3396,7 +3396,7 @@ API集計
 - [ ] selenium-gridの導入
 - [ ] GithubActionsの導入
 - [ ] 夏季休暇申請
-- [ ] [[0827 ENEOS_SPM_MARIFU-229 datadog設定関連]]
+- [ ] [[完了：0827 ENEOS_SPM_MARIFU-229 datadog設定関連]]
 
 ## 明日以降
 - 環境変数シート更新
@@ -3437,7 +3437,7 @@ API集計
 - [ ] selenium-gridの導入
 - [ ] GithubActionsの導入
 - [ ] 夏季休暇申請
-- [ ] [[0827 ENEOS_SPM_MARIFU-229 datadog設定関連]]
+- [ ] [[完了：0827 ENEOS_SPM_MARIFU-229 datadog設定関連]]
 
 ## 明日以降
 - 環境変数シート更新
@@ -3472,7 +3472,7 @@ API集計
 - [ ] selenium-gridの導入
 - [ ] GithubActionsの導入
 - [ ] 夏季休暇申請
-- [ ] [[0827 ENEOS_SPM_MARIFU-229 datadog設定関連]]
+- [ ] [[完了：0827 ENEOS_SPM_MARIFU-229 datadog設定関連]]
 
 ## 明日以降
 - 環境変数シート更新
@@ -3506,7 +3506,7 @@ API集計
 - [ ] selenium-gridの導入
 - [ ] GithubActionsの導入
 - [ ] 夏季休暇申請
-- [ ] [[0827 ENEOS_SPM_MARIFU-229 datadog設定関連]]
+- [ ] [[完了：0827 ENEOS_SPM_MARIFU-229 datadog設定関連]]
 
 ## 明日以降
 - 環境変数シート更新
@@ -3540,7 +3540,7 @@ API集計
 - [ ] selenium-gridの導入
 - [ ] GithubActionsの導入
 - [ ] 夏季休暇申請
-- [ ] [[0827 ENEOS_SPM_MARIFU-229 datadog設定関連]]
+- [ ] [[完了：0827 ENEOS_SPM_MARIFU-229 datadog設定関連]]
 
 ## 明日以降
 - 環境変数シート更新
@@ -3571,7 +3571,7 @@ API集計
 - [ ] selenium-gridの導入
 - [ ] GithubActionsの導入
 - [ ] 夏季休暇申請
-- [ ] [[0827 ENEOS_SPM_MARIFU-229 datadog設定関連]]
+- [ ] [[完了：0827 ENEOS_SPM_MARIFU-229 datadog設定関連]]
 
 ## 明日以降
 - 環境変数シート更新
@@ -3607,7 +3607,7 @@ API集計
 - [ ] selenium-gridの導入
 - [ ] GithubActionsの導入
 - [ ] 夏季休暇申請
-- [ ] [[0827 ENEOS_SPM_MARIFU-229 datadog設定関連]]
+- [ ] [[完了：0827 ENEOS_SPM_MARIFU-229 datadog設定関連]]
 
 ## 明日以降
 - 環境変数シート更新
@@ -3627,7 +3627,7 @@ API集計
 - [ ] インフラ関連調査
 	- [ ] メール送信`Lambda + SES`の補強調査
 	- [ ] CloudWatchへログ出力
-- [x] [[0827 ENEOS_SPM_MARIFU-229 datadog設定関連]]
+- [x] [[完了：0827 ENEOS_SPM_MARIFU-229 datadog設定関連]]
 - [x] 堺のサーバースケールダウン資料作成
 - [ ] datadogアラート設定閾値の頭出し資料作成
 - [ ] wardenの調査
