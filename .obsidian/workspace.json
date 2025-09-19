@@ -29,12 +29,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "task/0707 Sentryのアラートを環境ごとに分ける.md",
+                "file": "task/完了：0707 Sentryのアラートを環境ごとに分ける.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "0707 Sentryのアラートを環境ごとに分ける"
+              "title": "完了：0707 Sentryのアラートを環境ごとに分ける"
             }
           }
         ],
@@ -224,7 +224,7 @@
     "task/archive/完了：3_12 cronの再起動.md",
     "task/9月鹿島対応/ENEOS_SPM_KASHIMA-446 鹿島 鹿島 F画面 入力必須の制御.md",
     "task/9月鹿島対応/ENEOS_SPM_KASHIMA-568 鹿島 協力会社ユーザの編集がバルカー権限が付いていないと行えなくなってしまっている.md",
-    "task/0707 Sentryのアラートを環境ごとに分ける.md",
+    "task/完了：0707 Sentryのアラートを環境ごとに分ける.md",
     "conflict-files-obsidian-git.md",
     "conflict-files-obsidian-git 2.md",
     "task/archive/完了：5_30 load average異常値調査.md",

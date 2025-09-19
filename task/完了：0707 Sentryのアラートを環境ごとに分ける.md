@@ -121,7 +121,7 @@ Alerts > Create Alert > Errors > Issues > Set Conditions
 ## 本番分離
 汎用
 - [x] 汎用
-- [x] 汎用保全
+~~- [ ] 汎用保全~~
 
 ENEOS
 - [x] sakai-eneos
@@ -155,4 +155,4 @@ ENEOS
 
 ## 環境変数設定
 - [x] 堺本番
-- [ ] 汎用本番
+~~- [ ] 汎用本番~~
