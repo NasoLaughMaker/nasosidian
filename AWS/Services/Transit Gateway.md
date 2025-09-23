@@ -25,3 +25,5 @@ Transit Gatewayが接続するリソースの窓口の総称
 - Outpostアタッチメント
     - 対象：AWS Outposts（オンプレのAWS環境）
     - OutpostsのネットワークをTGWに接続
+
+## アプライアンスモード
