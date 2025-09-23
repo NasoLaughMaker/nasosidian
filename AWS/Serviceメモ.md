@@ -454,7 +454,7 @@ Security Token Service
 - KMS
     - 暗号化に使用する鍵を作成・管理するサービス。通常は暗号化を行う対象のサービスと連携して利用する。
     - エンベロープ暗号化
-        - 「KMSキー」「データキー」と呼ばれる2種類の鍵を使用してデータの暗号化お[クロスアカウントアクセス](クロスアカウントアクセス.md)よび複合化を行う。データキーは暗号化を行う対象のサービスごとに作成する。
+        - 「KMSキー」「データキー」と呼ばれる2種類の鍵を使用してデータの暗号化および複合化を行う。データキーは暗号化を行う対象のサービスごとに作成する。
 - AWS Resource Access Manager
     - AWSリソースを複数のAWSアカウントで共有できるサービス。追加料金なしで利用できる。
     - 共有可能なAWSリソースは以下。
@@ -468,7 +468,7 @@ Security Token Service
 - [codeDeploy](codeDeploy.md)
 - [codeBuild](codeBuild.md)
 - [CloudFormation](CloudFormation.md)
-- 
+- [クロスアカウントアクセス](クロスアカウントアクセス.md)
 - [AWS Control Tower](AWS%20Control%20Tower.md)
 - [Amazon CodeGuru](Amazon%20CodeGuru.md)
 - [VPN Client](VPN%20Client.md)
