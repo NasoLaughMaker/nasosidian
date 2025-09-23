@@ -418,7 +418,6 @@ Security Token Service
 - AWS Firewall Manager
     - 複数のAWSアカウントやサービスを対象に、firewallのルールを一元的に設定・管理するセキュリティ管理サービス
 - [Network Firewall](Network%20Firewall.md)
-    - VPC向けのファイアウォール機能を提供するマネージドサービスです。侵入防止システム（IPS）やドメイン名によるトラフィックのフィルタリングなど、セキュリティグループやネットワークACLよりもさらに高度な機能を備えている
 - Amazon Managed Streaming for Apache Kafka
     - Apache KafkaをAWS上で効率的に運用できるようにするためのフルマネージドサービス。大量のストリーミングデータを効率的に取り扱い、リアルタイムで処理するのに適する。
 - Amazon AppFlow
