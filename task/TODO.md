@@ -3834,7 +3834,7 @@ API集計
 - [ ] wardenの調査
 - [ ] sentryのアーカイブ対応
 - [x] 週次定例
-- [ ] [ENEOS_KAWASAKI-965](https://vqit.backlog.com/view/ENEOS_KAWASAKI-965) 【本番】【ENEOS川崎】【500エラー】ファイルサイズが0Bの画像をアップロードした際に発生するエラー【DBデータ削除の一時対応チケット】
+- [x] [ENEOS_KAWASAKI-965](https://vqit.backlog.com/view/ENEOS_KAWASAKI-965) 【本番】【ENEOS川崎】【500エラー】ファイルサイズが0Bの画像をアップロードした際に発生するエラー【DBデータ削除の一時対応チケット】
 
 ## 変動作業
 - [ ] selenium-gridの導入
