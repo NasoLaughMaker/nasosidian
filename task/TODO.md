@@ -3833,7 +3833,7 @@ API集計
 	- [ ] メール送信`Lambda + SES`の補強調査
 - [ ] wardenの調査
 - [ ] sentryのアーカイブ対応
-- [ ] 週次定例
+- [x] 週次定例
 
 ## 変動作業
 - [ ] selenium-gridの導入
