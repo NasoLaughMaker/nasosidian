@@ -29,12 +29,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AWS/Serviceメモ.md",
+                "file": "AWS/Services/診断サービス.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Serviceメモ"
+              "title": "診断サービス"
             }
           }
         ],
@@ -200,6 +200,8 @@
   },
   "active": "a453af15fe95e968",
   "lastOpenFiles": [
+    "AWS/Serviceメモ.md",
+    "AWS/Services/診断サービス.md",
     "task/TODO.md",
     "conflict-files-obsidian-git.md",
     "task/0929 Sidekiqファイル出力設定.md",
@@ -213,7 +215,6 @@
     "task/完了：0707 Sentryのアラートを環境ごとに分ける.md",
     "task/archive/0828 アプリケーションログの精査.md",
     "task/0919 SPM_INFRA-3 【Datadog】APMサービス名の変更とタグの付与.md",
-    "AWS/Serviceメモ.md",
     "AWS/Services/Route 53.md",
     "task/0908 ENEOS23-2109 堺：アプリケーションログのログローテートを30日に変更する.md",
     "task/0901 SQS移行調査.md",
@@ -226,7 +227,6 @@
     "task/9月鹿島対応/ENEOS_SPM_KASHIMA-568 鹿島 協力会社ユーザの編集がバルカー権限が付いていないと行えなくなってしまっている.md",
     "task/0901SQS移行調査.md",
     "conflict-files-obsidian-git 2.md",
-    "task/9月鹿島対応/マトリックス.md",
     "task/9月鹿島対応",
     "AWS/Services/CloudFormation 1e9817a83f5b80b696ebe4e00a9ee145/スクリーンショット_2025-07-20_16.34.06.png",
     "AWS/Services/CloudTrail_event.png",

@@ -149,13 +149,9 @@
     - プライベートサブネットからインターネットへアクセスする際にプライベートIPアドレスをEIPに変換してアクセス可能にする。EIPは必須。パブリックサブネットに設置。プライベートサブネット → インターネット の一方通行に設定可能。
 
 [VPC](VPC.md)
-
 [サブネット](サブネット.md)
-
 [ENI](ENI.md)
-
 [Transit Gateway](Transit%20Gateway.md)
-
 - SNS
     - 送信側はトピックを作成、受信側はポリシー指定を行うことで非同期通信を実現(Pub/Sub)
     - SNS FIFOトピック
@@ -203,9 +199,7 @@
         - Lambda関数からプライベートサブネット内のAWSリソースへアクセスする際に設定する。インターネットへのアクセスができなくなる。以下が必要となる。
             - Lambda関数のセキュリティグループの設定
             - サブネットごとに接続用のENIを作成
-
 [Amazon ECS(Elastic Container Service)](Amazon%20ECS(Elastic%20Container%20Service).md)
-
 - Amazon EKS(Elastic Kubernetes Service)
     - AWSが提供するKubernetesのマネージドサービス。
     - Horizontal Pod Autoscaler
@@ -471,4 +465,4 @@ Security Token Service
 - [AWS Control Tower](AWS%20Control%20Tower.md)
 - [Amazon CodeGuru](Amazon%20CodeGuru.md)
 - [VPN Client](VPN%20Client.md)
-- 
+- [[診断サービス]]
