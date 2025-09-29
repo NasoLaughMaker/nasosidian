@@ -3859,6 +3859,7 @@ API集計
 	- [ ] メール送信`Lambda + SES`の補強調査
 - [ ] wardenの調査
 - [x] sentryのアーカイブ対応
+- [ ] 
 
 ## 変動作業
 - [ ] selenium-gridの導入
