@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "90651bfdcb45ce2e",
+        "id": "728c91f582058568",
         "type": "tabs",
         "children": [
           {
-            "id": "76a8048d6bbcbfa4",
+            "id": "f56c7c2469b0eec7",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -24,62 +24,21 @@
             }
           },
           {
-            "id": "c3474a38c2e73765",
+            "id": "a453af15fe95e968",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "task/0925 ENEOS_SPM_KASHIMA-497 【本番】【ENEOS鹿島】【500エラー】E画面：開始-終了において当日or翌日の変更を試みた際に発生するエラー.md",
+                "file": "AWS/Serviceメモ.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "0925 ENEOS_SPM_KASHIMA-497 【本番】【ENEOS鹿島】【500エラー】E画面：開始-終了において当日or翌日の変更を試みた際に発生するエラー"
-            }
-          },
-          {
-            "id": "76a3bd80040710c5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "task/0919 SPM_INFRA-3 【Datadog】APMサービス名の変更とタグの付与.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "0919 SPM_INFRA-3 【Datadog】APMサービス名の変更とタグの付与"
-            }
-          },
-          {
-            "id": "143b4002371210a1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "task/0901 SQS移行調査.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "0901 SQS移行調査"
-            }
-          },
-          {
-            "id": "a29cbd8588272e3e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "0929 Sidekiqファイル出力設定.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "0929 Sidekiqファイル出力設定"
+              "title": "Serviceメモ"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -220,24 +179,12 @@
               "icon": "lucide-list",
               "title": "TODOのアウトライン"
             }
-          },
-          {
-            "id": "e029ca41b4c4248b",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
-            }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -251,35 +198,35 @@
       "command-palette:コマンドパレットを開く": false
     }
   },
-  "active": "76a8048d6bbcbfa4",
+  "active": "a453af15fe95e968",
   "lastOpenFiles": [
-    "0929 Sidekiqファイル出力設定.md",
-    "task/0901 SQS移行調査.md",
-    "task/0728 datadog移行対応.md",
-    "task/0725 Resiaラベリング対応.md",
-    "task/0919 SPM_INFRA-3 【Datadog】APMサービス名の変更とタグの付与.md",
-    "task/0925 ENEOS_KAWASAKI-959 【本番】【ENEOS川崎】【500エラー】ファイルサイズが0Bの画像をアップロードした際に発生するエラー.md",
-    "task/0925 ENEOS_SPM_KASHIMA-497 【本番】【ENEOS鹿島】【500エラー】E画面：開始-終了において当日or翌日の変更を試みた際に発生するエラー.md",
     "task/TODO.md",
-    "AWS/Services/Network Firewall.md",
-    "AWS/Serviceメモ.md",
-    "task/0908 ENEOS23-2109 堺：アプリケーションログのログローテートを30日に変更する.md",
-    "task/archive/完了：0827 ENEOS_SPM_MARIFU-229 datadog設定関連.md",
-    "task/archive/完了：ENEOS23-1507 No. 453 【バルカー SPM】お問い合わせがありました.md",
-    "task/archive/完了：0715 ENEOS_SPM_KASHIMA-485 鹿島 作業安全指示書 F画面チェック1~10に.md",
-    "task/archive/完了：0825 Jobについての調査.md",
-    "task/archive/完了：0707 Sentryのアラートを環境ごとに分ける.md",
-    "task/archive/0828 アプリケーションログの精査.md",
-    "knowledge/ffmpeg.md",
-    "task/archive/完了：3_12 cronの再起動.md",
-    "task/9月鹿島対応/ENEOS_SPM_KASHIMA-446 鹿島 鹿島 F画面 入力必須の制御.md",
-    "task/9月鹿島対応/ENEOS_SPM_KASHIMA-568 鹿島 協力会社ユーザの編集がバルカー権限が付いていないと行えなくなってしまっている.md",
     "conflict-files-obsidian-git.md",
-    "conflict-files-obsidian-git 2.md",
-    "task/archive/完了：5_30 load average異常値調査.md",
+    "task/0929 Sidekiqファイル出力設定.md",
+    "AWS/Services/Direct Connect.md",
+    "task/archive/完了：0827 ENEOS_SPM_MARIFU-229 datadog設定関連.md",
+    "task/archive/完了：0707 Sentryのアラートを環境ごとに分ける.md",
+    "task/0925 ENEOS_SPM_KASHIMA-497 【本番】【ENEOS鹿島】【500エラー】E画面：開始-終了において当日or翌日の変更を試みた際に発生するエラー.md",
+    "task/0925 ENEOS_KAWASAKI-959 【本番】【ENEOS川崎】【500エラー】ファイルサイズが0Bの画像をアップロードした際に発生するエラー.md",
+    "AWS/Services/Network Firewall.md",
+    "task/完了：0827 ENEOS_SPM_MARIFU-229 datadog設定関連.md",
+    "task/完了：0707 Sentryのアラートを環境ごとに分ける.md",
+    "task/archive/0828 アプリケーションログの精査.md",
+    "task/0919 SPM_INFRA-3 【Datadog】APMサービス名の変更とタグの付与.md",
+    "AWS/Serviceメモ.md",
+    "AWS/Services/Route 53.md",
+    "task/0908 ENEOS23-2109 堺：アプリケーションログのログローテートを30日に変更する.md",
+    "task/0901 SQS移行調査.md",
+    "task/0828 アプリケーションログの精査.md",
     "task/archive/0905問い合わせ.md",
-    "task/archive/完了：3_10 ENEOS23-1089.md",
-    "無題のフォルダ",
+    "task/archive/0827鹿島本番反映/ENEOS_SPM_KASHIMA-535.md",
+    "task/archive/0827鹿島本番反映/ENEOS_SPM_KASHIMA-534.md",
+    "task/archive/0827鹿島本番反映/0820 ENEOS_SPM_KASHIMA-536 鹿島 E画面 環境設定要否をソート可能にする（残存リスクの下に設ける）.md",
+    "task/archive/0827鹿島本番反映",
+    "task/9月鹿島対応/ENEOS_SPM_KASHIMA-568 鹿島 協力会社ユーザの編集がバルカー権限が付いていないと行えなくなってしまっている.md",
+    "task/0901SQS移行調査.md",
+    "conflict-files-obsidian-git 2.md",
+    "task/9月鹿島対応/マトリックス.md",
     "task/9月鹿島対応",
     "AWS/Services/CloudFormation 1e9817a83f5b80b696ebe4e00a9ee145/スクリーンショット_2025-07-20_16.34.06.png",
     "AWS/Services/CloudTrail_event.png",
