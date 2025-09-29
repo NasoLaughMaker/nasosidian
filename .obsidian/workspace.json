@@ -79,8 +79,7 @@
               "title": "0929 Sidekiqファイル出力設定"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -252,10 +251,10 @@
       "command-palette:コマンドパレットを開く": false
     }
   },
-  "active": "a29cbd8588272e3e",
+  "active": "76a8048d6bbcbfa4",
   "lastOpenFiles": [
-    "task/0901 SQS移行調査.md",
     "0929 Sidekiqファイル出力設定.md",
+    "task/0901 SQS移行調査.md",
     "task/0728 datadog移行対応.md",
     "task/0725 Resiaラベリング対応.md",
     "task/0919 SPM_INFRA-3 【Datadog】APMサービス名の変更とタグの付与.md",
