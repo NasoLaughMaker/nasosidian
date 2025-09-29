@@ -3859,7 +3859,7 @@ API集計
 	- [ ] メール送信`Lambda + SES`の補強調査
 - [ ] wardenの調査
 - [x] sentryのアーカイブ対応
-- [ ] 
+- [x] [ENEOS_SPM_MIZUSHIMA-397](https://vqit.backlog.com/view/ENEOS_SPM_MIZUSHIMA-397) 水島 意見集約 #96 サイドメニューの下部にある「管理画面」の導線非表示
 
 ## 変動作業
 - [ ] selenium-gridの導入
