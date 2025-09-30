@@ -1,3 +1,5 @@
+`detail_daily_schedules_attributes`が配列であるため、整数を渡してあげないとエラーを吐く。
+現在は`detail_daily_schedule_tasks_attributes`を渡しているため、エラーとなっている。
 ```ruby
 def create_printing_log
 # return unless params[:daily_schedule][:detail_daily_schedules_attributes]
