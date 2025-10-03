@@ -51,7 +51,8 @@
               "title": "0929 ログ設定まとめ"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -223,17 +224,17 @@
       "command-palette:コマンドパレットを開く": false
     }
   },
-  "active": "76a8048d6bbcbfa4",
+  "active": "f58e4418a0007a13",
   "lastOpenFiles": [
-    "task/0929 ログ設定まとめ.md",
+    "task/0925 ENEOS_SPM_KASHIMA-497 【本番】【ENEOS鹿島】【500エラー】E画面：開始-終了において当日or翌日の変更を試みた際に発生するエラー.md",
     "task/TODO.md",
+    "task/0929 ログ設定まとめ.md",
     "task/archive/完了：0908 ENEOS23-2109 堺：アプリケーションログのログローテートを30日に変更する.md",
     "task/0725 Resiaラベリング対応.md",
     "task/0728 datadog移行対応.md",
     "task/0901 SQS移行調査.md",
     "task/0919 SPM_INFRA-3 【Datadog】APMサービス名の変更とタグの付与.md",
     "task/0925 ENEOS_KAWASAKI-959 【本番】【ENEOS川崎】【500エラー】ファイルサイズが0Bの画像をアップロードした際に発生するエラー.md",
-    "task/0925 ENEOS_SPM_KASHIMA-497 【本番】【ENEOS鹿島】【500エラー】E画面：開始-終了において当日or翌日の変更を試みた際に発生するエラー.md",
     "conflict-files-obsidian-git.md",
     "AWS/Services/診断サービス.md",
     "0929 Sidekiqファイル出力設定.md",
