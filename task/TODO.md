@@ -3990,7 +3990,7 @@ API集計
 
 ## 優先事項
 - [ ] インフラ工数見積もり
-- [ ] payload調査
+- [x] payload調査
 - [ ] [ENEOSCHIBA-94](https://vqit.backlog.com/view/ENEOSCHIBA-94) 千葉STG環境構築
 - [ ] [ENEOS_SPM_MIZUSHIMA-399](https://vqit.backlog.com/view/ENEOS_SPM_MIZUSHIMA-399) 水島 意見集約 #110 エリア/Tmの紐づけ設定
 - [ ] インフラ関連調査
