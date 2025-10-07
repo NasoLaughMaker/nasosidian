@@ -2,8 +2,9 @@
 
 ### 参考
 - [ENEOS23-2108](https://vqit.backlog.com/view/ENEOS23-2108) 「施工者が工事未完了」のメール配信調整
-- https://github.com/Bee2B/eneos-spm/issues/6908
-	- https://github.com/Bee2B/eneos-spm/pull/6918/files
-- https://github.com/Bee2B/eneos-spm/issues/5705
-	- https://github.com/Bee2B/eneos-spm/pull/5711
+	- https://github.com/Bee2B/eneos-spm/issues/6908
+		- https://github.com/Bee2B/eneos-spm/pull/6918/files
+- [ENEOS_SPM_KASHIMA-359](https://vqit.backlog.com/view/ENEOS_SPM_KASHIMA-359) 30分おきの許可証遅延メールの取り込み
+	- https://github.com/Bee2B/eneos-spm/issues/5705
+		- https://github.com/Bee2B/eneos-spm/pull/5711
 
