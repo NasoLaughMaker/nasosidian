@@ -4003,3 +4003,27 @@ API集計
 ## 明日以降
 - 環境変数シート更新
 - API集計
+
+---
+
+# 10/7(火)
+## 通常作業
+- 500アラートメール確認
+	- [ ] 出社後
+	- [ ] お昼
+	- [ ] 夕方
+## 差し込みタスク
+
+## 優先事項
+- [ ] [ENEOSCHIBA-94](https://vqit.backlog.com/view/ENEOSCHIBA-94) 千葉STG環境構築
+- [ ] [ENEOS_SPM_MIZUSHIMA-399](https://vqit.backlog.com/view/ENEOS_SPM_MIZUSHIMA-399) 水島 意見集約 #110 エリア/Tmの紐づけ設定
+- [ ] インフラ関連調査
+	- [ ] メール送信`Lambda + SES`の補強調査
+- [ ] wardenの調査
+
+## 変動作業
+- [ ] selenium-gridの導入
+- [ ] GithubActionsの導入
+## 明日以降
+- 環境変数シート更新
+- API集計
