@@ -4029,3 +4029,29 @@ API集計
 ## 明日以降
 - 環境変数シート更新
 - API集計
+
+---
+
+# 10/8(水)
+## 通常作業
+- 500アラートメール確認
+	- [ ] 出社後
+	- [ ] お昼
+	- [ ] 夕方
+## 差し込みタスク
+- [ ] [[1007 permitsエラーの調査]]
+
+## 優先事項
+- [x] [ENEOS_SPM_KASHIMA-497](https://vqit.backlog.com/view/ENEOS_SPM_KASHIMA-497) 【本番】【ENEOS鹿島】【500エラー】E画面：開始-終了において当日or翌日の変更を試みた際に発生するエラー
+- [ ] [ENEOS_SPM_KASHIMA-589](https://vqit.backlog.com/view/ENEOS_SPM_KASHIMA-589) 鹿島 ユーザリスト 役職が設定されていないユーザは同じく役職が登録されていないユーザでしか検索できない
+- [ ] [ENEOSCHIBA-94](https://vqit.backlog.com/view/ENEOSCHIBA-94) 千葉STG環境構築
+- [ ] [ENEOS_SPM_MIZUSHIMA-399](https://vqit.backlog.com/view/ENEOS_SPM_MIZUSHIMA-399) 水島 意見集約 #110 エリア/Tmの紐づけ設定
+- [ ] wardenの調査
+- [ ] 竹口さんへ水島datadogのスケジュール連絡
+
+## 変動作業
+- [ ] selenium-gridの導入
+- [ ] GithubActionsの導入
+## 明日以降
+- 環境変数シート更新
+- API集計
