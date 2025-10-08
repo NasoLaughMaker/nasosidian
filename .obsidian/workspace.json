@@ -50,9 +50,21 @@
               "icon": "lucide-file",
               "title": "1007 permitsエラーの調査"
             }
+          },
+          {
+            "id": "0e7c134c41832e09",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.9.14"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.9.14"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -224,7 +236,7 @@
       "command-palette:コマンドパレットを開く": false
     }
   },
-  "active": "537d592122e32fde",
+  "active": "0e7c134c41832e09",
   "lastOpenFiles": [
     "task/1007 permitsエラーの調査.md",
     "task/TODO.md",
