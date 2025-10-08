@@ -4043,11 +4043,12 @@ API集計
 
 ## 優先事項
 - [x] [ENEOS_SPM_KASHIMA-497](https://vqit.backlog.com/view/ENEOS_SPM_KASHIMA-497) 【本番】【ENEOS鹿島】【500エラー】E画面：開始-終了において当日or翌日の変更を試みた際に発生するエラー
+- [x] SlowQuery集計・調査
 - [ ] [ENEOS_SPM_KASHIMA-589](https://vqit.backlog.com/view/ENEOS_SPM_KASHIMA-589) 鹿島 ユーザリスト 役職が設定されていないユーザは同じく役職が登録されていないユーザでしか検索できない
 - [ ] [ENEOSCHIBA-94](https://vqit.backlog.com/view/ENEOSCHIBA-94) 千葉STG環境構築
 - [ ] [ENEOS_SPM_MIZUSHIMA-399](https://vqit.backlog.com/view/ENEOS_SPM_MIZUSHIMA-399) 水島 意見集約 #110 エリア/Tmの紐づけ設定
 - [ ] wardenの調査
-- [ ] 竹口さんへ水島datadogのスケジュール連絡
+- [x] 竹口さんへ水島datadogのスケジュール連絡
 - [ ] SentryのPlan報告
 
 ## 変動作業
