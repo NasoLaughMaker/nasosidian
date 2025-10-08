@@ -23,5 +23,7 @@
 	- コピー元の`daily_schedule`
 		- `18825	NULL	1	TK-234　定期開放検査工事	2025-10-06	11	ConstructionCompany	803	2025-10-01 17:18:42.062091	2025-10-01 17:18:42.062091`
 	- コピー元は中止済み
+	- エラー発生直前に削除している
+		- [datadog](https://ap1.datadoghq.com/logs?query=%40http.method%3ADELETE%20%40params.id%3A26777&agg_m=count&agg_m_source=base&agg_t=count&cols=%40http.status_code%2C%40http.method&fromUser=true&messageDisplay=inline&refresh_mode=paused&storage=hot&stream_sort=desc&viz=stream&from_ts=1759244400000&to_ts=1759849199999&live=false)
 
 
