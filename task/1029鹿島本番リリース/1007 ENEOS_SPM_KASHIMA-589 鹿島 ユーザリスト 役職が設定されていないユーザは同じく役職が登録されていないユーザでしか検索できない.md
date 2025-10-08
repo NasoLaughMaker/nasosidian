@@ -4,3 +4,6 @@
 1. user.rbに役職なしのユーザーを追加するscopeを追加
 	1. office_roleは存在するが、役職が未設定のユーザーを追加
 2. users_controller.rbのfilter_usersに作成したscopeを適応
+
+#### 追加対応
+office_roleの役職にvalidationを追加する
