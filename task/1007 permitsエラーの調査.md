@@ -7,10 +7,12 @@
 	- `detail_daily_schedules`：`detail_daily_schedule_with_tasks`：`detail_daily_schedule_task` = 1：多：多（with_taskとtaskは 1：1）
 3. コピーにより作成した許可証
 	- `detail_daily_schedules`に対して、複数の`detail_daily_schedule_with_tasks`が存在
+	- `detail_daily_schedules`：`detail_daily_schedule_with_tasks`：`detail_daily_schedule_task` = 1：多：多（with_taskとtaskは 1：1）
 ## 本エラーの問題点
 `detail_daily_schedule_with_task.detail_daily_schedule_permit`で No method Errorとなり、nilに対して`detail_daily_schedule_permit`を呼び出していると言われる。
 
 ## 調査の方針
-どうやって`detail_daily_schedule_with_tasks`がnilとなる現象が発生するか
+どうやって`detail_daily_schedule_with_tasks`がnilとなる現象が発生するか。
+また、`detail_daily_schedule_task`は存在するが、`detail_daily_schedule_with_task`がnilである状態をどうやって再現するか。（本当にこの考えが正しいかも不明）
 
 
