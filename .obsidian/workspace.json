@@ -51,8 +51,7 @@
               "title": "1007 permitsエラーの調査"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -224,11 +223,11 @@
       "command-palette:コマンドパレットを開く": false
     }
   },
-  "active": "537d592122e32fde",
+  "active": "76a8048d6bbcbfa4",
   "lastOpenFiles": [
+    "task/1007 permitsエラーの調査.md",
     "task/1029鹿島本番リリース/1007 ENEOS_SPM_KASHIMA-589 鹿島 ユーザリスト 役職が設定されていないユーザは同じく役職が登録されていないユーザでしか検索できない.md",
     "task/1029鹿島本番リリース/1006 ENEOS_SPM_KASHIMA-586 鹿島 リマインドメール追加 施工者-作業完了、工事担当・施設担当-工事完了ボタン未押下時のリマインドメール配信.md",
-    "task/1007 permitsエラーの調査.md",
     "task/1009鹿島本番リリース/1007 ENEOS_SPM_KASHIMA-590 E画面：承認による内部ステータスの更新に不備がある.md",
     "task/1009鹿島本番リリース/0925 ENEOS_SPM_KASHIMA-497 【本番】【ENEOS鹿島】【500エラー】E画面：開始-終了において当日or翌日の変更を試みた際に発生するエラー.md",
     "task/TODO.md",

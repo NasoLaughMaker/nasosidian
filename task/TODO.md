@@ -4039,7 +4039,7 @@ API集計
 	- [ ] お昼
 	- [ ] 夕方
 ## 差し込みタスク
-- [ ] [[1007 permitsエラーの調査]]
+- [x] [[1007 permitsエラーの調査]]
 
 ## 優先事項
 - [x] [ENEOS_SPM_KASHIMA-497](https://vqit.backlog.com/view/ENEOS_SPM_KASHIMA-497) 【本番】【ENEOS鹿島】【500エラー】E画面：開始-終了において当日or翌日の変更を試みた際に発生するエラー
@@ -4048,6 +4048,7 @@ API集計
 - [ ] [ENEOS_SPM_MIZUSHIMA-399](https://vqit.backlog.com/view/ENEOS_SPM_MIZUSHIMA-399) 水島 意見集約 #110 エリア/Tmの紐づけ設定
 - [ ] wardenの調査
 - [ ] 竹口さんへ水島datadogのスケジュール連絡
+- [ ] SentryのPlan報告
 
 ## 変動作業
 - [ ] selenium-gridの導入
