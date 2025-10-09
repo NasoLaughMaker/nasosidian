@@ -4074,6 +4074,7 @@ API集計
 - [ ] [ENEOS_SPM_MIZUSHIMA-399](https://vqit.backlog.com/view/ENEOS_SPM_MIZUSHIMA-399) 水島 意見集約 #110 エリア/Tmの紐づけ設定
 - [ ] wardenの調査
 - [ ] SentryのPlan報告
+- [ ] 鹿島本番反映
 
 ## 変動作業
 - [ ] selenium-gridの導入
