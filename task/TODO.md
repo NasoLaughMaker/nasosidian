@@ -4089,7 +4089,7 @@ API集計
 ## 通常作業
 - 500アラートメール確認
 	- [x] 出社後
-	- [ ] お昼
+	- [x] お昼
 	- [ ] 夕方
 ## 差し込みタスク
 - [x] [ENEOS_SPM_MARIFU-336](https://vqit.backlog.com/view/ENEOS_SPM_MARIFU-336) 【本番】【500エラー】【ENEOS麻里布】B > 添付(画像/PDF/Excel/Word/PowerPoint)：アップロード対象外のデータをアップロードして発生する変換エラー
