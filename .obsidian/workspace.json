@@ -29,7 +29,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1010 ENEOS_SPM_KASHIMA-592 鹿島 E、F 環境設定要否をデフォルトで「否」とし、また、E画面上で環境設定要否をプルダウンではなく、ラジオボタンに変更.md",
+                "file": "task/1029鹿島本番リリース/1010 ENEOS_SPM_KASHIMA-592 鹿島 E、F 環境設定要否をデフォルトで「否」とし、また、E画面上で環境設定要否をプルダウンではなく、ラジオボタンに変更.md",
                 "mode": "source",
                 "source": false
               },
@@ -43,12 +43,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "valqua/500エラー ナレッジ共有会.md",
+                "file": "task/archive/1009鹿島本番リリース/完了：1007 ENEOS_SPM_KASHIMA-590 E画面：承認による内部ステータスの更新に不備がある.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "500エラー ナレッジ共有会"
+              "title": "完了：1007 ENEOS_SPM_KASHIMA-590 E画面：承認による内部ステータスの更新に不備がある"
             }
           }
         ],
@@ -224,12 +224,13 @@
       "command-palette:コマンドパレットを開く": false
     }
   },
-  "active": "e4c5370699169edd",
+  "active": "da04bc3e138ed72b",
   "lastOpenFiles": [
-    "1010 ENEOS_SPM_KASHIMA-592 鹿島 E、F 環境設定要否をデフォルトで「否」とし、また、E画面上で環境設定要否をプルダウンではなく、ラジオボタンに変更.md",
+    "task/archive/1009鹿島本番リリース/完了：0925 ENEOS_SPM_KASHIMA-497 【本番】【ENEOS鹿島】【500エラー】E画面：開始-終了において当日or翌日の変更を試みた際に発生するエラー.md",
+    "task/1029鹿島本番リリース/1010 ENEOS_SPM_KASHIMA-592 鹿島 E、F 環境設定要否をデフォルトで「否」とし、また、E画面上で環境設定要否をプルダウンではなく、ラジオボタンに変更.md",
+    "valqua/500エラー ナレッジ共有会.md",
     "task/TODO.md",
     "無題のフォルダ",
-    "valqua/500エラー ナレッジ共有会.md",
     "valqua/障害発生.md",
     "valqua/締結管理.md",
     "valqua/共通.md",
@@ -247,12 +248,11 @@
     "task/0919 SPM_INFRA-3 【Datadog】APMサービス名の変更とタグの付与.md",
     "task/1029鹿島本番リリース/1007 ENEOS_SPM_KASHIMA-589 鹿島 ユーザリスト 役職が設定されていないユーザは同じく役職が登録されていないユーザでしか検索できない.md",
     "task/1029鹿島本番リリース/1006 ENEOS_SPM_KASHIMA-586 鹿島 リマインドメール追加 施工者-作業完了、工事担当・施設担当-工事完了ボタン未押下時のリマインドメール配信.md",
-    "task/1009鹿島本番リリース/1007 ENEOS_SPM_KASHIMA-590 E画面：承認による内部ステータスの更新に不備がある.md",
-    "task/1009鹿島本番リリース/0925 ENEOS_SPM_KASHIMA-497 【本番】【ENEOS鹿島】【500エラー】E画面：開始-終了において当日or翌日の変更を試みた際に発生するエラー.md",
+    "task/archive/1009鹿島本番リリース/完了：1007 ENEOS_SPM_KASHIMA-590 E画面：承認による内部ステータスの更新に不備がある.md",
     "task/0728 datadog移行対応.md",
     "task/archive/完了：0901 SQS移行調査.md",
     "task/archive/1007 川崎：パスワード再設定対応.md",
-    "task/1009鹿島本番リリース",
+    "task/archive/1009鹿島本番リリース",
     "task/archive/完了：0825 Jobについての調査.md",
     "task/1029鹿島本番リリース",
     "task/archive/9月鹿島対応",
