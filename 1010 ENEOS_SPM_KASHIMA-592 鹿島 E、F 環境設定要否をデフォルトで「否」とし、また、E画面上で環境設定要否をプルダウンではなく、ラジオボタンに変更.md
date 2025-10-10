@@ -7,3 +7,6 @@
 - E画面
 	- `app/controllers/api/daily_maintenance/offices/daily_schedules/bulk_inserts_controller.rb`
 		- `bulk_insert_nct`
+
+### TODO
+bulk_insert系のAPIが呼び出された時に、作成したdetail_daily_schedule_taskとoffice_report_itemの中間テーブルを作成する
