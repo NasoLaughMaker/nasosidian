@@ -29,12 +29,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "task/1029鹿島本番リリース/1010 ENEOS_SPM_KASHIMA-592 鹿島 E、F 環境設定要否をデフォルトで「否」とし、また、E画面上で環境設定要否をプルダウンではなく、ラジオボタンに変更.md",
+                "file": "valqua/500エラー ナレッジ共有会.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1010 ENEOS_SPM_KASHIMA-592 鹿島 E、F 環境設定要否をデフォルトで「否」とし、また、E画面上で環境設定要否をプルダウンではなく、ラジオボタンに変更"
+              "title": "500エラー ナレッジ共有会"
             }
           },
           {
@@ -65,7 +65,8 @@
               "title": "1010 HOME画面遷移時に発生する500エラー"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -237,16 +238,16 @@
       "command-palette:コマンドパレットを開く": false
     }
   },
-  "active": "76a8048d6bbcbfa4",
+  "active": "462564da06c891a3",
   "lastOpenFiles": [
-    "1010 HOME画面遷移時に発生する500エラー.md",
-    "task/archive/1009鹿島本番リリース/完了：1007 ENEOS_SPM_KASHIMA-590 E画面：承認による内部ステータスの更新に不備がある.md",
-    "task/archive/1009鹿島本番リリース/完了：0925 ENEOS_SPM_KASHIMA-497 【本番】【ENEOS鹿島】【500エラー】E画面：開始-終了において当日or翌日の変更を試みた際に発生するエラー.md",
-    "task/1029鹿島本番リリース/1010 ENEOS_SPM_KASHIMA-592 鹿島 E、F 環境設定要否をデフォルトで「否」とし、また、E画面上で環境設定要否をプルダウンではなく、ラジオボタンに変更.md",
-    "valqua/500エラー ナレッジ共有会.md",
-    "task/TODO.md",
-    "無題のフォルダ",
     "valqua/障害発生.md",
+    "valqua/500エラー ナレッジ共有会.md",
+    "task/1029鹿島本番リリース/1010 ENEOS_SPM_KASHIMA-592 鹿島 E、F 環境設定要否をデフォルトで「否」とし、また、E画面上で環境設定要否をプルダウンではなく、ラジオボタンに変更.md",
+    "task/archive/1009鹿島本番リリース/完了：1007 ENEOS_SPM_KASHIMA-590 E画面：承認による内部ステータスの更新に不備がある.md",
+    "task/TODO.md",
+    "1010 HOME画面遷移時に発生する500エラー.md",
+    "task/archive/1009鹿島本番リリース/完了：0925 ENEOS_SPM_KASHIMA-497 【本番】【ENEOS鹿島】【500エラー】E画面：開始-終了において当日or翌日の変更を試みた際に発生するエラー.md",
+    "無題のフォルダ",
     "valqua/締結管理.md",
     "valqua/共通.md",
     "valqua/議事録・メモ.md",
