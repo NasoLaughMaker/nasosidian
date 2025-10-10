@@ -4088,10 +4088,11 @@ API集計
 # 10/10(木)
 ## 通常作業
 - 500アラートメール確認
-	- [x] 出社後
-	- [x] お昼
+	- [ ] 出社後
+	- [ ] お昼
 	- [ ] 夕方
 ## 差し込みタスク
+- [x] [ENEOS_SPM_MARIFU-336](https://vqit.backlog.com/view/ENEOS_SPM_MARIFU-336) 【本番】【500エラー】【ENEOS麻里布】B > 添付(画像/PDF/Excel/Word/PowerPoint)：アップロード対象外のデータをアップロードして発生する変換エラー
 
 ## 優先事項
 - [ ] [ENEOS_SPM_KASHIMA-589](https://vqit.backlog.com/view/ENEOS_SPM_KASHIMA-589) 鹿島 ユーザリスト 役職が設定されていないユーザは同じく役職が登録されていないユーザでしか検索できない
