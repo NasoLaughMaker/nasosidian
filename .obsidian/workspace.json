@@ -70,7 +70,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "VIF",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -91,8 +91,7 @@
               "title": "ブックマーク"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -199,7 +198,7 @@
       "command-palette:コマンドパレットを開く": false
     }
   },
-  "active": "a453af15fe95e968",
+  "active": "da04bc3e138ed72b",
   "lastOpenFiles": [
     "AWS/Serviceメモ.md",
     "task/1010 HOME画面遷移時に発生する500エラー.md",
