@@ -60,4 +60,7 @@ AWSサービスから見たときのトラフィック
 # ルートテーブルとVPNルーティングの優先度
 1. 最長プレフィックス一致
 2. AWS Direct Connect接続からBGPで伝播されたルート
-3. Site-to-Site VPN接続用に手動で追加
+3. Site-to-Site VPN接続用に手動で追加された静的ルート
+4. Site-to-SIte VPN接続からBGPで伝播されたルート
+5. 各Site-to-Site VPN接続がBGPを使用しているプレフィックスのマッチングでは、最短のAS PATHを持っているプレフィックス
+6. AS PATHが比較され、AS_SEQUENCE内の最初のASが複数のパスで同じである場合、multi-exit discriminators(MED)が比較され、最小のMED値を持つパスが優先される。
