@@ -20,3 +20,6 @@ OAC（オリジンアクセスコントロール）を作成し、CFディスト
 ALBにカスタムヘッダーを要求し、WAFで検査するように設定。
 
 WAFでカスタムヘッダーの存在を検証するルールでルールでWeb ACLを作成し、ALBに関連付ける。
+
+## CloudFrontとカスタムオリジン間の通信でHTTPSを必須にする
+CloudFrontのキャッシュ動作をHTTTPS要求に設定し、CloudFront
