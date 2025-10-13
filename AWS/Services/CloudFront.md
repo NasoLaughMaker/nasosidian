@@ -22,4 +22,7 @@ ALBにカスタムヘッダーを要求し、WAFで検査するように設定�
 WAFでカスタムヘッダーの存在を検証するルールでルールでWeb ACLを作成し、ALBに関連付ける。
 
 ## CloudFrontとカスタムオリジン間の通信でHTTPSを必須にする
-CloudFrontのキャッシュ動作をHTTTPS要求に設定し、CloudFront
+CloudFrontのキャッシュ動作をHTTTPS要求に設定し、CloudFrontオリジンのプロトコルポリシーを「Match Viewer」に設定することで、強力な暗号化を使用して機密データを保護できる。（[参考](https://docs.aws.amazon.com/ja_jp/AmazonCloudFront/latest/DeveloperGuide/using-https-cloudfront-to-custom-origin.html)）
+
+1. ディストリビューションで、「Origin Protocol Policy」設定を変更する。
+2. オリジンサーバーにSSL/TLS証明書をインストールする。（S3オリジン、または特定のその他のAWSオリジンを使用する場合は不要。）
