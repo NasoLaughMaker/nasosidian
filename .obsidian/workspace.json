@@ -29,12 +29,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AWS/Serviceメモ.md",
+                "file": "AWS/Services/Site-to-Site VPN.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Serviceメモ"
+              "title": "Site-to-Site VPN"
             }
           }
         ],
@@ -200,9 +200,12 @@
   },
   "active": "e2af5f28b7423fff",
   "lastOpenFiles": [
+    "トランジットゲートウェイ.md",
+    "AWS/Services/Site-to-Site VPN.md",
+    "AWS/Serviceメモ.md",
+    "AWS/Services/ゲートウェイ.md",
     "task/TODO.md",
     "AWS/Services/Direct Connect.md",
-    "AWS/Serviceメモ.md",
     "task/1010 HOME画面遷移時に発生する500エラー.md",
     "conflict-files-obsidian-git.md",
     "task/archive/完了：0901 SQS移行調査.md",
@@ -227,9 +230,6 @@
     "task/0929 Sidekiqファイル出力設定.md",
     "task/archive/完了：0827 ENEOS_SPM_MARIFU-229 datadog設定関連.md",
     "task/archive/完了：0707 Sentryのアラートを環境ごとに分ける.md",
-    "task/0925 ENEOS_SPM_KASHIMA-497 【本番】【ENEOS鹿島】【500エラー】E画面：開始-終了において当日or翌日の変更を試みた際に発生するエラー.md",
-    "task/0925 ENEOS_KAWASAKI-959 【本番】【ENEOS川崎】【500エラー】ファイルサイズが0Bの画像をアップロードした際に発生するエラー.md",
-    "AWS/Services/Network Firewall.md",
     "task/archive/0827鹿島本番反映",
     "task/9月鹿島対応",
     "AWS/Services/CloudFormation 1e9817a83f5b80b696ebe4e00a9ee145/スクリーンショット_2025-07-20_16.34.06.png",
