@@ -24,7 +24,23 @@
             }
           },
           {
-            "id": "e2af5f28b7423fff",
+            "id": "585d53d759ad55b4",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "AWS/Serviceメモ.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "Serviceメモ"
+            }
+          },
+          {
+            "id": "40118afa1ca5d120",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -38,7 +54,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -198,13 +214,14 @@
       "command-palette:コマンドパレットを開く": false
     }
   },
-  "active": "e2af5f28b7423fff",
+  "active": "40118afa1ca5d120",
   "lastOpenFiles": [
-    "トランジットゲートウェイ.md",
-    "AWS/Services/Site-to-Site VPN.md",
-    "AWS/Serviceメモ.md",
     "AWS/Services/ゲートウェイ.md",
+    "AWS/Serviceメモ.md",
+    "AWS/Services/Site-to-Site VPN.md",
+    "トランジットゲートウェイ.md",
     "task/TODO.md",
+    "[[トランジットゲートウェイ.md",
     "AWS/Services/Direct Connect.md",
     "task/1010 HOME画面遷移時に発生する500エラー.md",
     "conflict-files-obsidian-git.md",
@@ -229,7 +246,6 @@
     "task/0929 ログ設定まとめ.md",
     "task/0929 Sidekiqファイル出力設定.md",
     "task/archive/完了：0827 ENEOS_SPM_MARIFU-229 datadog設定関連.md",
-    "task/archive/完了：0707 Sentryのアラートを環境ごとに分ける.md",
     "task/archive/0827鹿島本番反映",
     "task/9月鹿島対応",
     "AWS/Services/CloudFormation 1e9817a83f5b80b696ebe4e00a9ee145/スクリーンショット_2025-07-20_16.34.06.png",

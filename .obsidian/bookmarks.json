@@ -5,6 +5,12 @@
       "ctime": 1753927094451,
       "path": "task/TODO.md",
       "title": "TODO"
+    },
+    {
+      "type": "file",
+      "ctime": 1760334284462,
+      "path": "AWS/Services/ゲートウェイ.md",
+      "subpath": "#トランジットゲートウェイ"
     }
   ]
 }
