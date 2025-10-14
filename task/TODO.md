@@ -4109,3 +4109,30 @@ API集計
 ## 明日以降
 - 環境変数シート更新
 - API集計
+
+
+---
+
+# 10/14(火)
+## 通常作業
+- 500アラートメール確認
+	- [ ] 出社後
+	- [ ] お昼
+	- [ ] 夕方
+## 差し込みタスク
+- [x] [ENEOS_SPM_MARIFU-336](https://vqit.backlog.com/view/ENEOS_SPM_MARIFU-336) 【本番】【500エラー】【ENEOS麻里布】B > 添付(画像/PDF/Excel/Word/PowerPoint)：アップロード対象外のデータをアップロードして発生する変換エラー
+
+## 優先事項
+- [ ] [ENEOS_SPM_KASHIMA-589](https://vqit.backlog.com/view/ENEOS_SPM_KASHIMA-589) 鹿島 ユーザリスト 役職が設定されていないユーザは同じく役職が登録されていないユーザでしか検索できない
+- [ ] [ENEOS_SPM_KASHIMA-586](https://vqit.backlog.com/view/ENEOS_SPM_KASHIMA-586) 鹿島 リマインドメール追加 施工者-作業完了、工事担当・施設担当-工事完了ボタン未押下時のリマインドメール配信
+- [ ] [ENEOSCHIBA-94](https://vqit.backlog.com/view/ENEOSCHIBA-94) 千葉STG環境構築
+- [ ] [ENEOS_SPM_MIZUSHIMA-399](https://vqit.backlog.com/view/ENEOS_SPM_MIZUSHIMA-399) 水島 意見集約 #110 エリア/Tmの紐づけ設定
+- [ ] wardenの調査
+- [ ] SentryのPlan報告
+
+## 変動作業
+- [ ] selenium-gridの導入
+- [ ] GithubActionsの導入
+## 明日以降
+- 環境変数シート更新
+- API集計
