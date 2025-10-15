@@ -4162,3 +4162,27 @@ API集計
 ## 明日以降
 - 環境変数シート更新
 - API集計
+`https://marifu-eneos.valqua-spm-adv.com/api/daily_maintenance/offices/180/daily_schedules/count_task_by_approval_status?page=1&per=100&q[detailDailyScheduleDailyScheduleStartAtGteq]=2025-10-15&q[detailDailyScheduleDailyScheduleStartAtLteq]=2025-10-15&q[dailyMaintenanceAreaIdIn][]=134&q[dailyMaintenanceAreaIdIn][]=36&q[dailyMaintenanceAreaIdIn][]=37&q[dailyMaintenanceAreaIdIn][]=38&q[dailyMaintenanceAreaIdIn][]=39&q[dailyMaintenanceAreaIdIn][]=40&q[dailyMaintenanceAreaIdIn][]=41&q[dailyMaintenanceAreaIdIn][]=42&q[dailyMaintenanceAreaIdIn][]=43&q[dailyMaintenanceAreaIdIn][]=44&q[dailyMaintenanceAreaIdIn][]=45&q[dailyMaintenanceAreaIdIn][]=46&q[dailyMaintenanceAreaIdIn][]=47&q[dailyMaintenanceAreaIdIn][]=48&q[dailyMaintenanceAreaIdIn][]=49&q[dailyMaintenanceAreaIdIn][]=50&q[dailyMaintenanceAreaIdIn][]=51&q[dailyMaintenanceAreaIdIn][]=52&q[dailyMaintenanceAreaIdIn][]=53&q[dailyMaintenanceAreaIdIn][]=54&q[dailyMaintenanceAreaIdIn][]=55&q[dailyMaintenanceAreaIdIn][]=56&q[approvalWaitIn][]=taskMarifuTaskReceptionTl`
+
+北地区
+01地区
+05地区
+07地区
+08地区
+11地区
+12地区
+13地区
+14地区
+15地区
+16地区
+17地区
+18地区
+19地区
+20地区
+原油桟橋
+LPG桟橋
+1号桟橋
+2号桟橋
+3号桟橋
+4号桟橋
+操油係共通
