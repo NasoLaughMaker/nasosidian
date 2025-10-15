@@ -4148,6 +4148,7 @@ API集計
 	- [ ] 夕方
 ## 差し込みタスク
 - [x] [ENEOS_SPM_MARIFU-343](https://vqit.backlog.com/view/ENEOS_SPM_MARIFU-343) 【本番】【ENEOS麻里布】【500エラー】お知らせ新規登録 or 編集時に、日付で過剰な値の設定を試みた場合に発生するエラー
+- [x] [ENEOS_SPM_KASHIMA-593](https://vqit.backlog.com/view/ENEOS_SPM_KASHIMA-593) 【本番】【ENEOS鹿島】【500エラー】E画面：バッチによる絞り込みをしている状態のURLを、別タブや別ウィンドウにコピペしてE画面を開いた際に発生するエラー
 
 ## 優先事項
 - [ ] [ENEOS_SPM_KASHIMA-589](https://vqit.backlog.com/view/ENEOS_SPM_KASHIMA-589) 鹿島 ユーザリスト 役職が設定されていないユーザは同じく役職が登録されていないユーザでしか検索できない
