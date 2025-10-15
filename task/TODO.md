@@ -4143,9 +4143,9 @@ API集計
 # 10/15(水)
 ## 通常作業
 - 500アラートメール確認
-	- [ ] 出社後
-	- [ ] お昼
-	- [ ] 夕方
+	- [x] 出社後
+	- [x] お昼
+	- [x] 夕方
 ## 差し込みタスク
 - [x] [ENEOS_SPM_MARIFU-343](https://vqit.backlog.com/view/ENEOS_SPM_MARIFU-343) 【本番】【ENEOS麻里布】【500エラー】お知らせ新規登録 or 編集時に、日付で過剰な値の設定を試みた場合に発生するエラー
 - [x] [ENEOS_SPM_KASHIMA-593](https://vqit.backlog.com/view/ENEOS_SPM_KASHIMA-593) 【本番】【ENEOS鹿島】【500エラー】E画面：バッチによる絞り込みをしている状態のURLを、別タブや別ウィンドウにコピペしてE画面を開いた際に発生するエラー
@@ -4157,7 +4157,7 @@ API集計
 - [ ] [ENEOSCHIBA-94](https://vqit.backlog.com/view/ENEOSCHIBA-94) 千葉STG環境構築
 - [ ] [ENEOS_SPM_MIZUSHIMA-399](https://vqit.backlog.com/view/ENEOS_SPM_MIZUSHIMA-399) 水島 意見集約 #110 エリア/Tmの紐づけ設定
 - [ ] wardenの調査
-- [ ] SlowQuery調査
+- [x] SlowQuery調査
 
 ## 変動作業
 - [ ] selenium-gridの導入
@@ -4165,40 +4165,3 @@ API集計
 ## 明日以降
 - 環境変数シート更新
 - API集計
-
-北地区
-01地区
-05地区
-07地区
-08地区
-11地区
-12地区
-13地区
-14地区
-15地区
-16地区
-17地区
-18地区
-19地区
-20地区
-原油桟橋
-LPG桟橋
-1号桟橋
-2号桟橋
-3号桟橋
-4号桟橋
-操油係共通
-
-1287,
-1285,
-1227,
-1215,
-1200,
-1008,
-909,
-1414,
-898,
-726,
-636,
-463,
-1156
