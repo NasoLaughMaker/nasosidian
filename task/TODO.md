@@ -4156,6 +4156,7 @@ API集計
 - [ ] [ENEOSCHIBA-94](https://vqit.backlog.com/view/ENEOSCHIBA-94) 千葉STG環境構築
 - [ ] [ENEOS_SPM_MIZUSHIMA-399](https://vqit.backlog.com/view/ENEOS_SPM_MIZUSHIMA-399) 水島 意見集約 #110 エリア/Tmの紐づけ設定
 - [ ] wardenの調査
+- [ ] SlowQuery調査
 
 ## 変動作業
 - [ ] selenium-gridの導入
