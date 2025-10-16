@@ -4172,7 +4172,7 @@ API集計
 ## 通常作業
 - 500アラートメール確認
 	- [x] 出社後
-	- [ ] お昼
+	- [x] お昼
 	- [ ] 夕方
 ## 差し込みタスク
 
@@ -4181,7 +4181,7 @@ API集計
 - [ ] [ENEOS_SPM_KASHIMA-592](https://vqit.backlog.com/view/ENEOS_SPM_KASHIMA-592) 鹿島 E、F 環境設定要否をデフォルトで「否」とし、また、E画面上で環境設定要否をプルダウンではなく、ラジオボタンに変更
 	- vuさんがいつのまにか対応していた。BEの対応も必要だろうから中身見る。
 - [ ] [ENEOSCHIBA-94](https://vqit.backlog.com/view/ENEOSCHIBA-94) 千葉STG環境構築
-- [ ] [ENEOS_SPM_MIZUSHIMA-399](https://vqit.backlog.com/view/ENEOS_SPM_MIZUSHIMA-399) 水島 意見集約 #110 エリア/Tmの紐づけ設定
+- [x] [ENEOS_SPM_MIZUSHIMA-399](https://vqit.backlog.com/view/ENEOS_SPM_MIZUSHIMA-399) 水島 意見集約 #110 エリア/Tmの紐づけ設定
 - [ ] wardenの調査
 - [x] 週次定例
 
