@@ -4204,8 +4204,32 @@ API集計
 
 ## 優先事項
 - [ ] [ENEOS_SPM_KASHIMA-586](https://vqit.backlog.com/view/ENEOS_SPM_KASHIMA-586) 鹿島 リマインドメール追加 施工者-作業完了、工事担当・施設担当-工事完了ボタン未押下時のリマインドメール配信
-- [ ] [ENEOS_SPM_KASHIMA-592](https://vqit.backlog.com/view/ENEOS_SPM_KASHIMA-592) 鹿島 E、F 環境設定要否をデフォルトで「否」とし、また、E画面上で環境設定要否をプルダウンではなく、ラジオボタンに変更
+- [x] [ENEOS_SPM_KASHIMA-592](https://vqit.backlog.com/view/ENEOS_SPM_KASHIMA-592) 鹿島 E、F 環境設定要否をデフォルトで「否」とし、また、E画面上で環境設定要否をプルダウンではなく、ラジオボタンに変更
 	- vuさんがいつのまにか対応していた。BEの対応も必要だろうから中身見る。
+- [ ] [ENEOSCHIBA-94](https://vqit.backlog.com/view/ENEOSCHIBA-94) 千葉STG環境構築
+- [ ] wardenの調査
+
+## 変動作業
+- [ ] selenium-gridの導入
+- [ ] GithubActionsの導入
+## 明日以降
+- 環境変数シート更新
+
+---
+
+# 10/20(月)
+## 通常作業
+- 500アラートメール確認
+	- [x] 出社後
+	- [ ] お昼
+	- [ ] 夕方
+## 差し込みタスク
+
+## 優先事項
+- [ ] [ENEOS_SPM_KASHIMA-586](https://vqit.backlog.com/view/ENEOS_SPM_KASHIMA-586) 鹿島 リマインドメール追加 施工者-作業完了、工事担当・施設担当-工事完了ボタン未押下時のリマインドメール配信
+- [x] [ENEOS_SPM_KASHIMA-592](https://vqit.backlog.com/view/ENEOS_SPM_KASHIMA-592) 鹿島 E、F 環境設定要否をデフォルトで「否」とし、また、E画面上で環境設定要否をプルダウンではなく、ラジオボタンに変更
+	- レビュー待ち
+- [ ] 502エラーの解消予定計画のさ
 - [ ] [ENEOSCHIBA-94](https://vqit.backlog.com/view/ENEOSCHIBA-94) 千葉STG環境構築
 - [ ] wardenの調査
 
