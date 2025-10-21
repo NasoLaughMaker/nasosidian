@@ -15,4 +15,7 @@
 		- optional: true
 - conservation_reportなし
 	- user_charge
+		- user
+		- optional: true
+
 
