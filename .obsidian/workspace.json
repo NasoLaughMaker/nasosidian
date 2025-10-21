@@ -37,8 +37,7 @@
               "title": "1006 ENEOS_SPM_KASHIMA-586 鹿島 リマインドメール追加 施工者-作業完了、工事担当・施設担当-工事完了ボタン未押下時のリマインドメール配信"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -210,10 +209,10 @@
       "command-palette:コマンドパレットを開く": false
     }
   },
-  "active": "b39453c927060feb",
+  "active": "76a8048d6bbcbfa4",
   "lastOpenFiles": [
-    "task/TODO.md",
     "task/1029鹿島本番リリース/1006 ENEOS_SPM_KASHIMA-586 鹿島 リマインドメール追加 施工者-作業完了、工事担当・施設担当-工事完了ボタン未押下時のリマインドメール配信.md",
+    "task/TODO.md",
     "task/1029鹿島本番リリース/1007 ENEOS_SPM_KASHIMA-589 鹿島 ユーザリスト 役職が設定されていないユーザは同じく役職が登録されていないユーザでしか検索できない.md",
     "task/1029鹿島本番リリース/1010 ENEOS_SPM_KASHIMA-592 鹿島 E、F 環境設定要否をデフォルトで「否」とし、また、E画面上で環境設定要否をプルダウンではなく、ラジオボタンに変更.md",
     "task/1017 warden エラー.md",
