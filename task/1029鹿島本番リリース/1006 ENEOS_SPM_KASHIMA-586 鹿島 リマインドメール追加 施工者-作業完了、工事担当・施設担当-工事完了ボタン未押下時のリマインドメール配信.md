@@ -9,5 +9,10 @@
 		- https://github.com/Bee2B/eneos-spm/pull/5711
 
 ### 工事担当
-conservation_report
+- conservation_reportあり
+	- construction_charger
+		- user
+		- optional: true
+- conservation_reportなし
+	- user_charge
 
