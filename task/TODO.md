@@ -4278,7 +4278,7 @@ API集計
 # 10/22(水)
 ## 通常作業
 - 500アラートメール確認
-	- [ ] 出社後
+	- [x] 出社後
 	- [ ] お昼
 	- [ ] 夕方
 ## 差し込みタスク
@@ -4290,15 +4290,17 @@ API集計
 	- [x] 施工者
 	- [ ] 工事担当
 	- [ ] 施設担当
-- [x] [ENEOS_SPM_KASHIMA-592](https://vqit.backlog.com/view/ENEOS_SPM_KASHIMA-592) 鹿島 E、F 環境設定要否をデフォルトで「否」とし、また、E画面上で環境設定要否をプルダウンではなく、ラジオボタンに変更
-	- レビュー待ち
+- [ ] ElastiCache対応
+	- [ ] 16:30以降
+- [ ] 麻里布本番反映
 - [ ] 502エラーの解消予定計画の作成
 	- 種類分ける。それぞれの対応予定を出す。
-- [ ] [ENEOSCHIBA-94](https://vqit.backlog.com/view/ENEOSCHIBA-94) 千葉STG環境構築
+- [ ] SlowQuery集計
 - [ ] wardenの調査
 
 ## 変動作業
 - [ ] selenium-gridの導入
 - [ ] GithubActionsの導入
 ## 明日以降
+- [ ] [ENEOSCHIBA-94](https://vqit.backlog.com/view/ENEOSCHIBA-94) 千葉STG環境構築
 - 環境変数シート更新
