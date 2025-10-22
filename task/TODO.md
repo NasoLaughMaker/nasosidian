@@ -4272,3 +4272,33 @@ API集計
 - [ ] GithubActionsの導入
 ## 明日以降
 - 環境変数シート更新
+
+---
+
+# 10/22(水)
+## 通常作業
+- 500アラートメール確認
+	- [ ] 出社後
+	- [ ] お昼
+	- [ ] 夕方
+## 差し込みタスク
+- [x] [ENEOS23-1616](https://vqit.backlog.com/view/ENEOS23-1616) マルチアプリケーションデプロイ時のsidekiq指定
+	- [ ] demo-kawasakiを明日対応
+
+## 優先事項
+- [ ] [ENEOS_SPM_KASHIMA-586](https://vqit.backlog.com/view/ENEOS_SPM_KASHIMA-586) 鹿島 リマインドメール追加 施工者-作業完了、工事担当・施設担当-工事完了ボタン未押下時のリマインドメール配信
+	- [x] 施工者
+	- [ ] 工事担当
+	- [ ] 施設担当
+- [x] [ENEOS_SPM_KASHIMA-592](https://vqit.backlog.com/view/ENEOS_SPM_KASHIMA-592) 鹿島 E、F 環境設定要否をデフォルトで「否」とし、また、E画面上で環境設定要否をプルダウンではなく、ラジオボタンに変更
+	- レビュー待ち
+- [ ] 502エラーの解消予定計画の作成
+	- 種類分ける。それぞれの対応予定を出す。
+- [ ] [ENEOSCHIBA-94](https://vqit.backlog.com/view/ENEOSCHIBA-94) 千葉STG環境構築
+- [ ] wardenの調査
+
+## 変動作業
+- [ ] selenium-gridの導入
+- [ ] GithubActionsの導入
+## 明日以降
+- 環境変数シート更新
