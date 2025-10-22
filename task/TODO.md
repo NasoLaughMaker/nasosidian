@@ -4286,10 +4286,10 @@ API集計
 	- [ ] demo-kawasakiを明日対応
 
 ## 優先事項
-- [ ] [ENEOS_SPM_KASHIMA-586](https://vqit.backlog.com/view/ENEOS_SPM_KASHIMA-586) 鹿島 リマインドメール追加 施工者-作業完了、工事担当・施設担当-工事完了ボタン未押下時のリマインドメール配信
+- [x] [ENEOS_SPM_KASHIMA-586](https://vqit.backlog.com/view/ENEOS_SPM_KASHIMA-586) 鹿島 リマインドメール追加 施工者-作業完了、工事担当・施設担当-工事完了ボタン未押下時のリマインドメール配信
 	- [x] 施工者
-	- [ ] 工事担当
-	- [ ] 施設担当
+	- [x] 工事担当
+	- [x] 施設担当
 - [ ] ElastiCache対応
 	- [ ] 明日
 - [ ] 麻里布本番反映
