@@ -4304,3 +4304,26 @@ API集計
 ## 明日以降
 - [ ] [ENEOSCHIBA-94](https://vqit.backlog.com/view/ENEOSCHIBA-94) 千葉STG環境構築
 - 環境変数シート更新
+
+# 10/22(水)
+## 通常作業
+- 500アラートメール確認
+	- [x] 出社後
+	- [ ] お昼
+	- [ ] 夕方
+## 差し込みタスク
+- [x] [ENEOS23-1616](https://vqit.backlog.com/view/ENEOS23-1616) マルチアプリケーションデプロイ時のsidekiq指定
+	- [ ] demo-kawasakiを明日対応
+
+## 優先事項
+- [x] ElastiCache対応
+- [ ] [ENEOSCHIBA-94](https://vqit.backlog.com/view/ENEOSCHIBA-94) 千葉STG環境構築
+- [ ] 502エラーの解消予定計画の作成
+	- 種類分ける。それぞれの対応予定を出す。
+- [ ] wardenの調査
+
+## 変動作業
+- [ ] selenium-gridの導入
+- [ ] GithubActionsの導入
+## 明日以降
+- 環境変数シート更新
