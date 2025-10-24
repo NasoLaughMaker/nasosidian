@@ -4339,7 +4339,7 @@ API集計
 	- [ ] 夕方
 ## 差し込みタスク
 - [x] [ENEOS23-1616](https://vqit.backlog.com/view/ENEOS23-1616) マルチアプリケーションデプロイ時のsidekiq指定
-	- [ ] demo-kawasakiを明日対応
+	- [x] demo-kawasakiを明日対応
 
 ## 優先事項
 - [x] ElastiCache対応
