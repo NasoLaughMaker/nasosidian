@@ -229,6 +229,7 @@
   },
   "active": "f56c7c2469b0eec7",
   "lastOpenFiles": [
+    "AWS/Services/Audit Manager.md",
     "AWS/Services/Route 53.md",
     "task/1023 ENEOSCHIBA-94 千葉STG環境構築.md",
     "AWS/Serviceメモ.md",
@@ -255,7 +256,6 @@
     "task/1029鹿島本番リリース/1007 ENEOS_SPM_KASHIMA-589 鹿島 ユーザリスト 役職が設定されていないユーザは同じく役職が登録されていないユーザでしか検索できない.md",
     "task/archive/1007 川崎：パスワード再設定対応.md",
     "川崎：パスワード再設定対応.md",
-    "task/1008鹿島本番リリース/0925 ENEOS_SPM_KASHIMA-497 【本番】【ENEOS鹿島】【500エラー】E画面：開始-終了において当日or翌日の変更を試みた際に発生するエラー.md",
     "task/1008鹿島本番リリース",
     "task/1029鹿島本番リリース",
     "task/archive/9月鹿島対応",
