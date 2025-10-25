@@ -4343,9 +4343,9 @@ API集計
 
 ## 優先事項
 - [x] ElastiCache対応
-	- [ ] シナリオテストの確認
-	- [ ] gov-devとdev2のElastiCache利用
-- [ ] 鹿島開発環境反映
+	- [x] シナリオテストの確認
+	- [x] gov-devとdev2のElastiCache利用
+- [x] 鹿島開発環境反映
 - [ ] 502エラーの解消予定計画の作成
 - [ ] wardenの調査
 
