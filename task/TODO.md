@@ -4369,8 +4369,8 @@ API集計
 - [ ] freee確認
 
 ## 優先事項
-- [ ] ElastiCache対応
-	- [ ] STG検証
+- [x] ElastiCache対応
+	- [x] STG検証
 - [ ] [ENEOS_SPM_KASHIMA-586](https://vqit.backlog.com/view/ENEOS_SPM_KASHIMA-586) 
 	- [ ] 休日の考慮
 - [ ] [ENEOS_SPM_KASHIMA-592](https://vqit.backlog.com/view/ENEOS_SPM_KASHIMA-592) 
