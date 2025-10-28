@@ -4397,8 +4397,8 @@ API集計
 
 ## 優先事項
 - [ ] [ENEOS_SPM_KASHIMA-586](https://vqit.backlog.com/view/ENEOS_SPM_KASHIMA-586) 
-- [ ] [ENEOS_SPM_KASHIMA-592](https://vqit.backlog.com/view/ENEOS_SPM_KASHIMA-592) 
-	- [ ] vuさんの修正確認
+- [x] [ENEOS_SPM_KASHIMA-592](https://vqit.backlog.com/view/ENEOS_SPM_KASHIMA-592) 
+	- [x] vuさんの修正確認
 - [ ] 502エラーの解消予定計画の作成
 - [ ] wardenの調査
 
