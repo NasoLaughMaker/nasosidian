@@ -4372,7 +4372,7 @@ API集計
 - [x] ElastiCache対応
 	- [x] STG検証
 - [ ] [ENEOS_SPM_KASHIMA-586](https://vqit.backlog.com/view/ENEOS_SPM_KASHIMA-586) 
-	- [ ] 休日の考慮
+	- [x] 休日の考慮
 - [ ] [ENEOS_SPM_KASHIMA-592](https://vqit.backlog.com/view/ENEOS_SPM_KASHIMA-592) 
 	- [ ] vuさんの修正確認
 - [ ] 502エラーの解消予定計画の作成
