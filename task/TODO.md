@@ -4383,3 +4383,28 @@ API集計
 - [ ] GithubActionsの導入
 ## 明日以降
 - 環境変数シート更新
+
+---
+
+# 10/28(火)
+## 通常作業
+- 500アラートメール確認
+	- [ ] 出社後
+	- [ ] お昼
+	- [ ] 夕方
+## 差し込みタスク
+- [ ] freee確認
+
+## 優先事項
+- [ ] [ENEOS_SPM_KASHIMA-586](https://vqit.backlog.com/view/ENEOS_SPM_KASHIMA-586) 
+	- [x] 休日の考慮
+- [ ] [ENEOS_SPM_KASHIMA-592](https://vqit.backlog.com/view/ENEOS_SPM_KASHIMA-592) 
+	- [ ] vuさんの修正確認
+- [ ] 502エラーの解消予定計画の作成
+- [ ] wardenの調査
+
+## 変動作業
+- [ ] selenium-gridの導入
+- [ ] GithubActionsの導入
+## 明日以降
+- 環境変数シート更新
