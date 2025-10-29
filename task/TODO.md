@@ -4426,8 +4426,9 @@ API集計
 ## 優先事項
 - [x] 鹿島STG検証
 - [x] 水島レビュー確認
-- [ ] 鹿島本番反映
-- [ ] ElastiCache対応
+- [x] 鹿島本番反映
+- [x] ElastiCache対応
+- [x] SlowQuery
 - [ ] 502エラーの解消予定計画の作成
 - [ ] wardenの調査
 
