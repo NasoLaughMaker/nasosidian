@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "90651bfdcb45ce2e",
+        "id": "728c91f582058568",
         "type": "tabs",
         "children": [
           {
-            "id": "76a8048d6bbcbfa4",
+            "id": "f56c7c2469b0eec7",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -24,31 +24,33 @@
             }
           },
           {
-            "id": "38292992168e37f5",
+            "id": "585d53d759ad55b4",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "task/1029鹿島本番リリース/1010 ENEOS_SPM_KASHIMA-592 鹿島 E、F 環境設定要否をデフォルトで「否」とし、また、E画面上で環境設定要否をプルダウンではなく、ラジオボタンに変更.md",
+                "file": "AWS/Serviceメモ.md",
                 "mode": "source",
                 "source": false
               },
+              "pinned": true,
               "icon": "lucide-file",
-              "title": "1010 ENEOS_SPM_KASHIMA-592 鹿島 E、F 環境設定要否をデフォルトで「否」とし、また、E画面上で環境設定要否をプルダウンではなく、ラジオボタンに変更"
+              "title": "Serviceメモ"
             }
           },
           {
-            "id": "203bbf290f7cef5e",
+            "id": "ed1acccbeefe8f8b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "task/1007 permitsエラーの調査.md",
+                "file": "AWS/Services/セキュリティグループ.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1007 permitsエラーの調査"
+              "title": "セキュリティグループ"
             }
           }
         ],
@@ -84,7 +86,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "SQS",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -193,24 +195,12 @@
               "icon": "lucide-list",
               "title": "TODOのアウトライン"
             }
-          },
-          {
-            "id": "e029ca41b4c4248b",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
-            }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -224,38 +214,40 @@
       "command-palette:コマンドパレットを開く": false
     }
   },
-  "active": "203bbf290f7cef5e",
+  "active": "ed1acccbeefe8f8b",
   "lastOpenFiles": [
-    "task/0929 ログ設定まとめ.md",
-    "task/0925 ENEOS_KAWASAKI-959 【本番】【ENEOS川崎】【500エラー】ファイルサイズが0Bの画像をアップロードした際に発生するエラー.md",
-    "task/0919 SPM_INFRA-3 【Datadog】APMサービス名の変更とタグの付与.md",
     "task/archive/完了：1023 ENEOSCHIBA-94 千葉STG環境構築.md",
-    "task/当日工事完了の列削除対応.md",
-    "task/TODO.md",
     "AWS/Services/セキュリティグループ.md",
-    "task/1029鹿島本番リリース/1006 ENEOS_SPM_KASHIMA-586 鹿島 リマインドメール追加 施工者-作業完了、工事担当・施設担当-工事完了ボタン未押下時のリマインドメール配信.md",
-    "task/1029鹿島本番リリース/1010 ENEOS_SPM_KASHIMA-592 鹿島 E、F 環境設定要否をデフォルトで「否」とし、また、E画面上で環境設定要否をプルダウンではなく、ラジオボタンに変更.md",
-    "task/1029鹿島本番リリース/1007 ENEOS_SPM_KASHIMA-589 鹿島 ユーザリスト 役職が設定されていないユーザは同じく役職が登録されていないユーザでしか検索できない.md",
+    "AWS/Serviceメモ.md",
+    "AWS/Services/CloudFront.md",
+    "task/TODO.md",
     "AWS/Services/Audit Manager.md",
-    "task/0725 Resiaラベリング対応.md",
-    "task/0728 datadog移行対応.md",
-    "task/1007 permitsエラーの調査.md",
+    "AWS/Services/Route 53.md",
+    "task/1023 ENEOSCHIBA-94 千葉STG環境構築.md",
     "task/1010 HOME画面遷移時に発生する500エラー.md",
     "task/1017 warden エラー.md",
-    "valqua/500エラー ナレッジ共有会.md",
-    "task/archive/1009鹿島本番リリース/完了：1007 ENEOS_SPM_KASHIMA-590 E画面：承認による内部ステータスの更新に不備がある.md",
+    "task/当日工事完了の列削除対応.md",
     "AWS/Services/ゲートウェイ.md",
+    "1017 warden エラー.md",
+    "当日工事完了の列削除対応.md",
     "AWS/Services/Site-to-Site VPN.md",
-    "valqua/障害発生.md",
-    "1010 HOME画面遷移時に発生する500エラー.md",
+    "AWS/Services/Direct Connect.md",
+    "トランジットゲートウェイ.md",
+    "[[トランジットゲートウェイ.md",
+    "conflict-files-obsidian-git.md",
+    "task/archive/完了：0901 SQS移行調査.md",
+    "task/archive/1009鹿島本番リリース/完了：1007 ENEOS_SPM_KASHIMA-590 E画面：承認による内部ステータスの更新に不備がある.md",
     "task/archive/1009鹿島本番リリース/完了：0925 ENEOS_SPM_KASHIMA-497 【本番】【ENEOS鹿島】【500エラー】E画面：開始-終了において当日or翌日の変更を試みた際に発生するエラー.md",
-    "無題のフォルダ",
-    "valqua/締結管理.md",
-    "valqua/共通.md",
-    "valqua/議事録・メモ.md",
     "task/archive/1009鹿島本番リリース",
+    "task/1029鹿島本番リリース/1010 ENEOS_SPM_KASHIMA-592 鹿島 E、F 環境設定要否をデフォルトで「否」とし、また、E画面上で環境設定要否をプルダウンではなく、ラジオボタンに変更.md",
+    "task/1007 permitsエラーの調査.md",
+    "AWS/Services/診断サービス.md",
+    "task/1029鹿島本番リリース/1007 ENEOS_SPM_KASHIMA-589 鹿島 ユーザリスト 役職が設定されていないユーザは同じく役職が登録されていないユーザでしか検索できない.md",
+    "task/1008鹿島本番リリース",
     "task/1029鹿島本番リリース",
     "task/archive/9月鹿島対応",
+    "task/archive/0827鹿島本番反映",
+    "task/9月鹿島対応",
     "AWS/Services/CloudFormation 1e9817a83f5b80b696ebe4e00a9ee145/スクリーンショット_2025-07-20_16.34.06.png",
     "AWS/Services/CloudTrail_event.png",
     "AWS/Services/CloudTrail",
@@ -264,8 +256,6 @@
     "AWS",
     "12778374-908c-4d44-b1e8-b56fd2bca6b1_Export-5e2471c8-4afd-4b68-9812-7f5b0e1f7634/CFL & SAA & SAP 14e817a83f5b80a4b6f8f65dc603b113/CloudTrail 1ab817a83f5b80f98b54f590b267a8fd/スクリーンショット_2025-07-23_0.33.45.png",
     "12778374-908c-4d44-b1e8-b56fd2bca6b1_Export-5e2471c8-4afd-4b68-9812-7f5b0e1f7634/CFL & SAA & SAP 14e817a83f5b80a4b6f8f65dc603b113/CloudFormation 1e9817a83f5b80b696ebe4e00a9ee145/スクリーンショット_2025-07-20_16.34.06.png",
-    "12778374-908c-4d44-b1e8-b56fd2bca6b1_Export-5e2471c8-4afd-4b68-9812-7f5b0e1f7634/CFL & SAA & SAP 14e817a83f5b80a4b6f8f65dc603b113/CloudTrail 1ab817a83f5b80f98b54f590b267a8fd",
-    "12778374-908c-4d44-b1e8-b56fd2bca6b1_Export-5e2471c8-4afd-4b68-9812-7f5b0e1f7634/CFL & SAA & SAP 14e817a83f5b80a4b6f8f65dc603b113/CloudFormation 1e9817a83f5b80b696ebe4e00a9ee145",
     "CFL & SAA & SAP 14e817a83f5b80a4b6f8f65dc603b113/CloudFormation 1e9817a83f5b80b696ebe4e00a9ee145/スクリーンショット_2025-07-20_16.34.06.png",
     "CFL & SAA & SAP 14e817a83f5b80a4b6f8f65dc603b113/CloudTrail 1ab817a83f5b80f98b54f590b267a8fd/スクリーンショット_2025-07-23_0.33.45.png",
     "無題のファイル.canvas"
