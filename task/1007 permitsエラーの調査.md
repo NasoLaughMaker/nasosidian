@@ -2,6 +2,7 @@
 1. 不具合報告から作成した許可証
 	- `detail_daily_schedule_tasks`ごとに`detail_daily_scheudles`が存在する
 	- `detail_daily_schedules`：`detail_daily_schedule_with_tasks`：`detail_daily_schedule_task` = 1：1：1
+	- G画面から作成するごとにdetail_daily_schedulesが作成される
 2. E画面から作成した許可証
 	- `detail_daily_schedules`に対し、許可証の数分`detail_daily_schedule_with_tasks`が存在する
 	- `detail_daily_schedules`：`detail_daily_schedule_with_tasks`：`detail_daily_schedule_task` = 1：多：多（with_taskとtaskは 1：1）
