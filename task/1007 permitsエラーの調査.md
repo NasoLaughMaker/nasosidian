@@ -46,3 +46,28 @@
 ```
 
 
+```ruby
+def fire_type
+    case object.permission_type
+    when 'normal', 'normal2', 'normal3', 'normal4', 'normal5'
+      
+      # ▼▼▼ 修正 ▼▼▼
+      # レースコンディションで with_task が存在しない場合があるためチェック
+      with_task = object.detail_daily_schedule_with_tasks.first
+      return nil if with_task.nil? # nilなら属性自体をnilにして終了
+
+      # with_task が存在する場合のみ、以降の処理を実行
+      with_task.detail_daily_schedule_permits
+               .where(enabled: true, permission_type: %i[fire_direct fire_indirect])
+               .map do |permit|
+                 {
+                   'type' => DetailDailySchedulePermit.human_attribute_name("permission_type.#{permit.permission_type}"),
+                   'notes' => permit.notes
+                 }
+               end
+      # ▲▲▲ 修正 ▲▲▲
+    when 'tank'
+      get_office_report_items('火気種類').map { { 'type' => _1.text, 'notes' => nil } }
+    end
+  end
+```
