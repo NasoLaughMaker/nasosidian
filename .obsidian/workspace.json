@@ -37,8 +37,7 @@
               "title": "1007 permitsエラーの調査"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -210,11 +209,11 @@
       "command-palette:コマンドパレットを開く": false
     }
   },
-  "active": "fd0f900a2cf15765",
+  "active": "76a8048d6bbcbfa4",
   "lastOpenFiles": [
+    "task/1007 permitsエラーの調査.md",
     "task/1030 ENEOS_SPM_KASHIMA-597 【本番】【ENEOS鹿島】【500エラー】E画面：別ユーザーが許可証を削除したと同時にE画面を開くと、一時的なデータ不備によりエラーが発生.md",
     "task/TODO.md",
-    "task/1007 permitsエラーの調査.md",
     "task/0725 Resiaラベリング対応.md",
     "task/0728 datadog移行対応.md",
     "task/0919 SPM_INFRA-3 【Datadog】APMサービス名の変更とタグの付与.md",
