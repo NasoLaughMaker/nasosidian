@@ -22,8 +22,23 @@
               "icon": "lucide-file",
               "title": "TODO"
             }
+          },
+          {
+            "id": "fd0f900a2cf15765",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "20251030 ENEOS_SPM_KASHIMA-597 【本番】【ENEOS鹿島】【500エラー】E画面：別ユーザーが許可証を削除したと同時にE画面を開くと、一時的なデータ不備によりエラーが発生.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "20251030 ENEOS_SPM_KASHIMA-597 【本番】【ENEOS鹿島】【500エラー】E画面：別ユーザーが許可証を削除したと同時にE画面を開くと、一時的なデータ不備によりエラーが発生"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -195,8 +210,10 @@
       "command-palette:コマンドパレットを開く": false
     }
   },
-  "active": "76a8048d6bbcbfa4",
+  "active": "fd0f900a2cf15765",
   "lastOpenFiles": [
+    "task/TODO.md",
+    "20251030 ENEOS_SPM_KASHIMA-597 【本番】【ENEOS鹿島】【500エラー】E画面：別ユーザーが許可証を削除したと同時にE画面を開くと、一時的なデータ不備によりエラーが発生.md",
     "task/1007 permitsエラーの調査.md",
     "task/0725 Resiaラベリング対応.md",
     "task/0728 datadog移行対応.md",
@@ -208,7 +225,6 @@
     "task/archive/1029鹿島本番リリース/完了：1010 ENEOS_SPM_KASHIMA-592 鹿島 E、F 環境設定要否をデフォルトで「否」とし、また、E画面上で環境設定要否をプルダウンではなく、ラジオボタンに変更.md",
     "task/archive/1029鹿島本番リリース/完了：1007 ENEOS_SPM_KASHIMA-589 鹿島 ユーザリスト 役職が設定されていないユーザは同じく役職が登録されていないユーザでしか検索できない.md",
     "task/archive/1029鹿島本番リリース/完了：1006 ENEOS_SPM_KASHIMA-586 鹿島 リマインドメール追加 施工者-作業完了、工事担当・施設担当-工事完了ボタン未押下時のリマインドメール配信.md",
-    "task/TODO.md",
     "task/archive/完了：1023 ENEOSCHIBA-94 千葉STG環境構築.md",
     "task/当日工事完了の列削除対応.md",
     "AWS/Services/セキュリティグループ.md",
@@ -223,7 +239,6 @@
     "無題のフォルダ",
     "valqua/締結管理.md",
     "valqua/共通.md",
-    "valqua/議事録・メモ.md",
     "task/archive/1009鹿島本番リリース",
     "task/archive/1029鹿島本番リリース",
     "task/archive/9月鹿島対応",
