@@ -22,8 +22,37 @@
               "icon": "lucide-file",
               "title": "TODO"
             }
+          },
+          {
+            "id": "baa5fe2b44ebfd13",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "task/1030 ENEOS_SPM_KASHIMA-597 【本番】【ENEOS鹿島】【500エラー】E画面：別ユーザーが許可証を削除したと同時にE画面を開くと、一時的なデータ不備によりエラーが発生.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "1030 ENEOS_SPM_KASHIMA-597 【本番】【ENEOS鹿島】【500エラー】E画面：別ユーザーが許可証を削除したと同時にE画面を開くと、一時的なデータ不備によりエラーが発生"
+            }
+          },
+          {
+            "id": "8cec26734b80b831",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "無題のファイル.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "無題のファイル"
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -195,11 +224,13 @@
       "command-palette:コマンドパレットを開く": false
     }
   },
-  "active": "da04bc3e138ed72b",
+  "active": "8cec26734b80b831",
   "lastOpenFiles": [
-    "task/1007 permitsエラーの調査.md",
     "task/1030 ENEOS_SPM_KASHIMA-597 【本番】【ENEOS鹿島】【500エラー】E画面：別ユーザーが許可証を削除したと同時にE画面を開くと、一時的なデータ不備によりエラーが発生.md",
+    "無題のファイル.md",
     "task/TODO.md",
+    "task/当日工事完了の列削除対応.md",
+    "task/1007 permitsエラーの調査.md",
     "task/0725 Resiaラベリング対応.md",
     "task/0728 datadog移行対応.md",
     "task/0919 SPM_INFRA-3 【Datadog】APMサービス名の変更とタグの付与.md",
@@ -211,7 +242,6 @@
     "task/archive/1029鹿島本番リリース/完了：1007 ENEOS_SPM_KASHIMA-589 鹿島 ユーザリスト 役職が設定されていないユーザは同じく役職が登録されていないユーザでしか検索できない.md",
     "task/archive/1029鹿島本番リリース/完了：1006 ENEOS_SPM_KASHIMA-586 鹿島 リマインドメール追加 施工者-作業完了、工事担当・施設担当-工事完了ボタン未押下時のリマインドメール配信.md",
     "task/archive/完了：1023 ENEOSCHIBA-94 千葉STG環境構築.md",
-    "task/当日工事完了の列削除対応.md",
     "AWS/Services/セキュリティグループ.md",
     "AWS/Services/Audit Manager.md",
     "valqua/500エラー ナレッジ共有会.md",
@@ -223,7 +253,6 @@
     "task/archive/1009鹿島本番リリース/完了：0925 ENEOS_SPM_KASHIMA-497 【本番】【ENEOS鹿島】【500エラー】E画面：開始-終了において当日or翌日の変更を試みた際に発生するエラー.md",
     "無題のフォルダ",
     "valqua/締結管理.md",
-    "valqua/共通.md",
     "task/archive/1009鹿島本番リリース",
     "task/archive/1029鹿島本番リリース",
     "task/archive/9月鹿島対応",

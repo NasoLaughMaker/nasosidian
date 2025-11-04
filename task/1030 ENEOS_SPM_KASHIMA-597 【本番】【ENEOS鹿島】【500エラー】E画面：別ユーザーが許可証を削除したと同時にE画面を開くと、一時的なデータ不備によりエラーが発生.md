@@ -9,3 +9,4 @@ count_task_by_approval_status_nctメソッド内で、taskが定義されたあ�
 next if task.nil?
 
 ```
+
