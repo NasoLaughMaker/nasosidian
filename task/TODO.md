@@ -4543,7 +4543,7 @@ API集計
 - [x] 本番反映
 - [x] EOL対応とECS以降の大雑把なスケジュール作り
 - [ ] 堺サーバースケールダウン資料作り
-- [ ] SlowQuery調査
+- [x] SlowQuery調査
 
 ## 変動作業
 - [ ] selenium-gridの導入
