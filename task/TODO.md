@@ -4539,8 +4539,9 @@ API集計
 
 ## 優先事項
 - [ ] wardenの調査
-- [ ] [ENEOS_SPM_KASHIMA-598](https://vqit.backlog.com/view/ENEOS_SPM_KASHIMA-598) 【本番】【ENEOS鹿島】作業完了をしている施工者にリマインドメールを誤送信してしまう
-- [ ] EOL対応とECS以降の大雑把なスケジュール作り
+- [x] [ENEOS_SPM_KASHIMA-598](https://vqit.backlog.com/view/ENEOS_SPM_KASHIMA-598) 【本番】【ENEOS鹿島】作業完了をしている施工者にリマインドメールを誤送信してしまう 
+- [x] 本番反映
+- [x] EOL対応とECS以降の大雑把なスケジュール作り
 - [ ] 堺サーバースケールダウン資料作り
 - [ ] SlowQuery調査
 
