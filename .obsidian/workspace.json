@@ -24,6 +24,20 @@
             }
           },
           {
+            "id": "a852e8dbdf4f0045",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "task/1114麻里布本番反映/1110 ENEOS_SPM_MARIFU-396 麻里布 F 完了確認欄のONOFF連動.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "1110 ENEOS_SPM_MARIFU-396 麻里布 F 完了確認欄のONOFF連動"
+            }
+          },
+          {
             "id": "32445b7393340c18",
             "type": "leaf",
             "state": {
@@ -51,7 +65,8 @@
               "title": "1111 ENEOS_SPM_MARIFU-431 麻里布 ガス検が表示されないことがある"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -223,8 +238,10 @@
       "command-palette:コマンドパレットを開く": false
     }
   },
-  "active": "76a8048d6bbcbfa4",
+  "active": "da04bc3e138ed72b",
   "lastOpenFiles": [
+    "task/TODO.md",
+    "task/1114麻里布本番反映/1110 ENEOS_SPM_MARIFU-396 麻里布 F 完了確認欄のONOFF連動.md",
     "task/1030 ENEOS_SPM_KASHIMA-597 【本番】【ENEOS鹿島】【500エラー】E画面：別ユーザーが許可証を削除したと同時にE画面を開くと、一時的なデータ不備によりエラーが発生.md",
     "task/ConvertAPI.md",
     "task/1126鹿島本番反映/1110 ENEOS_SPM_KASHIMA-587 鹿島 B 「勧告事項」のチェックボックスを設け、ONの場合、B画面の必須制御の変更.md",
@@ -233,7 +250,6 @@
     "task/1017 warden エラー.md",
     "task/1114麻里布本番反映",
     "task/1126鹿島本番反映",
-    "task/TODO.md",
     "task/archive/1105鹿島本番反映",
     "task/archive/1105鹿島本番反映/1104 ENEOS_SPM_KASHIMA-598 【本番】【ENEOS鹿島】作業完了をしている施工者にリマインドメールを誤送信してしまう.md",
     "task/当日工事完了の列削除対応.md",
@@ -253,7 +269,6 @@
     "task/archive/1009鹿島本番リリース/完了：1007 ENEOS_SPM_KASHIMA-590 E画面：承認による内部ステータスの更新に不備がある.md",
     "AWS/Services/ゲートウェイ.md",
     "AWS/Services/Site-to-Site VPN.md",
-    "valqua/障害発生.md",
     "task/archive/1009鹿島本番リリース",
     "task/archive/1029鹿島本番リリース",
     "task/archive/9月鹿島対応",
