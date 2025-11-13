@@ -4667,14 +4667,39 @@ API集計
 ## 通常作業
 - 500アラートメール確認
 	- [x] 出社後
-	- [ ] お昼
-	- [ ] 夕方
+	- [x] お昼
+	- [x] 夕方
 ## 差し込みタスク
 - [x] 鹿島工数見積もり
 - [x] 黒沢さんのfree 1Passwordで共有
 
 ## 優先事項
 - [ ] 千葉本番サーバー構築
+- [ ] convertAPIの利用状況・制限の調査
+- [ ] [ENEOS_SPM_MARIFU-431](https://vqit.backlog.com/view/ENEOS_SPM_MARIFU-431) 麻里布 ガス検が表示されないことがある
+
+## 変動作業
+- [ ] selenium-gridの導入
+- [ ] GithubActionsの導入
+## 明日以降
+- 環境変数シート更新
+- メール誤送についての原因報告（山邊さん宛て）
+- [ ] wardenの調査
+- [ ] 鹿島の完了IssueをCLOSEしていく
+
+---
+
+# 11/13(木)
+## 通常作業
+- 500アラートメール確認
+	- [x] 出社後
+	- [ ] お昼
+	- [ ] 夕方
+## 差し込みタスク
+
+## 優先事項
+- [ ] 千葉本番サーバー構築
+- [ ] 水島datadog導入
 - [ ] convertAPIの利用状況・制限の調査
 - [ ] [ENEOS_SPM_MARIFU-431](https://vqit.backlog.com/view/ENEOS_SPM_MARIFU-431) 麻里布 ガス検が表示されないことがある
 
