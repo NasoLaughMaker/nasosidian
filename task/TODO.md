@@ -4702,6 +4702,7 @@ API集計
 - [ ] 水島datadog導入
 - [ ] convertAPIの利用状況・制限の調査
 - [ ] [ENEOS_SPM_MARIFU-431](https://vqit.backlog.com/view/ENEOS_SPM_MARIFU-431) 麻里布 ガス検が表示されないことがある
+- [ ] [ENEOS_SPM_MARIFU-396](https://vqit.backlog.com/view/ENEOS_SPM_MARIFU-396) 麻里布 F 完了確認欄のONOFF連動
 
 ## 変動作業
 - [ ] selenium-gridの導入
