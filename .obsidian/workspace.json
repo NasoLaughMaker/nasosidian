@@ -24,18 +24,6 @@
             }
           },
           {
-            "id": "6caa786d9a424239",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.10.3"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.10.3"
-            }
-          },
-          {
             "id": "32445b7393340c18",
             "type": "leaf",
             "state": {
@@ -63,8 +51,7 @@
               "title": "0725 Resiaラベリング対応"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -236,8 +223,9 @@
       "command-palette:コマンドパレットを開く": false
     }
   },
-  "active": "6caa786d9a424239",
+  "active": "76a8048d6bbcbfa4",
   "lastOpenFiles": [
+    "task/ConvertAPI.md",
     "task/0725 Resiaラベリング対応.md",
     "task/1114麻里布本番反映/1111 ENEOS_SPM_MARIFU-431 麻里布 ガス検が表示されないことがある.md",
     "task/TODO.md",
@@ -245,7 +233,6 @@
     "task/0728 datadog移行対応.md",
     "task/0919 SPM_INFRA-3 【Datadog】APMサービス名の変更とタグの付与.md",
     "task/当日工事完了の列削除対応.md",
-    "task/ConvertAPI.md",
     "task/1030 ENEOS_SPM_KASHIMA-597 【本番】【ENEOS鹿島】【500エラー】E画面：別ユーザーが許可証を削除したと同時にE画面を開くと、一時的なデータ不備によりエラーが発生.md",
     "task/0929 ログ設定まとめ.md",
     "task/1126鹿島本番反映/1110 ENEOS_SPM_KASHIMA-587 鹿島 B 「勧告事項」のチェックボックスを設け、ONの場合、B画面の必須制御の変更.md",
