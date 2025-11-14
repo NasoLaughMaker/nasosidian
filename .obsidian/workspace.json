@@ -24,6 +24,18 @@
             }
           },
           {
+            "id": "6caa786d9a424239",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.10.3"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.10.3"
+            }
+          },
+          {
             "id": "32445b7393340c18",
             "type": "leaf",
             "state": {
@@ -51,7 +63,8 @@
               "title": "0725 Resiaラベリング対応"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -223,7 +236,7 @@
       "command-palette:コマンドパレットを開く": false
     }
   },
-  "active": "76a8048d6bbcbfa4",
+  "active": "6caa786d9a424239",
   "lastOpenFiles": [
     "task/0725 Resiaラベリング対応.md",
     "task/1114麻里布本番反映/1111 ENEOS_SPM_MARIFU-431 麻里布 ガス検が表示されないことがある.md",
