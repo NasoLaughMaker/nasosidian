@@ -4742,3 +4742,31 @@ API集計
 - メール誤送についての原因報告（山邊さん宛て）
 - [ ] wardenの調査
 - [x] 鹿島の完了IssueをCLOSEしていく
+
+---
+
+# 11/14(金)
+## 通常作業
+- 500アラートメール確認
+	- [ ] 出社後
+	- [ ] お昼
+	- [ ] 夕方
+## 差し込みタスク
+- [ ] RDSのスパイク調査
+
+## 優先事項
+- [ ] 千葉本番サーバー構築
+- [ ] convertAPIの利用状況・制限の調査
+- [x] 水島本番反映
+- [x] 麻里布本番反映
+- [x] [ENEOS_SPM_MARIFU-431](https://vqit.backlog.com/view/ENEOS_SPM_MARIFU-431) 麻里布 ガス検が表示されないことがある
+- [x] [ENEOS_SPM_MARIFU-396](https://vqit.backlog.com/view/ENEOS_SPM_MARIFU-396) 麻里布 F 完了確認欄のONOFF連動
+
+## 変動作業
+- [ ] selenium-gridの導入
+- [ ] GithubActionsの導入
+## 明日以降
+- 環境変数シート更新
+- メール誤送についての原因報告（山邊さん宛て）
+- [ ] wardenの調査
+- [x] 鹿島の完了IssueをCLOSEしていく
