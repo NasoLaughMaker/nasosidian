@@ -37,8 +37,7 @@
               "title": "ConvertAPI"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -210,11 +209,11 @@
       "command-palette:コマンドパレットを開く": false
     }
   },
-  "active": "32445b7393340c18",
+  "active": "76a8048d6bbcbfa4",
   "lastOpenFiles": [
+    "task/ConvertAPI.md",
     "task/0725 Resiaラベリング対応.md",
     "task/TODO.md",
-    "task/ConvertAPI.md",
     "task/1114麻里布本番反映/1111 ENEOS_SPM_MARIFU-431 麻里布 ガス検が表示されないことがある.md",
     "task/1114麻里布本番反映/1110 ENEOS_SPM_MARIFU-396 麻里布 F 完了確認欄のONOFF連動.md",
     "task/0728 datadog移行対応.md",
