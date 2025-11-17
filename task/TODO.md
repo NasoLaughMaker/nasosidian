@@ -4730,7 +4730,7 @@ API集計
 - [ ] 千葉本番サーバー構築
 - [ ] convertAPIの利用状況・制限の調査
 - [x] 水島本番反映
-- [ ] 麻里布本番反映
+- [x] 麻里布本番反映
 - [x] [ENEOS_SPM_MARIFU-431](https://vqit.backlog.com/view/ENEOS_SPM_MARIFU-431) 麻里布 ガス検が表示されないことがある
 - [x] [ENEOS_SPM_MARIFU-396](https://vqit.backlog.com/view/ENEOS_SPM_MARIFU-396) 麻里布 F 完了確認欄のONOFF連動
 
