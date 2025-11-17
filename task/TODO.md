@@ -4755,7 +4755,7 @@ API集計
 - [ ] RDSのスパイク調査
 
 ## 優先事項
-- [ ] セキュリティチェックシート（木曜まで）
+- [x] セキュリティチェックシート（木曜まで）
 - [ ] [ENEOS_SPM_KASHIMA-587](https://vqit.backlog.com/view/ENEOS_SPM_KASHIMA-587) 鹿島 B 「勧告事項」のチェックボックスを設け、ONの場合、B画面の必須制御の変更
 - [ ] 千葉本番サーバー構築
 - [ ] convertAPIの利用状況・制限の調査
