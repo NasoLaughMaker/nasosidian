@@ -36,8 +36,23 @@
               "icon": "lucide-file",
               "title": "1117 SPM_INFRA-10 セキュリティチェックシート確認依頼　ENEOS"
             }
+          },
+          {
+            "id": "98f67de801b141fc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "task/0929 ログ設定まとめ.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "0929 ログ設定まとめ"
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -209,10 +224,10 @@
       "command-palette:コマンドパレットを開く": false
     }
   },
-  "active": "76a8048d6bbcbfa4",
+  "active": "98f67de801b141fc",
   "lastOpenFiles": [
-    "1117 SPM_INFRA-10 セキュリティチェックシート確認依頼　ENEOS.md",
     "task/TODO.md",
+    "1117 SPM_INFRA-10 セキュリティチェックシート確認依頼　ENEOS.md",
     "task/当日工事完了の列削除対応.md",
     "task/ConvertAPI.md",
     "task/1110 ENEOS_SPM_MARIFU-396 麻里布 F 完了確認欄のONOFF連動.md",
