@@ -51,8 +51,7 @@
               "title": "0929 ログ設定まとめ"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -224,8 +223,9 @@
       "command-palette:コマンドパレットを開く": false
     }
   },
-  "active": "98f67de801b141fc",
+  "active": "76a8048d6bbcbfa4",
   "lastOpenFiles": [
+    "task/0929 ログ設定まとめ.md",
     "task/TODO.md",
     "1117 SPM_INFRA-10 セキュリティチェックシート確認依頼　ENEOS.md",
     "task/当日工事完了の列削除対応.md",
@@ -235,7 +235,6 @@
     "task/1017 warden エラー.md",
     "task/1010 HOME画面遷移時に発生する500エラー.md",
     "task/1007 permitsエラーの調査.md",
-    "task/0929 ログ設定まとめ.md",
     "task/0925 ENEOS_KAWASAKI-959 【本番】【ENEOS川崎】【500エラー】ファイルサイズが0Bの画像をアップロードした際に発生するエラー.md",
     "task/0919 SPM_INFRA-3 【Datadog】APMサービス名の変更とタグの付与.md",
     "task/archive/0728 datadog移行対応.md",
