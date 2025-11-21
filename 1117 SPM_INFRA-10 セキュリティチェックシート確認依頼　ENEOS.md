@@ -27,3 +27,9 @@
 
 議事録
 - 朝の内容を再度振り返り
+
+ene-prd-web-ec2：堺製油所
+ene-prd-web-ec2-02：川崎製油所
+ene-prd-web-ec2-03：鹿島製油所
+ene-prd-web-ec2-04：水島製油所
+ene-prd-web-ec2-05：麻里布製油所
