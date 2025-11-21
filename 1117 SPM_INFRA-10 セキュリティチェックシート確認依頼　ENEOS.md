@@ -27,6 +27,8 @@
 
 議事録
 - 朝の内容を再度振り返り
+- Google Driveのセキュリティなどの設定について
+	- 
 
 ene-prd-web-ec2：堺製油所
 ene-prd-web-ec2-02：川崎製油所
