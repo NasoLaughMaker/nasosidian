@@ -49,5 +49,7 @@
 	- starting_type_id
 - 着工前打合せ
 	- meeting_type_id
-- 施工容量
+- 施工要領
+	- construction_requirement_id
 - 残存リスク
+	- residual_risk_id
