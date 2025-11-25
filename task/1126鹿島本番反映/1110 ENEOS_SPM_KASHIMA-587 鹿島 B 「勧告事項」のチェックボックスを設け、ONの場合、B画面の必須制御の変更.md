@@ -45,4 +45,9 @@
 # 各項目
 - 工事優先度
 	- construction_priority_id
-- 
+- 着工日連絡期日
+	- starting_type_id
+- 着工前打合せ
+	- meeting_type_id
+- 施工容量
+- 残存リスク
