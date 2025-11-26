@@ -4911,12 +4911,13 @@ API集計
 ## 差し込みタスク
 
 ## 優先事項
-- [ ] 鹿島本番反映
-	- [ ] [ENEOS_SPM_KASHIMA-587](https://vqit.backlog.com/view/ENEOS_SPM_KASHIMA-587) 鹿島 B 「勧告事項」のチェックボックスを設け、ONの場合、B画面の必須制御の変更
+- [x] 鹿島本番反映
+	- [x] [ENEOS_SPM_KASHIMA-587](https://vqit.backlog.com/view/ENEOS_SPM_KASHIMA-587) 鹿島 B 「勧告事項」のチェックボックスを設け、ONの場合、B画面の必須制御の変更
 - [ ] 千葉本番サーバー構築
 - [ ] convertAPIの利用状況・制限の調査
 - [ ] SlowQuery調査
 - [ ] 麻里布レビュー
+- [ ] 大分STG環境作成
 
 ## 変動作業
 - [ ] selenium-gridの導入
