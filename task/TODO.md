@@ -4944,6 +4944,7 @@ API集計
 	- [ ] 開発環境
 	- [ ] STG環境
 - [ ] 大分STG環境作成
+	- [ ] inquery_type確認
 
 ## 変動作業
 - [ ] selenium-gridの導入
