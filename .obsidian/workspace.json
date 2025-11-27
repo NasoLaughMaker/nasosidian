@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "728c91f582058568",
+        "id": "90651bfdcb45ce2e",
         "type": "tabs",
         "children": [
           {
-            "id": "f56c7c2469b0eec7",
+            "id": "76a8048d6bbcbfa4",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -24,22 +24,21 @@
             }
           },
           {
-            "id": "585d53d759ad55b4",
+            "id": "d3ae8f8266c57a48",
             "type": "leaf",
-            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AWS/Serviceメモ.md",
+                "file": "1117 SPM_INFRA-10 セキュリティチェックシート確認依頼　ENEOS.md",
                 "mode": "source",
                 "source": false
               },
-              "pinned": true,
               "icon": "lucide-file",
-              "title": "Serviceメモ"
+              "title": "1117 SPM_INFRA-10 セキュリティチェックシート確認依頼　ENEOS"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -92,7 +91,8 @@
               "title": "ブックマーク"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -180,12 +180,24 @@
               "icon": "lucide-list",
               "title": "TODOのアウトライン"
             }
+          },
+          {
+            "id": "e029ca41b4c4248b",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -199,46 +211,46 @@
       "command-palette:コマンドパレットを開く": false
     }
   },
-  "active": "da04bc3e138ed72b",
+  "active": "7c5b369d02c892e7",
   "lastOpenFiles": [
-    "task/archive/1126鹿島本番反映/1110 ENEOS_SPM_KASHIMA-587 鹿島 B 「勧告事項」のチェックボックスを設け、ONの場合、B画面の必須制御の変更.md",
-    "task/archive/1126鹿島本番反映",
-    "1117 SPM_INFRA-10 セキュリティチェックシート確認依頼　ENEOS.md",
-    "task/TODO.md",
-    "conflict-files-obsidian-git.md",
-    "task/archive/0728 datadog移行対応.md",
-    "1117 セキュリティチェックシート.md",
-    "task/archive/1114麻里布本番反映/1111 ENEOS_SPM_MARIFU-431 麻里布 ガス検が表示されないことがある.md",
-    "task/archive/1114麻里布本番反映",
-    "task/1110 ENEOS_SPM_MARIFU-396 麻里布 F 完了確認欄のONOFF連動.md",
-    "AWS/Serviceメモ.md",
-    "task/1007 permitsエラーの調査.md",
-    "task/archive/1105鹿島本番反映/1104 ENEOS_SPM_KASHIMA-598 【本番】【ENEOS鹿島】作業完了をしている施工者にリマインドメールを誤送信してしまう.md",
-    "task/archive/1105鹿島本番反映",
-    "task/ConvertAPI.md",
-    "task/1126鹿島本番反映/1110 ENEOS_SPM_KASHIMA-587 鹿島 B 「勧告事項」のチェックボックスを設け、ONの場合、B画面の必須制御の変更.md",
-    "task/1126鹿島本番反映",
-    "task/1114麻里布本番反映/1111 ENEOS_SPM_MARIFU-431 麻里布 ガス検が表示されないことがある.md",
-    "task/1114麻里布本番反映/1110 ENEOS_SPM_MARIFU-396 麻里布 F 完了確認欄のONOFF連動.md",
-    "task/1114麻里布本番反映",
-    "task/1030 ENEOS_SPM_KASHIMA-597 【本番】【ENEOS鹿島】【500エラー】E画面：別ユーザーが許可証を削除したと同時にE画面を開くと、一時的なデータ不備によりエラーが発生.md",
-    "AWS/Services/セキュリティグループ.md",
-    "conflict-files-obsidian-git 2.md",
-    "20251030 ENEOS_SPM_KASHIMA-597 【本番】【ENEOS鹿島】【500エラー】E画面：別ユーザーが許可証を削除したと同時にE画面を開くと、一時的なデータ不備によりエラーが発生.md",
-    "task/archive/1029鹿島本番リリース/完了：1010 ENEOS_SPM_KASHIMA-592 鹿島 E、F 環境設定要否をデフォルトで「否」とし、また、E画面上で環境設定要否をプルダウンではなく、ラジオボタンに変更.md",
-    "task/archive/1029鹿島本番リリース/完了：1007 ENEOS_SPM_KASHIMA-589 鹿島 ユーザリスト 役職が設定されていないユーザは同じく役職が登録されていないユーザでしか検索できない.md",
-    "task/archive/1029鹿島本番リリース/完了：1006 ENEOS_SPM_KASHIMA-586 鹿島 リマインドメール追加 施工者-作業完了、工事担当・施設担当-工事完了ボタン未押下時のリマインドメール配信.md",
-    "task/archive/1029鹿島本番リリース",
+    "task/archive/0828 アプリケーションログの精査.md",
+    "task/archive/0905問い合わせ.md",
+    "task/archive/1007 川崎：パスワード再設定対応.md",
+    "task/archive/ENEOS23-1491 【本番】【ENEOS堺】【エラー】ログイン後のホーム画面でエラーとなってい.md",
+    "task/archive/完了：0715 ENEOS_SPM_KASHIMA-485 鹿島 作業安全指示書 F画面チェック1~10に.md",
+    "task/archive/完了：0825 Jobについての調査.md",
+    "task/archive/完了：0827 ENEOS_SPM_MARIFU-229 datadog設定関連.md",
+    "task/archive/完了：0901 SQS移行調査.md",
+    "task/archive/完了：0908 ENEOS23-2109 堺：アプリケーションログのログローテートを30日に変更する.md",
     "task/archive/完了：1023 ENEOSCHIBA-94 千葉STG環境構築.md",
-    "AWS/Services/CloudFront.md",
-    "AWS/Services/Audit Manager.md",
-    "AWS/Services/Route 53.md",
+    "task/archive/完了：ENEOS23-1507 No. 453 【バルカー SPM】お問い合わせがありました.md",
+    "task/TODO.md",
+    "task/archive/1126鹿島本番反映/1110 ENEOS_SPM_KASHIMA-587 鹿島 B 「勧告事項」のチェックボックスを設け、ONの場合、B画面の必須制御の変更.md",
+    "task/0929 ログ設定まとめ.md",
+    "1117 SPM_INFRA-10 セキュリティチェックシート確認依頼　ENEOS.md",
+    "task/当日工事完了の列削除対応.md",
+    "task/ConvertAPI.md",
+    "task/1110 ENEOS_SPM_MARIFU-396 麻里布 F 完了確認欄のONOFF連動.md",
+    "task/1030 ENEOS_SPM_KASHIMA-597 【本番】【ENEOS鹿島】【500エラー】E画面：別ユーザーが許可証を削除したと同時にE画面を開くと、一時的なデータ不備によりエラーが発生.md",
+    "task/1017 warden エラー.md",
+    "task/1010 HOME画面遷移時に発生する500エラー.md",
+    "task/1007 permitsエラーの調査.md",
+    "task/0925 ENEOS_KAWASAKI-959 【本番】【ENEOS川崎】【500エラー】ファイルサイズが0Bの画像をアップロードした際に発生するエラー.md",
+    "task/0919 SPM_INFRA-3 【Datadog】APMサービス名の変更とタグの付与.md",
+    "task/archive/0728 datadog移行対応.md",
+    "task/0725 Resiaラベリング対応.md",
+    "task/archive/1114麻里布本番反映",
+    "task/archive/1126鹿島本番反映",
+    "task/archive/1105鹿島本番反映",
     "task/archive/1009鹿島本番リリース",
-    "task/1008鹿島本番リリース",
-    "task/1029鹿島本番リリース",
+    "task/archive/1029鹿島本番リリース",
     "task/archive/9月鹿島対応",
     "AWS/Services/CloudFormation 1e9817a83f5b80b696ebe4e00a9ee145/スクリーンショット_2025-07-20_16.34.06.png",
     "AWS/Services/CloudTrail_event.png",
+    "AWS/Services/CloudTrail",
+    "AWS/Services/CloudFormation 1e9817a83f5b80b696ebe4e00a9ee145",
+    "AWS/Services",
+    "AWS",
     "12778374-908c-4d44-b1e8-b56fd2bca6b1_Export-5e2471c8-4afd-4b68-9812-7f5b0e1f7634/CFL & SAA & SAP 14e817a83f5b80a4b6f8f65dc603b113/CloudTrail 1ab817a83f5b80f98b54f590b267a8fd/スクリーンショット_2025-07-23_0.33.45.png",
     "12778374-908c-4d44-b1e8-b56fd2bca6b1_Export-5e2471c8-4afd-4b68-9812-7f5b0e1f7634/CFL & SAA & SAP 14e817a83f5b80a4b6f8f65dc603b113/CloudFormation 1e9817a83f5b80b696ebe4e00a9ee145/スクリーンショット_2025-07-20_16.34.06.png",
     "CFL & SAA & SAP 14e817a83f5b80a4b6f8f65dc603b113/CloudFormation 1e9817a83f5b80b696ebe4e00a9ee145/スクリーンショット_2025-07-20_16.34.06.png",
