@@ -1,0 +1,1 @@
+[ENEOS_SPM_MARIFU-443](https://vqit.backlog.com/view/ENEOS_SPM_MARIFU-443) ホームスクリーンログ取得
