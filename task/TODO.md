@@ -4915,7 +4915,7 @@ API集計
 	- [x] [ENEOS_SPM_KASHIMA-587](https://vqit.backlog.com/view/ENEOS_SPM_KASHIMA-587) 鹿島 B 「勧告事項」のチェックボックスを設け、ONの場合、B画面の必須制御の変更
 - [ ] 千葉本番サーバー構築
 - [ ] convertAPIの利用状況・制限の調査
-- [ ] SlowQuery調査
+- [x] SlowQuery調査
 - [ ] 麻里布レビュー
 - [ ] 大分STG環境作成
 
@@ -4939,10 +4939,10 @@ API集計
 ## 優先事項
 - [ ] 千葉本番サーバー構築
 - [ ] convertAPIの利用状況・制限の調査
-- [ ] SlowQuery調査
 - [x] 麻里布本番反映
 	- [x] 開発環境
 	- [x] STG環境
+- [ ] 麻里布実装
 - [ ] 大分STG環境作成
 	- [ ] inquery_type確認
 

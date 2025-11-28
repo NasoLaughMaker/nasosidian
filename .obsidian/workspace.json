@@ -24,6 +24,18 @@
             }
           },
           {
+            "id": "cca880cd725ab524",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.10.6"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.10.6"
+            }
+          },
+          {
             "id": "dd3d2609178c99fd",
             "type": "leaf",
             "state": {
@@ -37,7 +49,8 @@
               "title": "ENEOS_SPM_MARIFU-394 麻里布 E、F 基本情報 編集機能"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -209,7 +222,7 @@
       "command-palette:コマンドパレットを開く": false
     }
   },
-  "active": "76a8048d6bbcbfa4",
+  "active": "cca880cd725ab524",
   "lastOpenFiles": [
     "task/1127 麻里布本番反映/ENEOS_SPM_MARIFU-394 麻里布 E、F 基本情報 編集機能.md",
     "task/完了：1117 SPM_INFRA-10 セキュリティチェックシート確認依頼　ENEOS.md",
