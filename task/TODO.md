@@ -4967,6 +4967,7 @@ API集計
 - [ ] 千葉本番サーバー構築
 - [ ] convertAPIの利用状況・制限の調査
 - [ ] [ENEOS_SPM_MARIFU-442](https://vqit.backlog.com/view/ENEOS_SPM_MARIFU-442) 麻里布 帳票 文言変更と工事完了の日付を反映できるようにする
+- [ ] [ENEOS_SPM_MARIFU-443](https://vqit.backlog.com/view/ENEOS_SPM_MARIFU-443) ホームスクリーンログ取得
 - [ ] 大分STG環境作成
 	- [ ] inquery_type確認
 - [ ] 月末処理
