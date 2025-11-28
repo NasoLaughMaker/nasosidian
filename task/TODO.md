@@ -4969,6 +4969,10 @@ API集計
 - [ ] [ENEOS_SPM_MARIFU-442](https://vqit.backlog.com/view/ENEOS_SPM_MARIFU-442) 麻里布 帳票 文言変更と工事完了の日付を反映できるようにする
 - [ ] 大分STG環境作成
 	- [ ] inquery_type確認
+- [ ] 月末処理
+	- [ ] KOT
+	- [ ] 交通費申請
+	- [ ] ZAC
 
 ## 変動作業
 - [ ] GithubActionsの導入
