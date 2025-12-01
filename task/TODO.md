@@ -4981,3 +4981,32 @@ API集計
 ## 明日以降
 - [ ] 環境変数シート更新
 - [ ] wardenの調査
+
+---
+
+
+# 12/1(月)
+## 通常作業
+- 500アラートメール確認
+	- [ ] 出社後
+	- [ ] お昼
+	- [ ] 夕方
+## 差し込みタスク
+
+## 優先事項
+- [ ] 千葉本番サーバー構築
+- [ ] convertAPIの利用状況・制限の調査
+- [ ] [ENEOS_SPM_MARIFU-442](https://vqit.backlog.com/view/ENEOS_SPM_MARIFU-442) 麻里布 帳票 文言変更と工事完了の日付を反映できるようにする
+- [ ] [ENEOS_SPM_MARIFU-443](https://vqit.backlog.com/view/ENEOS_SPM_MARIFU-443) ホームスクリーンログ取得
+- [ ] 大分STG環境作成
+	- [ ] inquery_type確認
+- [x] 月末処理
+	- [x] KOT
+	- [x] 交通費申請
+	- [x] ZAC
+
+## 変動作業
+- [ ] GithubActionsの導入
+## 明日以降
+- [ ] 環境変数シート更新
+- [ ] wardenの調査
