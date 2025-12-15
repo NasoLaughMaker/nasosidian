@@ -24,6 +24,18 @@
             }
           },
           {
+            "id": "066ac3a7468e4d60",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.10.6"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.10.6"
+            }
+          },
+          {
             "id": "585d53d759ad55b4",
             "type": "leaf",
             "pinned": true,
@@ -53,7 +65,8 @@
               "title": "0725 Resiaラベリング対応"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -213,7 +226,7 @@
       "command-palette:コマンドパレットを開く": false
     }
   },
-  "active": "f56c7c2469b0eec7",
+  "active": "066ac3a7468e4d60",
   "lastOpenFiles": [
     "task/0725 Resiaラベリング対応.md",
     "task/0919 SPM_INFRA-3 【Datadog】APMサービス名の変更とタグの付与.md",
