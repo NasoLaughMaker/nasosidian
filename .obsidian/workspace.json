@@ -45,12 +45,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "お問い合わせ.md",
+                "file": "お問い合わせ：office_role登録.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "お問い合わせ"
+              "title": "お問い合わせ：office_role登録"
             }
           },
           {
@@ -231,7 +231,7 @@
   "active": "37c23a70ad03125b",
   "lastOpenFiles": [
     "AWS/Serviceメモ.md",
-    "お問い合わせ.md",
+    "お問い合わせ：office_role登録.md",
     "task/0725 Resiaラベリング対応.md",
     "task/archive/0905問い合わせ.md",
     "task/TODO.md",

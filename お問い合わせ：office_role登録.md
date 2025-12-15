@@ -1,0 +1,12 @@
+井内さんからの依頼
+https://beeb-jp.slack.com/archives/C07T3EB8DMG/p1765781137590139
+
+```ruby
+user = User.find_by( email: 'takeno.yuya@eneos.com' )
+office = Office.find_by( name: '水島' ) 
+section = Section.find_by( name: '工務', office_id: office.id) 
+department_group = DepartmentGroup.find_by( name: '電気保全', section_id: section.id ) 
+team = Team.find_by(name: '電気1', department_group_id: department_group.id)
+position = Position.find_by( name: '担当', office_id: office.id ) 
+OfficeRole.create( office_id: office.id, user_id: user.id, role:3, assign: team, position_id: position.id, priority: 1, tl_agent: true, ldr_agent: true, chief_agent: false, gm_agent: false )
+```
