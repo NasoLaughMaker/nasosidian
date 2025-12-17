@@ -1,0 +1,1 @@
+[ENEOS_SPM_KASHIMA-610](https://vqit.backlog.com/view/ENEOS_SPM_KASHIMA-610) 鹿島 E 工事担当Gr担当者へのリマインドメールを「工事担当Gr-担当者」の「承認ボタン押下ユーザ」に送るように変更する
