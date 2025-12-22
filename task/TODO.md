@@ -5386,7 +5386,7 @@ API集計
 ## 優先事項
 - [ ] 忘年会
 	- [ ] お菓子配り
-- [ ] 根岸STG反映
+- [x] 根岸STG反映
 - [ ] 鹿島実装
 	- [ ] [ENEOS_SPM_KASHIMA-604](https://vqit.backlog.com/view/ENEOS_SPM_KASHIMA-604) 鹿島 HOME 工事予定表一覧遷移時に、自身の申請の工事予定のみ表示させたい
 - [ ] vue ライフサイクル
