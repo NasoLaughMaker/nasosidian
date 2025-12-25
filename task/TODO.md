@@ -5455,10 +5455,14 @@ API集計
 ## 優先事項
 - [ ] 本番script実行
 	- [ ] 大分
-- [ ] 1月タスク整理
-- [ ] 千葉・大分・根岸チケット対応
+- [x] 1月タスク整理
+- [ ] [ENEOSCHIBA-182](https://vqit.backlog.com/view/ENEOSCHIBA-182) 千葉 ログイン画面 パスワード再発行画面 本登録メールを再送できるようにする
 ## 変動作業
 - [ ] GithubActionsの導入
 ## 明日以降
 - [ ] 環境変数シート更新
 - [ ] wardenの調査
+- [ ] [ENEOSCHIBA-125](https://vqit.backlog.com/view/ENEOSCHIBA-125) 千葉本番環境作成
+- [ ] [ENEOSCHIBA-108](https://vqit.backlog.com/view/ENEOSCHIBA-108) 千葉：マルチアプリケーションデプロイ時のsidekiq指定
+- [ ] [ENEOS_SPM_OOITA-109](https://vqit.backlog.com/view/ENEOS_SPM_OOITA-109) 大分 ログイン画面 パスワード再発行画面 本登録メールを再送できるようにする ※千葉流用
+- [ ] [ENEOS_SPM_OOITA-101](https://vqit.backlog.com/view/ENEOS_SPM_OOITA-101) 大分本番環境構築
