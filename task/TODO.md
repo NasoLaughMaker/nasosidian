@@ -5458,6 +5458,8 @@ API集計
 - [x] 1月タスク整理
 - [ ] [ENEOSCHIBA-182](https://vqit.backlog.com/view/ENEOSCHIBA-182) 千葉 ログイン画面 パスワード再発行画面 本登録メールを再送できるようにする
 - [ ] [ENEOS_SPM_NEGISHI-105](https://vqit.backlog.com/view/ENEOS_SPM_NEGISHI-105) 根岸 ネットワーク接続エラー対応 ※堺流用
+- [ ] メモリ使用率アラートの調査
+- [ ] 鹿島SlowQuery調査
 ## 変動作業
 - [ ] GithubActionsの導入
 ## 明日以降
@@ -5468,3 +5470,4 @@ API集計
 - [ ] [ENEOS_SPM_OOITA-109](https://vqit.backlog.com/view/ENEOS_SPM_OOITA-109) 大分 ログイン画面 パスワード再発行画面 本登録メールを再送できるようにする ※千葉流用
 - [ ] [ENEOS_SPM_OOITA-101](https://vqit.backlog.com/view/ENEOS_SPM_OOITA-101) 大分本番環境構築
 - [ ] [ENEOS_SPM_NEGISHI-123](https://vqit.backlog.com/view/ENEOS_SPM_NEGISHI-123) 根岸 ログイン画面 パスワード再発行画面 本登録メールを再送できるようにする ※千葉流用
+- [ ] AL2 EOLのスケジュール提出
