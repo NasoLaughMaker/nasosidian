@@ -5493,7 +5493,6 @@ API集計
 - [x] 稼動入力
 - [x] 本番script実行
 	- [x] 大分
-- [ ] [ENEOSCHIBA-185](https://vqit.backlog.com/view/ENEOSCHIBA-185) 許可証帳票の修正
 - [ ] メモリ使用率アラートの調査
 - [ ] 鹿島SlowQuery調査
 ## 変動作業
