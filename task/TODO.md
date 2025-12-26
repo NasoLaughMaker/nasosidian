@@ -5449,7 +5449,7 @@ API集計
 - 500アラートメール確認
 	- [x] 出社後
 	- [x] お昼
-	- [ ] 夕方
+	- [x] 夕方
 ## 差し込みタスク
 - [ ] 水島エラー調査
 - [x] [ENEOS_SPM_MARIFU-454](https://vqit.backlog.com/view/ENEOS_SPM_MARIFU-454) 【本番】【ENEOS麻里布】【500エラー】【暫定対応】 B > 変換対象でないSVG形式の画像がアップロードされたため発生するエラー
@@ -5457,7 +5457,7 @@ API集計
 - [ ] 本番script実行
 	- [ ] 大分
 - [x] 1月タスク整理
-- [ ] [ENEOSCHIBA-182](https://vqit.backlog.com/view/ENEOSCHIBA-182) 千葉 ログイン画面 パスワード再発行画面 本登録メールを再送できるようにする
+- [x] [ENEOSCHIBA-182](https://vqit.backlog.com/view/ENEOSCHIBA-182) 千葉 ログイン画面 パスワード再発行画面 本登録メールを再送できるようにする
 - [ ] [ENEOS_SPM_NEGISHI-105](https://vqit.backlog.com/view/ENEOS_SPM_NEGISHI-105) 根岸 ネットワーク接続エラー対応 ※堺流用
 - [ ] メモリ使用率アラートの調査
 - [ ] 鹿島SlowQuery調査
