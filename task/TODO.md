@@ -5479,10 +5479,10 @@ API集計
 ## 通常作業
 - 500アラートメール確認
 	- [x] 出社後
-	- [ ] お昼
+	- [x] お昼
 	- [ ] 夕方
 ## 差し込みタスク
-- [ ] [ENEOS_SPM_MARIFU-459](https://vqit.backlog.com/view/ENEOS_SPM_MARIFU-459) 【本番】【ENEOS麻里布】【500エラー】【暫定対応】 B > 変換対象でないSVG形式の画像がアップロードされたため発生するエラー
+- [x] [ENEOS_SPM_MARIFU-459](https://vqit.backlog.com/view/ENEOS_SPM_MARIFU-459) 【本番】【ENEOS麻里布】【500エラー】【暫定対応】 B > 変換対象でないSVG形式の画像がアップロードされたため発生するエラー
 
 ## 優先事項
 - [ ] 月末処理
