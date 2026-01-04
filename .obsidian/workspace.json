@@ -59,12 +59,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "knowledge/機械学習/回帰分析.md",
+                "file": "knowledge/機械学習/正則化.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "回帰分析"
+              "title": "正則化"
             }
           }
         ],
@@ -230,8 +230,8 @@
   },
   "active": "86a15e990c527f6e",
   "lastOpenFiles": [
-    "knowledge/機械学習/正則化.md",
     "knowledge/機械学習/回帰分析.md",
+    "knowledge/機械学習/正則化.md",
     "knowledge/機械学習/クラスタリング.avif",
     "knowledge/機械学習/アルゴリズム.md",
     "AWS/Serviceメモ.md",
