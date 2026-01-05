@@ -5523,6 +5523,7 @@ API集計
 	- [x] KOT
 	- [x] ZAC
 	- [x] 交通費
+- [ ] [ENEOS_SPM_NEGISHI-105](https://vqit.backlog.com/view/ENEOS_SPM_NEGISHI-105) 根岸 ネットワーク接続エラー対応 ※堺流用
 - [ ] [ENEOSCHIBA-184](https://vqit.backlog.com/view/ENEOSCHIBA-184) 千葉 STGのPLOT図を本番へまるっと移行
 - [ ] メモリ使用率アラートの調査
 - [ ] 鹿島SlowQuery調査
@@ -5531,7 +5532,6 @@ API集計
 ## 明日以降
 - [ ] 環境変数シート更新
 - [ ] wardenの調査
-- [ ] [ENEOS_SPM_NEGISHI-105](https://vqit.backlog.com/view/ENEOS_SPM_NEGISHI-105) 根岸 ネットワーク接続エラー対応 ※堺流用
 - [ ] [ENEOSCHIBA-125](https://vqit.backlog.com/view/ENEOSCHIBA-125) 千葉本番環境作成
 - [ ] [ENEOSCHIBA-108](https://vqit.backlog.com/view/ENEOSCHIBA-108) 千葉：マルチアプリケーションデプロイ時のsidekiq指定
 - [ ] [ENEOS_SPM_OOITA-109](https://vqit.backlog.com/view/ENEOS_SPM_OOITA-109) 大分 ログイン画面 パスワード再発行画面 本登録メールを再送できるようにする ※千葉流用
