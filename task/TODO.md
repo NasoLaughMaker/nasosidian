@@ -5517,6 +5517,7 @@ API集計
 	- [ ] お昼
 	- [ ] 夕方
 ## 差し込みタスク
+- [ ] [ENEOS_KAWASAKI-1170](https://vqit.backlog.com/view/ENEOS_KAWASAKI-1170) 【本番】【ENEOS川崎】【500エラー】【暫定対応】変換対象にない形式（SVG）の画像をアップロードした際に発生する変換エラー
 
 ## 優先事項
 - [x] 月末処理
