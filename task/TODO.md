@@ -5523,6 +5523,7 @@ API集計
 	- [x] KOT
 	- [x] ZAC
 	- [x] 交通費
+- [ ] [ENEOSCHIBA-184](https://vqit.backlog.com/view/ENEOSCHIBA-184) 千葉 STGのPLOT図を本番へまるっと移行
 - [ ] メモリ使用率アラートの調査
 - [ ] 鹿島SlowQuery調査
 ## 変動作業
