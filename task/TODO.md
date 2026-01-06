@@ -5515,15 +5515,42 @@ API集計
 - 500アラートメール確認
 	- [x] 出社後
 	- [x] お昼
-	- [ ] 夕方
+	- [x] 夕方
 ## 差し込みタスク
-- [ ] [ENEOS_KAWASAKI-1170](https://vqit.backlog.com/view/ENEOS_KAWASAKI-1170) 【本番】【ENEOS川崎】【500エラー】【暫定対応】変換対象にない形式（SVG）の画像をアップロードした際に発生する変換エラー
+- [x] [ENEOS_KAWASAKI-1170](https://vqit.backlog.com/view/ENEOS_KAWASAKI-1170) 【本番】【ENEOS川崎】【500エラー】【暫定対応】変換対象にない形式（SVG）の画像をアップロードした際に発生する変換エラー
 
 ## 優先事項
 - [x] 月末処理
 	- [x] KOT
 	- [x] ZAC
 	- [x] 交通費
+- [ ] [ENEOS_SPM_NEGISHI-105](https://vqit.backlog.com/view/ENEOS_SPM_NEGISHI-105) 根岸 ネットワーク接続エラー対応 ※堺流用
+- [ ] [ENEOSCHIBA-184](https://vqit.backlog.com/view/ENEOSCHIBA-184) 千葉 STGのPLOT図を本番へまるっと移行
+- [ ] メモリ使用率アラートの調査
+- [ ] 鹿島SlowQuery調査
+## 変動作業
+- [ ] GithubActionsの導入
+## 明日以降
+- [ ] 環境変数シート更新
+- [ ] wardenの調査
+- [ ] [ENEOSCHIBA-125](https://vqit.backlog.com/view/ENEOSCHIBA-125) 千葉本番環境作成
+- [ ] [ENEOSCHIBA-108](https://vqit.backlog.com/view/ENEOSCHIBA-108) 千葉：マルチアプリケーションデプロイ時のsidekiq指定
+- [ ] [ENEOS_SPM_OOITA-109](https://vqit.backlog.com/view/ENEOS_SPM_OOITA-109) 大分 ログイン画面 パスワード再発行画面 本登録メールを再送できるようにする ※千葉流用
+- [ ] [ENEOS_SPM_OOITA-101](https://vqit.backlog.com/view/ENEOS_SPM_OOITA-101) 大分本番環境構築
+- [ ] [ENEOS_SPM_NEGISHI-123](https://vqit.backlog.com/view/ENEOS_SPM_NEGISHI-123) 根岸 ログイン画面 パスワード再発行画面 本登録メールを再送できるようにする ※千葉流用
+- [ ] AL2 EOLのスケジュール提出
+
+---
+
+# 1/05(金)
+## 通常作業
+- 500アラートメール確認
+	- [ ] 出社後
+	- [ ] お昼
+	- [ ] 夕方
+## 差し込みタスク
+
+## 優先事項
 - [ ] [ENEOS_SPM_NEGISHI-105](https://vqit.backlog.com/view/ENEOS_SPM_NEGISHI-105) 根岸 ネットワーク接続エラー対応 ※堺流用
 - [ ] [ENEOSCHIBA-184](https://vqit.backlog.com/view/ENEOSCHIBA-184) 千葉 STGのPLOT図を本番へまるっと移行
 - [ ] メモリ使用率アラートの調査
