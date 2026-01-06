@@ -5553,7 +5553,7 @@ API集計
 ## 優先事項
 - [ ] [ENEOS_SPM_NEGISHI-105](https://vqit.backlog.com/view/ENEOS_SPM_NEGISHI-105) 根岸 ネットワーク接続エラー対応 ※堺流用
 - [ ] [ENEOSCHIBA-184](https://vqit.backlog.com/view/ENEOSCHIBA-184) 千葉 STGのPLOT図を本番へまるっと移行
-- [ ] メモリ使用率アラートの調査
+- [x] メモリ使用率アラートの調査
 - [ ] 鹿島SlowQuery調査
 ## 変動作業
 - [ ] GithubActionsの導入
