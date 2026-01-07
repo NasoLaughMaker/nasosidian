@@ -5579,14 +5579,14 @@ API集計
 - 500アラートメール確認
 	- [x] 出社後
 	- [x] お昼
-	- [ ] 夕方
+	- [x] 夕方
 ## 差し込みタスク
 - [ ] 水島本番反映
 
 ## 優先事項
 - [ ] [ENEOSCHIBA-54](https://vqit.backlog.com/view/ENEOSCHIBA-54) 千葉：Datadog Organization移行
 - [ ] [ENEOS_SPM_OOITA-72](https://vqit.backlog.com/view/ENEOS_SPM_OOITA-72) 大分：Datadog Organization設定
-- [ ] [ENEOS_SPM_NEGISHI-105](https://vqit.backlog.com/view/ENEOS_SPM_NEGISHI-105) 根岸 ネットワーク接続エラー対応 ※堺流用
+- [x] [ENEOS_SPM_NEGISHI-105](https://vqit.backlog.com/view/ENEOS_SPM_NEGISHI-105) 根岸 ネットワーク接続エラー対応 ※堺流用
 - [ ] [ENEOSCHIBA-184](https://vqit.backlog.com/view/ENEOSCHIBA-184) 千葉 STGのPLOT図を本番へまるっと移行
 - [ ] 鹿島SlowQuery調査
 ## 変動作業
