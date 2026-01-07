@@ -5510,7 +5510,7 @@ API集計
 
 ---
 
-# 1/05(金)
+# 1/05(月)
 ## 通常作業
 - 500アラートメール確認
 	- [x] 出社後
@@ -5542,18 +5542,23 @@ API集計
 
 ---
 
-# 1/05(金)
+# 1/06(火)
 ## 通常作業
 - 500アラートメール確認
 	- [x] 出社後
 	- [x] お昼
 	- [x] 夕方
 ## 差し込みタスク
+- [x] [ENEOS_KAWASAKI-1177](https://vqit.backlog.com/view/ENEOS_KAWASAKI-1177) 【本番】【ENEOS川崎】【500エラー】I画面：マスタが変更されている過去の許可証をコピーした際に発生するエラー
+- [x] [ENEOS_SPM_MARIFU-390](https://vqit.backlog.com/view/ENEOS_SPM_MARIFU-390) 【本番】【ENEOS麻里布】【500エラー】E画面：バッチによる絞り込みをしている状態のURLを、別タブや別ウィンドウにコピペしてE画面を開いた際に発生するエラー
+- [ ] 
 
 ## 優先事項
+- [ ] [ENEOSCHIBA-54](https://vqit.backlog.com/view/ENEOSCHIBA-54) 千葉：Datadog Organization移行
+- [ ] [ENEOS_SPM_OOITA-72](https://vqit.backlog.com/view/ENEOS_SPM_OOITA-72) 大分：Datadog Organization設定
 - [ ] [ENEOS_SPM_NEGISHI-105](https://vqit.backlog.com/view/ENEOS_SPM_NEGISHI-105) 根岸 ネットワーク接続エラー対応 ※堺流用
 - [ ] [ENEOSCHIBA-184](https://vqit.backlog.com/view/ENEOSCHIBA-184) 千葉 STGのPLOT図を本番へまるっと移行
-- [x] メモリ使用率アラートの調査
+- [x] [SPM_INFRA-13](https://vqit.backlog.com/view/SPM_INFRA-13) メモリ使用率とアラート閾値の妥当性についての検討
 - [ ] 鹿島SlowQuery調査
 ## 変動作業
 - [ ] GithubActionsの導入
@@ -5569,18 +5574,19 @@ API集計
 
 ---
 
-# 1/05(金)
+# 1/07(水)
 ## 通常作業
 - 500アラートメール確認
-	- [x] 出社後
-	- [x] お昼
-	- [x] 夕方
+	- [ ] 出社後
+	- [ ] お昼
+	- [ ] 夕方
 ## 差し込みタスク
 
 ## 優先事項
+- [ ] [ENEOSCHIBA-54](https://vqit.backlog.com/view/ENEOSCHIBA-54) 千葉：Datadog Organization移行
+- [ ] [ENEOS_SPM_OOITA-72](https://vqit.backlog.com/view/ENEOS_SPM_OOITA-72) 大分：Datadog Organization設定
 - [ ] [ENEOS_SPM_NEGISHI-105](https://vqit.backlog.com/view/ENEOS_SPM_NEGISHI-105) 根岸 ネットワーク接続エラー対応 ※堺流用
 - [ ] [ENEOSCHIBA-184](https://vqit.backlog.com/view/ENEOSCHIBA-184) 千葉 STGのPLOT図を本番へまるっと移行
-- [x] メモリ使用率アラートの調査
 - [ ] 鹿島SlowQuery調査
 ## 変動作業
 - [ ] GithubActionsの導入
