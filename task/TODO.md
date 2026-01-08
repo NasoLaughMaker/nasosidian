@@ -5615,6 +5615,7 @@ API集計
 - [ ] [ENEOSCHIBA-54](https://vqit.backlog.com/view/ENEOSCHIBA-54) 千葉：Datadog Organization移行
 - [ ] [ENEOS_SPM_OOITA-72](https://vqit.backlog.com/view/ENEOS_SPM_OOITA-72) 大分：Datadog Organization設定
 - [ ] [ENEOSCHIBA-184](https://vqit.backlog.com/view/ENEOSCHIBA-184) 千葉 STGのPLOT図を本番へまるっと移行
+- [ ] [ENEOS_SPM_OOITA-111](https://vqit.backlog.com/view/ENEOS_SPM_OOITA-111) 大分 STGのPLOT図を本番にコピー
 - [ ] 鹿島SlowQuery調査
 ## 変動作業
 - [ ] GithubActionsの導入
