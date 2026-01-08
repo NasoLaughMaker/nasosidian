@@ -5600,3 +5600,30 @@ API集計
 - [ ] [ENEOS_SPM_OOITA-101](https://vqit.backlog.com/view/ENEOS_SPM_OOITA-101) 大分本番環境構築
 - [ ] [ENEOS_SPM_NEGISHI-123](https://vqit.backlog.com/view/ENEOS_SPM_NEGISHI-123) 根岸 ログイン画面 パスワード再発行画面 本登録メールを再送できるようにする ※千葉流用
 - [ ] AL2 EOLのスケジュール提出
+
+---
+
+# 1/08(木)
+## 通常作業
+- 500アラートメール確認
+	- [ ] 出社後
+	- [ ] お昼
+	- [ ] 夕方
+## 差し込みタスク
+
+## 優先事項
+- [ ] [ENEOSCHIBA-54](https://vqit.backlog.com/view/ENEOSCHIBA-54) 千葉：Datadog Organization移行
+- [ ] [ENEOS_SPM_OOITA-72](https://vqit.backlog.com/view/ENEOS_SPM_OOITA-72) 大分：Datadog Organization設定
+- [ ] [ENEOSCHIBA-184](https://vqit.backlog.com/view/ENEOSCHIBA-184) 千葉 STGのPLOT図を本番へまるっと移行
+- [ ] 鹿島SlowQuery調査
+## 変動作業
+- [ ] GithubActionsの導入
+## 明日以降
+- [ ] 環境変数シート更新
+- [ ] wardenの調査
+- [ ] [ENEOSCHIBA-125](https://vqit.backlog.com/view/ENEOSCHIBA-125) 千葉本番環境作成
+- [ ] [ENEOSCHIBA-108](https://vqit.backlog.com/view/ENEOSCHIBA-108) 千葉：マルチアプリケーションデプロイ時のsidekiq指定
+- [ ] [ENEOS_SPM_OOITA-109](https://vqit.backlog.com/view/ENEOS_SPM_OOITA-109) 大分 ログイン画面 パスワード再発行画面 本登録メールを再送できるようにする ※千葉流用
+- [ ] [ENEOS_SPM_OOITA-101](https://vqit.backlog.com/view/ENEOS_SPM_OOITA-101) 大分本番環境構築
+- [ ] [ENEOS_SPM_NEGISHI-123](https://vqit.backlog.com/view/ENEOS_SPM_NEGISHI-123) 根岸 ログイン画面 パスワード再発行画面 本登録メールを再送できるようにする ※千葉流用
+- [ ] AL2 EOLのスケジュール提出
