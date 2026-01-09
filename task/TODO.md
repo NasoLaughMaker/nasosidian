@@ -5551,7 +5551,6 @@ API集計
 ## 差し込みタスク
 - [x] [ENEOS_KAWASAKI-1177](https://vqit.backlog.com/view/ENEOS_KAWASAKI-1177) 【本番】【ENEOS川崎】【500エラー】I画面：マスタが変更されている過去の許可証をコピーした際に発生するエラー
 - [x] [ENEOS_SPM_MARIFU-390](https://vqit.backlog.com/view/ENEOS_SPM_MARIFU-390) 【本番】【ENEOS麻里布】【500エラー】E画面：バッチによる絞り込みをしている状態のURLを、別タブや別ウィンドウにコピペしてE画面を開いた際に発生するエラー
-- [ ] 
 
 ## 優先事項
 - [ ] [ENEOSCHIBA-54](https://vqit.backlog.com/view/ENEOSCHIBA-54) 千葉：Datadog Organization移行
