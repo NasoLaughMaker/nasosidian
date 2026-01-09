@@ -24,6 +24,20 @@
             }
           },
           {
+            "id": "e9bfbe681686e497",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "S3復旧作業メモ.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "S3復旧作業メモ"
+            }
+          },
+          {
             "id": "585d53d759ad55b4",
             "type": "leaf",
             "pinned": true,
@@ -53,7 +67,8 @@
               "title": "1225 ENEOS_SPM_OOITA-109 大分 ログイン画面 パスワード再発行画面 本登録メールを再送できるようにする ※千葉流用"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -214,11 +229,12 @@
       "command-palette:コマンドパレットを開く": false
     }
   },
-  "active": "da04bc3e138ed72b",
+  "active": "e9bfbe681686e497",
   "lastOpenFiles": [
+    "task/TODO.md",
+    "S3復旧作業メモ.md",
     "task/0116 大分本番反映/1225 ENEOS_SPM_OOITA-109 大分 ログイン画面 パスワード再発行画面 本登録メールを再送できるようにする ※千葉流用.md",
     "task/0109 千葉本番反映/1225 ENEOSCHIBA-182 千葉 ログイン画面 パスワード再発行画面 本登録メールを再送できるようにする.md",
-    "task/TODO.md",
     "AWS/Serviceメモ.md",
     "task/0725 Resiaラベリング対応.md",
     "task/0128 水島本番反映/1225 ENEOS_SPM_MIZUSHIMA-589 【SlowQuery】B画面：工事箇所の仕様 > 機器のプルダウンで発行されるSQL v2.md",
@@ -249,7 +265,6 @@
     "valqua/6_16 SPM訪問.md",
     "valqua/請求・納品・見積.md",
     "task/0919 SPM_INFRA-3 【Datadog】APMサービス名の変更とタグの付与.md",
-    "task/0925 ENEOS_KAWASAKI-959 【本番】【ENEOS川崎】【500エラー】ファイルサイズが0Bの画像をアップロードした際に発生するエラー.md",
     "task/archive/1224 鹿島本番反映",
     "task/archive/1223 麻里布本番反映",
     "task/archive/1127 麻里布本番反映",
