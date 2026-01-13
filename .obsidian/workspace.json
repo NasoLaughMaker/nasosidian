@@ -24,6 +24,18 @@
             }
           },
           {
+            "id": "79c6910c7d2931fb",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.11.4"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.11.4"
+            }
+          },
+          {
             "id": "e9bfbe681686e497",
             "type": "leaf",
             "state": {
@@ -67,7 +79,8 @@
               "title": "1225 ENEOS_SPM_OOITA-109 大分 ログイン画面 パスワード再発行画面 本登録メールを再送できるようにする ※千葉流用"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -228,7 +241,7 @@
       "command-palette:コマンドパレットを開く": false
     }
   },
-  "active": "f56c7c2469b0eec7",
+  "active": "79c6910c7d2931fb",
   "lastOpenFiles": [
     "S3復旧作業メモ.md",
     "task/TODO.md",
