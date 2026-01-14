@@ -5691,6 +5691,7 @@ API集計
 	- [ ] お昼
 	- [ ] 夕方
 ## 差し込みタスク
+- [x] [ENEOS_SPM_MIZUSHIMA-765](https://vqit.backlog.com/view/ENEOS_SPM_MIZUSHIMA-765) 【本番】【ENEOS水島】【500エラー】HOME：ホーム画面への遷移と同時に別ユーザーが承認情報を更新したことで、TODO取得のロジックでデータ不整合が起き発生するエラー
 
 ## 優先事項
 - [ ] アプリケーションログの共有
