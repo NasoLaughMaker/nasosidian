@@ -5680,3 +5680,28 @@ API集計
 - [ ] [ENEOSCHIBA-108](https://vqit.backlog.com/view/ENEOSCHIBA-108) 千葉：マルチアプリケーションデプロイ時のsidekiq指定
 - [ ] [ENEOS_SPM_OOITA-101](https://vqit.backlog.com/view/ENEOS_SPM_OOITA-101) 大分本番環境構築
 - [ ] AL2 EOLのスケジュール提出
+
+---
+
+# 1/14(水)
+## 通常作業
+- 500アラートメール確認
+	- [ ] 出社後
+	- [ ] お昼
+	- [ ] 夕方
+## 差し込みタスク
+
+## 優先事項
+- [ ] アプリケーションログの共有
+- [ ] 保管すべきログの一覧提出
+- [ ] 鹿島SlowQuery調査
+- [ ] rake管理ドキュメントの作成
+## 変動作業
+- [ ] GithubActionsの導入
+## 明日以降
+- [ ] 環境変数シート更新
+- [ ] wardenの調査
+- [ ] [ENEOSCHIBA-125](https://vqit.backlog.com/view/ENEOSCHIBA-125) 千葉本番環境作成
+- [ ] [ENEOSCHIBA-108](https://vqit.backlog.com/view/ENEOSCHIBA-108) 千葉：マルチアプリケーションデプロイ時のsidekiq指定
+- [ ] [ENEOS_SPM_OOITA-101](https://vqit.backlog.com/view/ENEOS_SPM_OOITA-101) 大分本番環境構築
+- [ ] AL2 EOLのスケジュール提出
