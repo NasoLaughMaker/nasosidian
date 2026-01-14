@@ -5693,12 +5693,13 @@ API集計
 ## 差し込みタスク
 - [x] [ENEOS_SPM_MIZUSHIMA-765](https://vqit.backlog.com/view/ENEOS_SPM_MIZUSHIMA-765) 【本番】【ENEOS水島】【500エラー】HOME：ホーム画面への遷移と同時に別ユーザーが承認情報を更新したことで、TODO取得のロジックでデータ不整合が起き発生するエラー
 - [x] [ENEOS_KAWASAKI-1249](https://vqit.backlog.com/view/ENEOS_KAWASAKI-1249) 【本番】【ENEOS川崎】【500エラー】I画面：許可証印刷の実行時に発生するタイムアウトエラー
+- [ ] https://beeb-jp.slack.com/archives/C07T3EB8DMG/p1768391823247869?thread_ts=1767760640.020369&cid=C07T3EB8DMG 調査
 
 ## 優先事項
 - [ ] アプリケーションログの共有
 - [ ] 保管すべきログの一覧提出
 - [ ] 鹿島SlowQuery調査
-- [ ] rake管理ドキュメントの作成
+- [x] rake管理ドキュメントの作成
 ## 変動作業
 - [ ] GithubActionsの導入
 ## 明日以降
