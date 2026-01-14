@@ -5637,6 +5637,7 @@ API集計
 	- [ ] お昼
 	- [ ] 夕方
 ## 差し込みタスク
+- [x] [SPM_INFRA-14](https://vqit.backlog.com/view/SPM_INFRA-14) 川崎エラー：S3オブジェクト復旧作業
 
 ## 優先事項
 - [ ] アプリケーションログの共有
@@ -5676,7 +5677,7 @@ API集計
 ## 明日以降
 - [ ] 環境変数シート更新
 - [ ] wardenの調査
-- [ ] [ENEOSCHIBA-125](https://vqit.backlog.com/view/ENEOSCHIBA-125) 千葉本番環境作成
+- [x] [ENEOSCHIBA-125](https://vqit.backlog.com/view/ENEOSCHIBA-125) 千葉本番環境作成
 - [ ] [ENEOSCHIBA-108](https://vqit.backlog.com/view/ENEOSCHIBA-108) 千葉：マルチアプリケーションデプロイ時のsidekiq指定
 - [ ] [ENEOS_SPM_OOITA-101](https://vqit.backlog.com/view/ENEOS_SPM_OOITA-101) 大分本番環境構築
 - [ ] AL2 EOLのスケジュール提出
@@ -5701,7 +5702,5 @@ API集計
 ## 明日以降
 - [ ] 環境変数シート更新
 - [ ] wardenの調査
-- [ ] [ENEOSCHIBA-125](https://vqit.backlog.com/view/ENEOSCHIBA-125) 千葉本番環境作成
-- [ ] [ENEOSCHIBA-108](https://vqit.backlog.com/view/ENEOSCHIBA-108) 千葉：マルチアプリケーションデプロイ時のsidekiq指定
 - [ ] [ENEOS_SPM_OOITA-101](https://vqit.backlog.com/view/ENEOS_SPM_OOITA-101) 大分本番環境構築
 - [ ] AL2 EOLのスケジュール提出
