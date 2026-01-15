@@ -5707,3 +5707,27 @@ API集計
 - [ ] wardenの調査
 - [ ] [ENEOS_SPM_OOITA-101](https://vqit.backlog.com/view/ENEOS_SPM_OOITA-101) 大分本番環境構築
 - [ ] AL2 EOLのスケジュール提出
+
+---
+
+# 1/15(木)
+## 通常作業
+- 500アラートメール確認
+	- [ ] 出社後
+	- [ ] お昼
+	- [ ] 夕方
+## 差し込みタスク
+- [x] https://beeb-jp.slack.com/archives/C07T3EB8DMG/p1768391823247869?thread_ts=1767760640.020369&cid=C07T3EB8DMG 調査
+	- 松本さんが対応し完了
+
+## 優先事項
+- [ ] アプリケーションログの共有
+- [ ] 保管すべきログの一覧提出
+- [ ] 鹿島SlowQuery調査
+## 変動作業
+- [ ] GithubActionsの導入
+## 明日以降
+- [ ] 環境変数シート更新
+- [ ] wardenの調査
+- [ ] [ENEOS_SPM_OOITA-101](https://vqit.backlog.com/view/ENEOS_SPM_OOITA-101) 大分本番環境構築
+- [ ] AL2 EOLのスケジュール提出
