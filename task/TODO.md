@@ -5714,7 +5714,7 @@ API集計
 ## 通常作業
 - 500アラートメール確認
 	- [x] 出社後
-	- [ ] お昼
+	- [x] お昼
 	- [ ] 夕方
 ## 差し込みタスク
 - [x] https://beeb-jp.slack.com/archives/C07T3EB8DMG/p1768391823247869?thread_ts=1767760640.020369&cid=C07T3EB8DMG 調査
