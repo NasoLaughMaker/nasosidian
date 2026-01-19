@@ -5769,6 +5769,8 @@ API集計
 
 ## 優先事項
 - [ ] セキュリティ対応のスケジュール出し
+- [x] sshの区分提出
+- [ ] 情報機器取扱の調査
 - [ ] アプリケーションログの共有
 - [ ] 鹿島SlowQuery調査
 ## 変動作業
@@ -5776,5 +5778,5 @@ API集計
 ## 明日以降
 - [ ] 環境変数シート更新
 - [ ] wardenの調査
-- [ ] [ENEOS_SPM_OOITA-101](https://vqit.backlog.com/view/ENEOS_SPM_OOITA-101) 大分本番環境構築
+- [x] [ENEOS_SPM_OOITA-101](https://vqit.backlog.com/view/ENEOS_SPM_OOITA-101) 大分本番環境構築
 - [ ] AL2 EOLのスケジュール提出
