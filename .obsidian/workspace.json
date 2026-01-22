@@ -24,6 +24,18 @@
             }
           },
           {
+            "id": "600c8ff3304f6af2",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.11.5"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.11.5"
+            }
+          },
+          {
             "id": "585d53d759ad55b4",
             "type": "leaf",
             "pinned": true,
@@ -39,7 +51,8 @@
               "title": "Serviceメモ"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -200,7 +213,7 @@
       "command-palette:コマンドパレットを開く": false
     }
   },
-  "active": "f56c7c2469b0eec7",
+  "active": "600c8ff3304f6af2",
   "lastOpenFiles": [
     "AWS/Serviceメモ.md",
     "task/0116 大分本番反映/1225 ENEOS_SPM_OOITA-109 大分 ログイン画面 パスワード再発行画面 本登録メールを再送できるようにする ※千葉流用.md",
