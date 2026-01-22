@@ -39,8 +39,7 @@
               "title": "Serviceメモ"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -201,7 +200,7 @@
       "command-palette:コマンドパレットを開く": false
     }
   },
-  "active": "585d53d759ad55b4",
+  "active": "f56c7c2469b0eec7",
   "lastOpenFiles": [
     "AWS/Serviceメモ.md",
     "task/0116 大分本番反映/1225 ENEOS_SPM_OOITA-109 大分 ログイン画面 パスワード再発行画面 本登録メールを再送できるようにする ※千葉流用.md",
