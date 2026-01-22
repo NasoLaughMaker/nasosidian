@@ -38,8 +38,37 @@
               "icon": "lucide-file",
               "title": "Serviceメモ"
             }
+          },
+          {
+            "id": "88eaee4360d78467",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "task/archive/当日工事完了の列削除対応.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "当日工事完了の列削除対応"
+            }
+          },
+          {
+            "id": "5fb16e9fd3c44481",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "作業細分化・スケジュール出し.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "作業細分化・スケジュール出し"
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -200,45 +229,45 @@
       "command-palette:コマンドパレットを開く": false
     }
   },
-  "active": "f56c7c2469b0eec7",
+  "active": "5fb16e9fd3c44481",
   "lastOpenFiles": [
+    "task/archive/当日工事完了の列削除対応.md",
+    "作業細分化・スケジュール出し.md",
+    "セキュリティ対応",
+    "task/TODO.md",
+    "task/1030 ENEOS_SPM_KASHIMA-597 【本番】【ENEOS鹿島】【500エラー】E画面：別ユーザーが許可証を削除したと同時にE画面を開くと、一時的なデータ不備によりエラーが発生.md",
+    "task/1017 warden エラー.md",
+    "task/1010 HOME画面遷移時に発生する500エラー.md",
+    "task/1007 permitsエラーの調査.md",
+    "task/0929 ログ設定まとめ.md",
+    "task/0925 ENEOS_KAWASAKI-959 【本番】【ENEOS川崎】【500エラー】ファイルサイズが0Bの画像をアップロードした際に発生するエラー.md",
+    "task/0919 SPM_INFRA-3 【Datadog】APMサービス名の変更とタグの付与.md",
     "AWS/Serviceメモ.md",
-    "task/0116 大分本番反映/1225 ENEOS_SPM_OOITA-109 大分 ログイン画面 パスワード再発行画面 本登録メールを再送できるようにする ※千葉流用.md",
+    "task/archive/0116 大分本番反映/1225 ENEOS_SPM_OOITA-109 大分 ログイン画面 パスワード再発行画面 本登録メールを再送できるようにする ※千葉流用.md",
     "conflict-files-obsidian-git.md",
     "S3復旧作業メモ.md",
     "task/週次定例/0109 千葉本番反映/1225 ENEOSCHIBA-182 千葉 ログイン画面 パスワード再発行画面 本登録メールを再送できるようにする.md",
     "task/週次定例/0109 千葉本番反映",
     "task/archive/S3復旧作業メモ.md",
     "川野さんからMTG.md",
-    "task/TODO.md",
     "task/0109 千葉本番反映/1225 ENEOSCHIBA-182 千葉 ログイン画面 パスワード再発行画面 本登録メールを再送できるようにする.md",
     "task/0725 Resiaラベリング対応.md",
     "task/0128 水島本番反映/1225 ENEOS_SPM_MIZUSHIMA-589 【SlowQuery】B画面：工事箇所の仕様 > 機器のプルダウンで発行されるSQL v2.md",
     "task/0127 鹿島本番反映/1225 ENEOS_SPM_KASHIMA-612 鹿島 B 不具合情報 > 請求内容 工事内容 改行されるようにする.md",
     "task/0127 鹿島本番反映/1225 ENEOS_SPM_KASHIMA-447 鹿島 E,F画面 作業完了報告時にファイルの添付機能※堺では実装.md",
     "task/0126 麻里布本番反映/1225 ENEOS_SPM_MARIFU-436 麻里布 リンク機能追加 ※鹿島流用.md",
-    "task/01 根岸本番反映/1225 ENEOS_SPM_NEGISHI-123 根岸 ログイン画面 パスワード再発行画面 本登録メールを再送できるようにする ※千葉流用.md",
-    "task/01 根岸本番反映/1225 ENEOS_SPM_NEGISHI-105 根岸 ネットワーク接続エラー対応 ※堺流用.md",
+    "task/archive/01 根岸本番反映/1225 ENEOS_SPM_NEGISHI-123 根岸 ログイン画面 パスワード再発行画面 本登録メールを再送できるようにする ※千葉流用.md",
+    "task/archive/01 根岸本番反映/1225 ENEOS_SPM_NEGISHI-105 根岸 ネットワーク接続エラー対応 ※堺流用.md",
     "knowledge/機械学習/正則化.md",
-    "knowledge/機械学習/回帰分析.md",
     "knowledge/機械学習/クラスタリング.avif",
-    "knowledge/機械学習/アルゴリズム.md",
     "knowledge/機械学習",
-    "task/0128 水島本番反映/1225 ENEOS_SPM_MIZUSHIMA-714 【本番】【ENEOS水島】【500エラー】システム管理 > お知らせ：セッションが切れた状態でお知らせの作成をできてしまうことで発生するエラー.md",
     "task/0128 水島本番反映",
-    "task/01 根岸本番反映",
-    "task/0116 大分本番反映",
+    "task/archive/01 根岸本番反映",
+    "task/archive/0116 大分本番反映",
     "task/0109 千葉本番反映",
     "task/0126 麻里布本番反映",
     "task/0127 鹿島本番反映",
-    "valqua/共通.md",
-    "valqua/障害発生.md",
-    "valqua/議事録・メモ.md",
-    "valqua/データ修正.md",
-    "valqua/エラー調査.md",
-    "valqua/ENEOS-SPM 画面・DBメモ.md",
     "task/archive/1224 鹿島本番反映",
-    "task/archive/1223 麻里布本番反映",
     "AWS/Services/CloudFormation 1e9817a83f5b80b696ebe4e00a9ee145/スクリーンショット_2025-07-20_16.34.06.png",
     "AWS/Services/CloudTrail_event.png",
     "12778374-908c-4d44-b1e8-b56fd2bca6b1_Export-5e2471c8-4afd-4b68-9812-7f5b0e1f7634/CFL & SAA & SAP 14e817a83f5b80a4b6f8f65dc603b113/CloudTrail 1ab817a83f5b80f98b54f590b267a8fd/スクリーンショット_2025-07-23_0.33.45.png",
