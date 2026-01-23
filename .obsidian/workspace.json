@@ -53,8 +53,7 @@
               "title": "作業細分化・スケジュール出し"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -216,11 +215,11 @@
       "command-palette:コマンドパレットを開く": false
     }
   },
-  "active": "61eb053f906072e2",
+  "active": "f56c7c2469b0eec7",
   "lastOpenFiles": [
+    "作業細分化・スケジュール出し.md",
     "task/TODO.md",
     "AWS/Serviceメモ.md",
-    "作業細分化・スケジュール出し.md",
     "task/archive/当日工事完了の列削除対応.md",
     "task/archive/0116 大分本番反映/1225 ENEOS_SPM_OOITA-109 大分 ログイン画面 パスワード再発行画面 本登録メールを再送できるようにする ※千葉流用.md",
     "task/archive/0116 大分本番反映",
