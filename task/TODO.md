@@ -5950,10 +5950,11 @@ API集計
 	- [x] ZAC
 - [ ] 平井さんBee2Bアカウント共有
 	- [x] 1Password
-	- [x] Github
+	- [ ] Github
+		- [ ] リポジトリ入れない
 	- [x] google workspace
 	- [x] nulab
-	- [ ] sentry
+	- [x] sentry
 	- [x] slack
 - [ ] 
 
