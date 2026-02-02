@@ -5949,12 +5949,12 @@ API集計
 - [ ] 月末処理
 	- [x] ZAC
 - [ ] 平井さんBee2Bアカウント共有
-	- [ ] 1Password
-	- [ ] Github
-	- [ ] google workspace
-	- [ ] nulab
+	- [x] 1Password
+	- [x] Github
+	- [x] google workspace
+	- [x] nulab
 	- [ ] sentry
-	- [ ] slack
+	- [x] slack
 - [ ] 
 
 ## 変動作業
