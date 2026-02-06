@@ -45,12 +45,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "knowledge/機械学習/アルゴリズム.md",
+                "file": "knowledge/機械学習/正則化.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "アルゴリズム"
+              "title": "正則化"
             }
           }
         ],
@@ -217,8 +217,11 @@
   },
   "active": "c211242da344f2bf",
   "lastOpenFiles": [
+    "knowledge/機械学習/回帰分析.md",
     "knowledge/機械学習/クラスタリング.avif",
     "knowledge/機械学習/アルゴリズム.md",
+    "退寮について.md",
+    "knowledge/機械学習/正則化.md",
     "AWS/Serviceメモ.md",
     "conflict-files-obsidian-git.md",
     "terraform/坪井さんから共有.md",
@@ -234,7 +237,6 @@
     "task/archive/0127 鹿島本番反映",
     "task/archive/0126 麻里布本番反映/1225 ENEOS_SPM_MARIFU-436 麻里布 リンク機能追加 ※鹿島流用.md",
     "task/archive/0126 麻里布本番反映",
-    "退寮について.md",
     "作業細分化・スケジュール出し.md",
     "task/archive/当日工事完了の列削除対応.md",
     "task/archive/0116 大分本番反映/1225 ENEOS_SPM_OOITA-109 大分 ログイン画面 パスワード再発行画面 本登録メールを再送できるようにする ※千葉流用.md",
@@ -249,8 +251,6 @@
     "task/archive/S3復旧作業メモ.md",
     "川野さんからMTG.md",
     "task/TODO.md",
-    "task/0109 千葉本番反映/1225 ENEOSCHIBA-182 千葉 ログイン画面 パスワード再発行画面 本登録メールを再送できるようにする.md",
-    "task/0725 Resiaラベリング対応.md",
     "knowledge/機械学習",
     "task/0128 水島本番反映",
     "AWS/Services/CloudFormation 1e9817a83f5b80b696ebe4e00a9ee145/スクリーンショット_2025-07-20_16.34.06.png",
