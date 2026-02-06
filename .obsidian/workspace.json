@@ -45,12 +45,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "knowledge/機械学習/正則化.md",
+                "file": "knowledge/機械学習/アルゴリズム.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "正則化"
+              "title": "アルゴリズム"
             }
           }
         ],
@@ -217,17 +217,19 @@
   },
   "active": "c211242da344f2bf",
   "lastOpenFiles": [
-    "knowledge/機械学習/回帰分析.md",
-    "knowledge/機械学習/クラスタリング.avif",
-    "knowledge/機械学習/アルゴリズム.md",
+    "knowledge/ssh接続.md",
+    "セキュリティ対応/作業細分化・スケジュール出し.md",
     "退寮について.md",
+    "knowledge/0724 datadogウェビナー.md",
+    "knowledge/機械学習/アルゴリズム.md",
+    "knowledge/機械学習/クラスタリング.avif",
+    "knowledge/機械学習/回帰分析.md",
     "knowledge/機械学習/正則化.md",
     "AWS/Serviceメモ.md",
     "conflict-files-obsidian-git.md",
     "terraform/坪井さんから共有.md",
     "terraform",
     "セキュリティ対応/日次で話すこと.md",
-    "セキュリティ対応/作業細分化・スケジュール出し.md",
     "セキュリティ対応",
     "task/archive/0128 水島本番反映/1225 ENEOS_SPM_MIZUSHIMA-714 【本番】【ENEOS水島】【500エラー】システム管理 > お知らせ：セッションが切れた状態でお知らせの作成をできてしまうことで発生するエラー.md",
     "task/archive/0128 水島本番反映/1225 ENEOS_SPM_MIZUSHIMA-589 【SlowQuery】B画面：工事箇所の仕様 > 機器のプルダウンで発行されるSQL v2.md",
@@ -250,7 +252,6 @@
     "task/週次定例/0109 千葉本番反映",
     "task/archive/S3復旧作業メモ.md",
     "川野さんからMTG.md",
-    "task/TODO.md",
     "knowledge/機械学習",
     "task/0128 水島本番反映",
     "AWS/Services/CloudFormation 1e9817a83f5b80b696ebe4e00a9ee145/スクリーンショット_2025-07-20_16.34.06.png",
