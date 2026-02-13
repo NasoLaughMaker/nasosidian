@@ -43,14 +43,12 @@
             "id": "c211242da344f2bf",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "knowledge/機械学習/正則化.md",
-                "mode": "source",
-                "source": false
+                "file": "knowledge/機械学習/クラスタリング.avif"
               },
-              "icon": "lucide-file",
-              "title": "正則化"
+              "icon": "lucide-image",
+              "title": "クラスタリング"
             }
           }
         ],
@@ -217,10 +215,10 @@
   },
   "active": "c211242da344f2bf",
   "lastOpenFiles": [
-    "knowledge/機械学習/クラスタリング.avif",
     "knowledge/機械学習/回帰分析.md",
-    "knowledge/機械学習/アルゴリズム.md",
     "knowledge/機械学習/正則化.md",
+    "knowledge/機械学習/クラスタリング.avif",
+    "knowledge/機械学習/アルゴリズム.md",
     "knowledge/ssh接続.md",
     "セキュリティ対応/作業細分化・スケジュール出し.md",
     "退寮について.md",
